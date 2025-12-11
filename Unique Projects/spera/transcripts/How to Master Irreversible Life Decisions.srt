@@ -1,0 +1,1500 @@
+1
+00:00:00,000 --> 00:00:01,379
+OK, let's unpack this.
+
+2
+00:00:01,780 --> 00:00:04,099
+Think about the biggest decision you're facing right now.
+
+3
+00:00:04,459 --> 00:00:07,179
+Maybe it's a career shift, a huge investment, maybe
+
+4
+00:00:07,179 --> 00:00:09,060
+a commitment that changes your whole life.
+
+5
+00:00:09,460 --> 00:00:12,220
+When the pressure is on, what's the advice we always hear?
+
+6
+00:00:12,380 --> 00:00:13,039
+Trust your gut.
+
+7
+00:00:13,339 --> 00:00:14,060
+Be decisive.
+
+8
+00:00:14,779 --> 00:00:16,960
+We celebrate that quick flash judgment.
+
+9
+00:00:17,079 --> 00:00:18,940
+But here's the pension we need to explore.
+
+10
+00:00:19,579 --> 00:00:21,780
+What if the most important choices,
+
+11
+00:00:22,000 --> 00:00:25,760
+the ones that last for years, are the ones your gut is least
+
+12
+00:00:25,760 --> 00:00:26,879
+equipped to handle?
+
+13
+00:00:26,879 --> 00:00:30,239
+That is the absolute center of our deep dive today.
+
+14
+00:00:30,679 --> 00:00:32,420
+Our mission here is to understand
+
+15
+00:00:32,420 --> 00:00:35,439
+the craft of making what we'll call farsighted choices.
+
+16
+00:00:35,859 --> 00:00:38,060
+We're talking about decisions whose consequences might not
+
+17
+00:00:38,060 --> 00:00:41,399
+be felt for a decade or maybe even a century.
+
+18
+00:00:41,679 --> 00:00:44,039
+We're pulling from Steven Johnson's work in Farsighted,
+
+19
+00:00:44,060 --> 00:00:45,700
+some executive frameworks from Amazon.
+
+20
+00:00:45,939 --> 00:00:48,320
+And then we're going to ground it all in some fascinating
+
+21
+00:00:48,320 --> 00:00:51,179
+experimental data on how time pressure just completely
+
+22
+00:00:51,179 --> 00:00:52,240
+warps our sense of risk.
+
+23
+00:00:52,500 --> 00:00:54,979
+So you have these two forces pulling against each other.
+
+24
+00:00:54,979 --> 00:00:58,539
+On one side, you've got the slow, deliberate, heavy lifting
+
+25
+00:00:58,539 --> 00:01:01,479
+kind of analysis, what people call system two thinking.
+
+26
+00:01:01,979 --> 00:01:05,140
+And on the other, you have those automatic system one flash
+
+27
+00:01:05,140 --> 00:01:08,920
+judgments that are so, so celebrated in business culture.
+
+28
+00:01:09,700 --> 00:01:12,000
+Johnson's argument is that making a truly hard decision
+
+29
+00:01:12,000 --> 00:01:14,340
+is this strangely underappreciated skill.
+
+30
+00:01:14,540 --> 00:01:17,000
+And we almost always make the same mistake.
+
+31
+00:01:17,340 --> 00:01:19,819
+We apply the wrong speed to the wrong problem.
+
+32
+00:01:20,319 --> 00:01:20,400
+Exactly.
+
+33
+00:01:20,400 --> 00:01:22,260
+We live in a world that just valorizes speed.
+
+34
+00:01:22,260 --> 00:01:24,939
+But speed is only useful if the decision is reversible.
+
+35
+00:01:25,439 --> 00:01:27,000
+And if we connect this to the bigger picture,
+
+36
+00:01:27,260 --> 00:01:30,000
+the goal isn't to find some perfect, infallible algorithm
+
+37
+00:01:30,000 --> 00:01:30,819
+for making choices.
+
+38
+00:01:31,079 --> 00:01:31,980
+That doesn't exist.
+
+39
+00:01:32,420 --> 00:01:33,859
+The goal is to get a set of tools
+
+40
+00:01:33,859 --> 00:01:36,760
+that keeps us from making what Johnson calls stupid choices,
+
+41
+00:01:37,480 --> 00:01:39,540
+those catastrophic long-term blunders that
+
+42
+00:01:39,540 --> 00:01:41,560
+are born from rushing and just having a bad process.
+
+43
+00:01:41,939 --> 00:01:44,099
+And step one is just classification.
+
+44
+00:01:44,579 --> 00:01:46,620
+Which brings us right to this beautifully simple framework
+
+45
+00:01:46,620 --> 00:01:48,079
+from Jeff Bezos at Amazon.
+
+46
+00:01:48,459 --> 00:01:50,319
+And to get it, I just want you to visualize
+
+47
+00:01:50,319 --> 00:01:52,640
+walking into a building, maybe your own office,
+
+48
+00:01:52,959 --> 00:01:55,959
+and seeing that every single door is labeled either type one
+
+49
+00:01:55,959 --> 00:01:56,879
+or type two.
+
+50
+00:01:57,120 --> 00:01:59,579
+And that distinction is just so powerful
+
+51
+00:01:59,579 --> 00:02:03,319
+because it immediately tells you the speed and the resources,
+
+52
+00:02:03,439 --> 00:02:05,060
+the sheer amount of brainpower you
+
+53
+00:02:05,060 --> 00:02:07,700
+should use before you even start looking at the data.
+
+54
+00:02:07,859 --> 00:02:08,759
+It's a triage tool.
+
+55
+00:02:09,120 --> 00:02:10,560
+Let's start with the easy ones then.
+
+56
+00:02:10,680 --> 00:02:12,719
+Type two decisions, the two way doors.
+
+57
+00:02:12,939 --> 00:02:13,060
+Right.
+
+58
+00:02:13,080 --> 00:02:14,039
+The definition is simple.
+
+59
+00:02:14,159 --> 00:02:15,379
+They are low consequence.
+
+60
+00:02:15,659 --> 00:02:16,639
+And this is the key.
+
+61
+00:02:16,979 --> 00:02:17,620
+They're reversible.
+
+62
+00:02:18,180 --> 00:02:20,240
+If you walk through that door, you make the decision.
+
+63
+00:02:20,240 --> 00:02:22,639
+And you realize you don't like what's on the other side.
+
+64
+00:02:22,900 --> 00:02:24,620
+You can just turn around and walk back out.
+
+65
+00:02:25,360 --> 00:02:26,819
+Minimal recoverable damage.
+
+66
+00:02:27,240 --> 00:02:29,360
+And the advice Bezos gave on these is so clear.
+
+67
+00:02:29,680 --> 00:02:30,719
+Make them fast.
+
+68
+00:02:31,120 --> 00:02:33,099
+Push the authority down to junior teams.
+
+69
+00:02:33,759 --> 00:02:35,800
+And I love this part, except that you only
+
+70
+00:02:35,800 --> 00:02:38,580
+need about 70% of the information you wish you had.
+
+71
+00:02:38,919 --> 00:02:39,259
+Yes.
+
+72
+00:02:39,620 --> 00:02:41,539
+Because for these reversible decisions,
+
+73
+00:02:42,199 --> 00:02:45,900
+the cost of being slow, of waiting for that 100% certainty,
+
+74
+00:02:46,219 --> 00:02:48,819
+is so much higher than the risk of being slightly wrong.
+
+75
+00:02:49,500 --> 00:02:51,259
+If you're wrong, you just correct it.
+
+76
+00:02:51,280 --> 00:02:51,740
+You pivot.
+
+77
+00:02:52,240 --> 00:02:54,020
+But big organizations struggle with this.
+
+78
+00:02:54,360 --> 00:02:56,219
+Oh, it's a monumental challenge.
+
+79
+00:02:56,520 --> 00:02:58,199
+They get into this bureaucratic habit
+
+80
+00:02:58,199 --> 00:03:01,060
+of applying these heavyweight consensus driven processes
+
+81
+00:03:01,060 --> 00:03:03,680
+to every single decision, even the type two ones.
+
+82
+00:03:04,139 --> 00:03:06,939
+And the result is what Bezos called diminished invention.
+
+83
+00:03:07,560 --> 00:03:10,080
+They're treating a small recoverable problem
+
+84
+00:03:10,080 --> 00:03:11,620
+like it's a global catastrophe.
+
+85
+00:03:11,620 --> 00:03:13,000
+And they just grind to a halt.
+
+86
+00:03:13,419 --> 00:03:14,979
+OK, but then we get to the other door.
+
+87
+00:03:15,319 --> 00:03:17,120
+And the stakes here get a lot higher.
+
+88
+00:03:17,199 --> 00:03:18,719
+These are the type one decisions.
+
+89
+00:03:18,719 --> 00:03:19,740
+The one way doors.
+
+90
+00:03:20,139 --> 00:03:20,259
+Exactly.
+
+91
+00:03:20,360 --> 00:03:22,639
+These are the high consequence, irreversible decisions.
+
+92
+00:03:22,699 --> 00:03:24,479
+Once you walk through this door, that's it.
+
+93
+00:03:24,639 --> 00:03:26,000
+The landscape has changed forever.
+
+94
+00:03:26,280 --> 00:03:28,219
+There is no going back to the way things were.
+
+95
+00:03:28,719 --> 00:03:30,520
+And these demand a totally different approach.
+
+96
+00:03:30,740 --> 00:03:32,879
+Slow, careful, deliberate.
+
+97
+00:03:33,379 --> 00:03:34,719
+Bezos even joked that his job was
+
+98
+00:03:34,719 --> 00:03:37,120
+to be the chief slow down officer for these big type one
+
+99
+00:03:37,120 --> 00:03:37,500
+choices.
+
+100
+00:03:37,639 --> 00:03:38,960
+What's really interesting to me, though,
+
+101
+00:03:38,960 --> 00:03:41,120
+is that even with this rigid framework,
+
+102
+00:03:41,639 --> 00:03:44,539
+Bezos said that for the truly unprecedented type one choices,
+
+103
+00:03:44,840 --> 00:03:47,439
+things that have never been done before, your gut,
+
+104
+00:03:47,439 --> 00:03:50,159
+your intuition still plays a huge role.
+
+105
+00:03:50,400 --> 00:03:51,819
+It's not just a spreadsheet problem.
+
+106
+00:03:52,500 --> 00:03:52,639
+Absolutely.
+
+107
+00:03:53,080 --> 00:03:55,580
+Think about the decision to green light Amazon Prime.
+
+108
+00:03:56,060 --> 00:03:58,219
+Bezos has said that at the beginning,
+
+109
+00:03:58,699 --> 00:04:01,180
+there wasn't a single person with a financial background
+
+110
+00:04:01,180 --> 00:04:02,319
+who supported it.
+
+111
+00:04:02,800 --> 00:04:04,259
+Every single spreadsheet showed it
+
+112
+00:04:04,259 --> 00:04:06,580
+would be a complete disaster for their profits.
+
+113
+00:04:07,139 --> 00:04:08,979
+That decision couldn't be made just analytically.
+
+114
+00:04:09,000 --> 00:04:11,919
+It was made with heart and a guiding principle.
+
+115
+00:04:12,199 --> 00:04:12,819
+Customer obsession.
+
+116
+00:04:12,960 --> 00:04:13,759
+Customer obsession.
+
+117
+00:04:14,439 --> 00:04:16,680
+But, and this is the critical distinction,
+
+118
+00:04:16,680 --> 00:04:19,740
+that reliance on gut only works after you've
+
+119
+00:04:19,740 --> 00:04:21,639
+done the slow, painstaking work.
+
+120
+00:04:21,759 --> 00:04:23,000
+Which leads us to the next question.
+
+121
+00:04:23,220 --> 00:04:24,720
+What is that slow work?
+
+122
+00:04:24,980 --> 00:04:26,279
+So, OK, we've identified a problem
+
+123
+00:04:26,279 --> 00:04:28,240
+as a type one, one way door decision.
+
+124
+00:04:28,639 --> 00:04:29,279
+What now?
+
+125
+00:04:29,579 --> 00:04:31,819
+This is where Stephen Johnson's three steps come in.
+
+126
+00:04:31,939 --> 00:04:33,860
+Yeah, this is the full spectrum process
+
+127
+00:04:33,860 --> 00:04:37,079
+that helps you override those destructive snap judgments
+
+128
+00:04:37,079 --> 00:04:38,100
+from system one.
+
+129
+00:04:38,300 --> 00:04:40,160
+It all starts with step one, mapping.
+
+130
+00:04:40,579 --> 00:04:41,899
+This is the divergence phase.
+
+131
+00:04:42,319 --> 00:04:44,720
+I find the analogy he uses of being a cartographer
+
+132
+00:04:44,720 --> 00:04:45,839
+so helpful here.
+
+133
+00:04:45,839 --> 00:04:48,180
+A farsighted decision maker doesn't start
+
+134
+00:04:48,180 --> 00:04:49,459
+with an answer they want to prove.
+
+135
+00:04:49,819 --> 00:04:51,019
+They act like a map maker.
+
+136
+00:04:51,240 --> 00:04:53,680
+They're trying to see the terrain for what it actually is,
+
+137
+00:04:53,699 --> 00:04:54,879
+not what they want it to be.
+
+138
+00:04:55,220 --> 00:04:56,980
+The goal of mapping is pure expansion.
+
+139
+00:04:57,500 --> 00:04:58,980
+You're just trying to broaden your view.
+
+140
+00:04:59,319 --> 00:05:01,420
+You take an inventory of every force at play,
+
+141
+00:05:01,740 --> 00:05:03,639
+financial, cultural, political, whatever.
+
+142
+00:05:03,980 --> 00:05:05,100
+You sketch out what you know,
+
+143
+00:05:05,300 --> 00:05:08,079
+but crucially, you actively hunt for your blind spots.
+
+144
+00:05:08,360 --> 00:05:10,379
+You chart all the potential paths,
+
+145
+00:05:10,720 --> 00:05:12,540
+even the ones that seem really unlikely.
+
+146
+00:05:13,160 --> 00:05:15,139
+You have to resist that mental gravity
+
+147
+00:05:15,139 --> 00:05:17,379
+that pulls you toward what Johnson calls
+
+148
+00:05:17,379 --> 00:05:19,000
+narrow-band interpretations.
+
+149
+00:05:19,300 --> 00:05:21,079
+And this demands that you go out and find people
+
+150
+00:05:21,079 --> 00:05:23,579
+who disagree with you to challenge your assumptions.
+
+151
+00:05:24,060 --> 00:05:26,519
+Johnson uses this brilliant historical example,
+
+152
+00:05:26,939 --> 00:05:29,000
+the decision in the 1800s
+
+153
+00:05:29,000 --> 00:05:31,139
+to fill in Manhattan's Collect Pond.
+
+154
+00:05:31,279 --> 00:05:31,560
+Yes.
+
+155
+00:05:31,839 --> 00:05:34,100
+On the surface, it looked like a type two decision.
+
+156
+00:05:34,500 --> 00:05:36,019
+Fill in a pond, get more real estate,
+
+157
+00:05:36,300 --> 00:05:38,319
+but it was a catastrophic type one choice.
+
+158
+00:05:38,480 --> 00:05:40,019
+They didn't map the terrain properly.
+
+159
+00:05:40,360 --> 00:05:42,839
+They filled this deep spring-fed pond
+
+160
+00:05:42,839 --> 00:05:44,319
+with contaminated garbage.
+
+161
+00:05:44,839 --> 00:05:46,100
+They failed to account for the fact
+
+162
+00:05:46,100 --> 00:05:48,459
+that you can't just pave over a natural water source.
+
+163
+00:05:48,920 --> 00:05:51,000
+And the result, the area became a swamp.
+
+164
+00:05:51,279 --> 00:05:52,439
+The land kept sinking,
+
+165
+00:05:52,980 --> 00:05:54,540
+causing structural problems in buildings
+
+166
+00:05:54,540 --> 00:05:56,399
+for, well, for the next century.
+
+167
+00:05:56,839 --> 00:05:58,220
+It's a perfect example of a failure
+
+168
+00:05:58,220 --> 00:06:00,339
+to map the situation as it truly was.
+
+169
+00:06:00,699 --> 00:06:02,040
+So once you've mapped the field
+
+170
+00:06:02,040 --> 00:06:03,680
+and the divergence phase is done,
+
+171
+00:06:03,740 --> 00:06:06,100
+you move on to step two, predicting.
+
+172
+00:06:06,680 --> 00:06:08,540
+You have to get a better-than-chance understanding
+
+173
+00:06:08,540 --> 00:06:11,699
+of where all these paths might actually lead you.
+
+174
+00:06:11,879 --> 00:06:13,420
+Right, this is where you simulate the future.
+
+175
+00:06:13,420 --> 00:06:15,199
+It's not just wishful thinking.
+
+176
+00:06:15,379 --> 00:06:17,980
+You use tools like war games, scenario planning.
+
+177
+00:06:18,360 --> 00:06:19,839
+But for anyone listening for a personal
+
+178
+00:06:19,839 --> 00:06:21,000
+or a professional choice,
+
+179
+00:06:21,319 --> 00:06:23,379
+the most powerful and accessible technique
+
+180
+00:06:23,379 --> 00:06:25,220
+is probably the premortem,
+
+181
+00:06:25,420 --> 00:06:27,079
+which was popularized by Gary Klein.
+
+182
+00:06:27,279 --> 00:06:28,459
+I love the premortem.
+
+183
+00:06:28,500 --> 00:06:31,120
+It's just such a direct attack on our cognitive biases,
+
+184
+00:06:31,379 --> 00:06:33,879
+like overconfidence and confirmation bias.
+
+185
+00:06:34,160 --> 00:06:36,399
+Instead of asking what might go wrong,
+
+186
+00:06:36,759 --> 00:06:38,279
+you completely flip the script.
+
+187
+00:06:38,540 --> 00:06:38,959
+You do.
+
+188
+00:06:39,120 --> 00:06:40,439
+You imagine it's a year from now,
+
+189
+00:06:40,959 --> 00:06:44,879
+the decision was made, and it failed, spectacularly.
+
+190
+00:06:45,040 --> 00:06:48,779
+Then you work backward and explain in detail why it failed.
+
+191
+00:06:49,300 --> 00:06:50,379
+What was the flaw in our thinking?
+
+192
+00:06:50,699 --> 00:06:52,800
+What external shock did we not see coming?
+
+193
+00:06:53,279 --> 00:06:55,660
+It forces you to actually engage with uncertainty
+
+194
+00:06:55,660 --> 00:06:56,759
+instead of ignoring it.
+
+195
+00:06:57,000 --> 00:06:58,759
+And these kinds of simulations are critical
+
+196
+00:06:58,759 --> 00:07:00,319
+for huge government decisions.
+
+197
+00:07:00,439 --> 00:07:01,240
+I'm thinking about the planning
+
+198
+00:07:01,240 --> 00:07:02,920
+for the US raid on Abbottabad.
+
+199
+00:07:03,259 --> 00:07:03,720
+Precisely.
+
+200
+00:07:03,839 --> 00:07:05,740
+They couldn't know exactly what they'd find,
+
+201
+00:07:05,959 --> 00:07:08,180
+so they used extensive modeling and red teams
+
+202
+00:07:08,180 --> 00:07:09,740
+to define the uncertainties,
+
+203
+00:07:09,740 --> 00:07:11,319
+like a helicopter failing
+
+204
+00:07:11,319 --> 00:07:13,279
+or an unexpected response from the enemy.
+
+205
+00:07:13,579 --> 00:07:15,540
+They assigned probabilities to those risks.
+
+206
+00:07:16,120 --> 00:07:18,279
+And it reduced the emotional fear of the unknown
+
+207
+00:07:18,279 --> 00:07:21,060
+by defining it, which allowed them to make a choice
+
+208
+00:07:21,060 --> 00:07:23,480
+based on calculated odds, not on blind hope.
+
+209
+00:07:24,199 --> 00:07:26,199
+Okay, so after all that expansion and forecasting,
+
+210
+00:07:26,339 --> 00:07:27,800
+we finally get to step three,
+
+211
+00:07:27,959 --> 00:07:29,720
+deciding the convergence phase.
+
+212
+00:07:30,079 --> 00:07:31,579
+This is where you narrow the options,
+
+213
+00:07:31,620 --> 00:07:33,839
+and as Johnson says, you start keeping score.
+
+214
+00:07:34,019 --> 00:07:34,920
+And when we think about scoring,
+
+215
+00:07:35,019 --> 00:07:36,920
+we usually think about maximizing value,
+
+216
+00:07:37,060 --> 00:07:38,420
+the biggest potential win.
+
+217
+00:07:38,420 --> 00:07:40,879
+But for these big type one divisions,
+
+218
+00:07:41,379 --> 00:07:43,439
+the much smarter approach is often to focus
+
+219
+00:07:43,439 --> 00:07:44,579
+on minimizing harm.
+
+220
+00:07:44,579 --> 00:07:47,699
+Why is that a better default for irreversible choices?
+
+221
+00:07:48,220 --> 00:07:50,360
+Because maximizing value usually relies
+
+222
+00:07:50,360 --> 00:07:53,420
+on a lot of optimistic assumptions working out.
+
+223
+00:07:53,879 --> 00:07:55,500
+Minimizing harm, on the other hand,
+
+224
+00:07:56,220 --> 00:07:57,439
+forces you to look at something
+
+225
+00:07:57,439 --> 00:07:59,259
+we instinctively want to ignore,
+
+226
+00:07:59,800 --> 00:08:01,339
+the highly unlikely catastrophe.
+
+227
+00:08:01,860 --> 00:08:03,800
+If there's a 1% chance of an outcome
+
+228
+00:08:03,800 --> 00:08:05,060
+that would bankrupt your company
+
+229
+00:08:05,060 --> 00:08:06,800
+or destroy your reputation forever,
+
+230
+00:08:06,800 --> 00:08:09,660
+that path should just be eliminated instantly.
+
+231
+00:08:09,800 --> 00:08:11,459
+Doesn't matter what the potential upside is,
+
+232
+00:08:11,459 --> 00:08:12,860
+it's about building resilience.
+
+233
+00:08:13,579 --> 00:08:15,899
+So the final choice might still have some art to it,
+
+234
+00:08:15,920 --> 00:08:18,040
+but the process has forced you to pick a path
+
+235
+00:08:18,040 --> 00:08:19,079
+that's more resilient,
+
+236
+00:08:19,500 --> 00:08:22,779
+one that has a lower chance of total catastrophic failure.
+
+237
+00:08:23,639 --> 00:08:25,339
+Johnson also says that if you have two paths
+
+238
+00:08:25,339 --> 00:08:26,360
+with similar risk,
+
+239
+00:08:26,519 --> 00:08:29,079
+pick the one that you can modify or adapt later on.
+
+240
+00:08:29,420 --> 00:08:30,939
+The whole point is that hard choices
+
+241
+00:08:30,939 --> 00:08:34,159
+demand you override that first quick snap judgment.
+
+242
+00:08:34,159 --> 00:08:36,980
+You keep your mind open and you use this map,
+
+243
+00:08:37,139 --> 00:08:38,299
+predict, decide framework,
+
+244
+00:08:38,659 --> 00:08:40,000
+to bring discipline to the process.
+
+245
+00:08:40,299 --> 00:08:42,879
+That slow methodical analysis is key,
+
+246
+00:08:43,240 --> 00:08:45,220
+but now we can shift to the hard data,
+
+247
+00:08:45,419 --> 00:08:46,539
+the psychological science,
+
+248
+00:08:46,639 --> 00:08:48,700
+that explains why rushing is so dangerous,
+
+249
+00:08:48,799 --> 00:08:51,679
+especially for type one decisions involving potential losses.
+
+250
+00:08:52,200 --> 00:08:54,980
+Right, we're grounding this in those dual process models
+
+251
+00:08:54,980 --> 00:08:56,039
+from Daniel Kahneman.
+
+252
+00:08:56,519 --> 00:08:59,139
+System one is fast, intuitive, emotional.
+
+253
+00:08:59,539 --> 00:09:02,340
+System two is slow, effortful, and deliberate.
+
+254
+00:09:03,120 --> 00:09:05,299
+Researchers wanted to test how time pressure
+
+255
+00:09:05,299 --> 00:09:08,460
+affects our risk profile when we make financial choices.
+
+256
+00:09:08,759 --> 00:09:10,279
+So they ran an experiment, right,
+
+257
+00:09:10,360 --> 00:09:13,720
+with over 1,700 people comparing choices
+
+258
+00:09:13,720 --> 00:09:16,759
+made under a tight time limit, less than seven seconds,
+
+259
+00:09:17,159 --> 00:09:18,840
+versus people who were forced to wait
+
+260
+00:09:18,840 --> 00:09:20,120
+and delay their response.
+
+261
+00:09:20,240 --> 00:09:21,700
+Yes, and the findings were incredible.
+
+262
+00:09:21,799 --> 00:09:24,840
+They didn't just confirm that rushing changes our decisions.
+
+263
+00:09:25,039 --> 00:09:27,100
+They went right to the heart of prospect theory
+
+264
+00:09:27,100 --> 00:09:29,240
+to an idea called the reflection effect.
+
+265
+00:09:29,460 --> 00:09:30,919
+Okay, wait, let's define that really quickly.
+
+266
+00:09:30,919 --> 00:09:32,879
+What's the reflection effect in simple terms?
+
+267
+00:09:33,320 --> 00:09:36,000
+It's the observation that we're generally risk averse
+
+268
+00:09:36,000 --> 00:09:37,700
+when we're dealing with potential gains,
+
+269
+00:09:38,059 --> 00:09:39,500
+but we become risk seeking
+
+270
+00:09:39,500 --> 00:09:41,379
+when we're faced with potential losses.
+
+271
+00:09:42,000 --> 00:09:45,820
+So if I offer you a guaranteed $100 versus a coin flip
+
+272
+00:09:45,820 --> 00:09:47,580
+for $200 or nothing,
+
+273
+00:09:48,240 --> 00:09:50,919
+most people take the guaranteed money, risk aversion.
+
+274
+00:09:51,399 --> 00:09:54,240
+But if you face a guaranteed $100 loss
+
+275
+00:09:54,240 --> 00:09:56,899
+versus a coin flip for a $200 loss or nothing,
+
+276
+00:09:57,179 --> 00:09:59,639
+most people, they choose the coin flip.
+
+277
+00:09:59,639 --> 00:10:01,379
+They gamble to avoid the pain.
+
+278
+00:10:01,639 --> 00:10:02,600
+That makes perfect sense.
+
+279
+00:10:02,919 --> 00:10:04,960
+We hate losing way more than we enjoy winning.
+
+280
+00:10:05,100 --> 00:10:07,360
+So how did time pressure change that?
+
+281
+00:10:07,840 --> 00:10:09,480
+The data showed that time pressure
+
+282
+00:10:09,480 --> 00:10:11,659
+massively increased this reflection effect.
+
+283
+00:10:11,860 --> 00:10:13,720
+It pushed people toward that more
+
+284
+00:10:13,720 --> 00:10:15,679
+instinctive system one behavior.
+
+285
+00:10:15,840 --> 00:10:17,399
+So for decisions about gains,
+
+286
+00:10:17,600 --> 00:10:19,779
+time pressure made people even more risk averse.
+
+287
+00:10:20,039 --> 00:10:21,500
+They were even less willing to gamble.
+
+288
+00:10:21,559 --> 00:10:23,080
+They just grabbed the sure thing.
+
+289
+00:10:23,120 --> 00:10:25,879
+But the crucial and honestly kind of terrifying finding
+
+290
+00:10:25,879 --> 00:10:28,399
+was on the other side, on the lost side.
+
+291
+00:10:28,399 --> 00:10:29,259
+Absolutely.
+
+292
+00:10:29,899 --> 00:10:33,179
+The effect was stronger and more robust in the loss domain
+
+293
+00:10:33,179 --> 00:10:35,600
+across all four experiments they ran.
+
+294
+00:10:36,240 --> 00:10:37,740
+For decisions involving losses,
+
+295
+00:10:38,179 --> 00:10:40,860
+time pressure led to a significant increase in risk taking.
+
+296
+00:10:41,759 --> 00:10:43,980
+Your automatic intuitive response
+
+297
+00:10:43,980 --> 00:10:45,840
+when you're facing a potential loss
+
+298
+00:10:45,840 --> 00:10:48,059
+is to gamble more recklessly
+
+299
+00:10:48,059 --> 00:10:50,139
+than you would if you had time to sit back
+
+300
+00:10:50,139 --> 00:10:50,940
+and think it through.
+
+301
+00:10:51,259 --> 00:10:52,779
+This is the scientific proof
+
+302
+00:10:52,779 --> 00:10:55,159
+for why we have to slow down on type one decisions.
+
+303
+00:10:55,480 --> 00:10:57,740
+The very situations where you can least afford
+
+304
+00:10:57,740 --> 00:10:59,779
+to be reckless, high consequence,
+
+305
+00:10:59,860 --> 00:11:01,460
+irreversible negative outcomes
+
+306
+00:11:01,460 --> 00:11:03,580
+are the exact same situations
+
+307
+00:11:03,580 --> 00:11:05,700
+where time pressure makes us most reckless.
+
+308
+00:11:06,120 --> 00:11:07,919
+It pushes us toward a desperate gamble.
+
+309
+00:11:08,059 --> 00:11:09,220
+And there was another key finding.
+
+310
+00:11:09,639 --> 00:11:11,080
+The study noted that time pressure
+
+311
+00:11:11,080 --> 00:11:12,899
+increased what they call measurement noise,
+
+312
+00:11:13,379 --> 00:11:16,059
+which just means people gave inconsistent erratic answers.
+
+313
+00:11:16,460 --> 00:11:18,779
+Forcing a time delay was an extremely effective way
+
+314
+00:11:18,779 --> 00:11:20,759
+to reduce that noise and get higher quality,
+
+315
+00:11:20,940 --> 00:11:22,080
+more consistent choices.
+
+316
+00:11:22,379 --> 00:11:25,279
+So when the stakes are high and losses are on the table,
+
+317
+00:11:25,279 --> 00:11:28,460
+which by definition is what most type one decisions are.
+
+318
+00:11:28,519 --> 00:11:30,399
+Slowing down isn't just a nice idea.
+
+319
+00:11:30,720 --> 00:11:33,259
+It's a necessity confirmed by science.
+
+320
+00:11:33,740 --> 00:11:36,039
+Slowness protects you from that primal urge
+
+321
+00:11:36,039 --> 00:11:37,659
+to gamble your way out of trouble.
+
+322
+00:11:38,080 --> 00:11:38,639
+Exactly right.
+
+323
+00:11:38,980 --> 00:11:41,399
+So we've covered Bezos' framework for classification,
+
+324
+00:11:42,000 --> 00:11:44,059
+Johnson's three-step process for execution,
+
+325
+00:11:44,059 --> 00:11:45,899
+and it's all grounded in data
+
+326
+00:11:45,899 --> 00:11:47,700
+showing that slowness protects us
+
+327
+00:11:47,700 --> 00:11:51,100
+from disastrous risk taking when losses are looming.
+
+328
+00:11:51,259 --> 00:11:53,519
+The goal of all this is to instill discipline.
+
+329
+00:11:53,779 --> 00:11:54,919
+Okay, let's pull it all together.
+
+330
+00:11:54,919 --> 00:11:56,700
+Here are three concrete takeaways
+
+331
+00:11:56,700 --> 00:11:59,320
+for you to apply to the next big decision you face.
+
+332
+00:11:59,820 --> 00:12:01,740
+First, classify your door first.
+
+333
+00:12:01,899 --> 00:12:03,120
+Before you even touch a spreadsheet,
+
+334
+00:12:03,379 --> 00:12:04,879
+just ask those two simple questions.
+
+335
+00:12:05,399 --> 00:12:08,019
+What are the consequences and is it reversible?
+
+336
+00:12:08,539 --> 00:12:10,379
+That binary choice tells you your speed.
+
+337
+00:12:10,700 --> 00:12:13,100
+Treat a type two with 70% info and get it done.
+
+338
+00:12:13,419 --> 00:12:14,720
+Treat a type one like a crisis
+
+339
+00:12:14,720 --> 00:12:17,019
+that demands your full, deliberate attention.
+
+340
+00:12:17,299 --> 00:12:19,340
+Second, slow down for losses.
+
+341
+00:12:19,860 --> 00:12:21,820
+If your decision involves potential losses,
+
+342
+00:12:22,139 --> 00:12:24,299
+financial, relational, reputational, whatever,
+
+343
+00:12:24,299 --> 00:12:26,879
+you have to actively fight the urge to rush.
+
+344
+00:12:27,360 --> 00:12:29,360
+The experimental data is just so clear on this.
+
+345
+00:12:29,580 --> 00:12:31,580
+Time pressure makes us reckless in the loss domain.
+
+346
+00:12:31,879 --> 00:12:33,419
+So build in a mandatory delay.
+
+347
+00:12:33,679 --> 00:12:35,919
+Require a cooling off period before you commit.
+
+348
+00:12:36,259 --> 00:12:38,200
+And third, map your blind spots.
+
+349
+00:12:38,620 --> 00:12:41,159
+For those irreversible one-way door choices,
+
+350
+00:12:41,259 --> 00:12:44,139
+you have to invest heavily in that divergence phase,
+
+351
+00:12:44,220 --> 00:12:45,100
+the mapping stage.
+
+352
+00:12:45,539 --> 00:12:47,740
+Actively seek out people who disagree with you.
+
+353
+00:12:48,039 --> 00:12:49,940
+Define every uncertainty you can find
+
+354
+00:12:49,940 --> 00:12:52,240
+and force yourself to confront the worst case scenario
+
+355
+00:12:52,240 --> 00:12:53,120
+with a premortem.
+
+356
+00:12:53,120 --> 00:12:55,720
+You're not optimizing for the best possible outcome.
+
+357
+00:12:56,019 --> 00:12:56,879
+You're protecting yourself
+
+358
+00:12:56,879 --> 00:12:58,700
+from the highly unlikely catastrophe.
+
+359
+00:12:59,159 --> 00:13:00,639
+And that brings us to the final thought.
+
+360
+00:13:01,320 --> 00:13:03,299
+We know Bezos launched Amazon Prime,
+
+361
+00:13:03,779 --> 00:13:05,360
+even when the data told him not to.
+
+362
+00:13:05,539 --> 00:13:06,639
+He relied on his gut.
+
+363
+00:13:07,279 --> 00:13:09,039
+But that gut feeling wasn't an impulse.
+
+364
+00:13:09,460 --> 00:13:11,200
+It was an intuition that had been trained
+
+365
+00:13:11,200 --> 00:13:14,379
+by years of deep system two thinking about his industry.
+
+366
+00:13:15,240 --> 00:13:16,860
+The highest craft of decision-making
+
+367
+00:13:16,860 --> 00:13:18,320
+isn't just trusting your gut.
+
+368
+00:13:18,539 --> 00:13:19,419
+It's training your intuition
+
+369
+00:13:19,419 --> 00:13:21,419
+by refusing to rely on it too soon.
+
+370
+00:13:21,939 --> 00:13:23,679
+When you consistently force your system two
+
+371
+00:13:23,679 --> 00:13:26,419
+to see the situation clearly, to map and to predict,
+
+372
+00:13:26,759 --> 00:13:28,519
+then your gut instinct when you finally need it
+
+373
+00:13:28,519 --> 00:13:30,120
+for those truly unprecedented choices
+
+374
+00:13:30,120 --> 00:13:32,080
+becomes an instrument of real wisdom,
+
+375
+00:13:32,320 --> 00:13:33,220
+not just a random gamble.
+

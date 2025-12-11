@@ -1,0 +1,243 @@
+=== CHAPTERS ===
+
+[00:00] All I want to know is where I'm going to die, so I'll never go there
+
+
+=== FULL TRANSCRIPT ===
+
+All I want to know is where I'm going to die, so I'll never go there. That has to be one of the most paradoxical, but brilliant pieces of advice ever given. It really is. And it comes from, of course, the late Charlie Munger. That single sentence is pretty much the core of the mental model we're diving into today. Inversion. Right. Inversion is, well, it's a way of thinking that just flips the whole problem solving script on its head. So instead of asking, how do I succeed? Which is what everyone does. Which is what we all do naturally. You stop and you ask the reverse, what would guarantee I fail completely? And how do I make sure to avoid that? And our mission today is really to unpack this. This critical skill is used by some of the greatest thinkers, but it's so simple. We're hoping to give you a kind of shortcut to making better decisions, not by, you know, chasing genius, but by focusing on the power of subtraction. Systematically getting rid of the dumb mistakes that trip everyone else up. It's like finding the ultimate avoid stupidity filter. It makes everything clearer and safer. OK, so let's get into it. This whole idea of thinking backward. It's not new, right? This isn't some modern invention from finance bros. Not at all. It has incredibly deep historical roots. I mean, we're talking more than 2000 years ago with the ancient stoic philosophers. The stoics. Yeah. Like Marcus Aurelius and Seneca. Exactly. Those guys. They practice this daily ritual called premeditatio malorum. Which sounds intense. The premeditation of evils. It does. And we think of stoicism as being about, you know, staying calm. But this exercise was proactive. So what did they actually do? Before a big day, they'd vividly imagine the worst case scenario. I mean, really picture it. Losing their job, being humiliated in public, getting thrown in jail. OK, but why? Why would you want to put yourself through that intentionally? Well, it wasn't about scaring yourself. It was about stealing fear's power. By walking through the disaster in your mind, a couple of things happen. First, you realize you could probably handle it emotionally. It's not a shock anymore. Right. You've already lived it once in your head. And second, and this is the key part for inversion, it forces you to see the steps that could lead to that disaster. So you can actively plan to prevent them. The stoics knew that avoiding a terrible life was a more reliable path than just, you know, hoping for a perfect one. That's a huge shift in focus, preemptive prevention. But this ancient idea, it found a new home somewhere completely different. It did. Fast forward to the 19th century with a German mathematician, Carl Jacobi. In mathematics. Of all places. He took this concept and boiled it down to a simple motto, man muss immer umkehren, which basically means invert, always invert. So how does a mathematician use this? Well, when he was stuck on a really complex equation, instead of trying to force a solution forward, he just start at the end result and work backward. And he found that a lot of the time, the solution just revealed itself. So that's the through line from the stoics to Munger. The power is in figuring out how you might fail so you can build a system to avoid it. Exactly. It's about elimination, defining what you want by first figuring out everything you don't want and then just subtracting it. Okay, let's make this really concrete with a visual. I think this helps a lot. Imagine you're at the start of a massive complicated maze. You start walking forward, you hit a dead end, you turn back, you hit another one. It's frustrating, it's slow, it's just inefficient. We've all been there. But if you use inversion, you just go to the end, you start at the exit and you solve it backward. Suddenly, all those dead ends don't matter, the path becomes obvious. The problem just gets so much easier to solve. You're not searching for the one right path, you're eliminating all the wrong ones. And it's that exact clarity that Charlie Munger brought into the chaotic world of finance. Munger took Jacobi's role and applied it to everything. And it led to his foundational principle, which is worth saying again. It is remarkable how much long-term advantage we have gotten by trying to be consistently not stupid instead of trying to be very intelligent. That quote is, it's so deceptively simple. Because the normal approach is, how do I find the next huge stock? Munger flips that completely, he inverts it. The problem for him isn't how do I get rich? It's how do I not lose money? If you solve for that, the getting rich part tends to take care of itself. But couldn't that lead to analysis paralysis? If you're only focused on avoiding failure, how do you ever actually take a risk and do something? That is a great question and it's a real risk. But the key is the kind of mistake you're trying to avoid. Munger's not worried about missing a small opportunity. He's worried about the big ones. The ones that take you out of the game for good. The permanent mistakes. So his inversion process isn't about avoiding every tiny risk. It's about avoiding the things that guarantee destruction. Like what? Like taking on way too much debt, investing in businesses you don't understand, or making emotional impulsive trades. Those are the things that cause catastrophic loss. That's the subtraction mindset. You focus on eliminating harm, which is way easier and more predictable than trying to engineer some brilliant success. Okay, so this is where it gets really useful for all of us. How do we take this philosophy and turn it into a tool we can use every day? Right. This is where it goes from an idea to a structured technique. When we start a new project, our default question is always aspirational. What do we need to do to succeed? But the inverted question is the opposite. It's what could happen that would absolutely stop us? Or maybe even how could this whole thing fail? And how would I personally be responsible for that failure? That inverted question is so powerful because it fights our own biases. We all have confirmation bias. We look for evidence that we're right and we have optimism bias. We just assume things will work out. So inversion forces you to actively look for the flaws to try to prove yourself wrong. Yes, it's a safety check on your own confidence. And the best, most structured way to do this is a technique called the failure premortem. The failure premortem. Okay, I love that name. It's a gold standard technique now. And it's so simple. Before you start a big project, you imagine it's six months in the future and it has failed. I mean, failed spectacularly. And then what? You hold a meeting. And everyone on the team has to write an obituary for the project. You tell the story of how it failed, what went wrong, was it a competitor, did the team fall apart, did we miss a deadline? That sounds incredibly uncomfortable. It is. But that discomfort is why it works. It overcomes what we call distance from the consequences. A small bad decision today might not seem like a big deal. Until six months later when it blows everything up. Exactly. The premortem makes those consequences feel immediate. And it also gives people permission to voice their doubts. It makes it safe to say, hey, I'm worried about this without being seen as negative. You're basically harvesting all the negative intelligence up front and turning it into a positive action plan. That's it. And for anyone listening who wants to use this, there's a really clear five-step process. Okay, let's walk through it. Step one is, state your goal. Be specific. Write down exactly what success looks like. Then step two, invert the question. Immediately flip it. What does spectacular failure look like? Not just missing the goal, but the worst possible outcome. Step three, explore the causes of failure. Brainstorm every single thing that could lead to that disaster. Be ruthless. Bad marketing, a buggy product, a key person quitting. Right. Then step four is a bit different. Way pros and cons inverted. Usually we look at the upside of our options. Here you look at the downside. For each choice you have, you ask what weakness in this specific option could lead to one of those failures we just listed. So if I'm choosing a supplier, I don't just look at the price. I ask which one's shaky logistics are more likely to kill my whole project six months from now. Precisely. You're stress testing your choices against failure. And then finally, step five, implement an action plan. You build a strategy specifically designed to avoid or fix every cause of failure you identified. You build guardrails around disaster. So this applies to, well, everything. It's not just for big corporate projects. The beauty here is how versatile it is. It's like anti-advice for your entire life. Absolutely. Think about leadership. Instead of asking, how can I be a great leader, invert it. What would I have to do every day to be the most demoralizing, parable leader imaginable? You'd immediately think of things like micromanaging, taking credit for other people's work, never giving feedback. Exactly. Once you have that list, your leadership plan is simple. Just don't do those things. You spend all your energy eliminating harmful actions instead of chasing vague, good leader traits. Or what about just being productive? Instead of, how do I get more done, you could ask. What are the things that make us unproductive? What wastes the most time? The answer isn't a new app. It's probably too many meetings or a culture where people are afraid to admit mistakes early. You eliminate the friction. It even works for personal stuff. Right. Relationships. What behaviors would absolutely destroy this relationship? Lying, neglect, secrets. You know what they are, so you focus on avoiding those. It's a much surer path to a stable relationship than, you know, planning one big romantic gesture. So at its core, inversion is really a tool to fight our own wiring, our bias for action. We always want to do something. But sometimes the most powerful action is inaction, the discipline to avoid an obvious mistake. It's about constant self-criticism to prevent those big errors from piling up. Okay. To bring this all home, let's summarize the key takeaways from this deep dive. I think the first one is just, the goal is avoidance. Success usually comes from consistently not making dumb mistakes, not from one single brilliant move. Avoiding stupidity is easier and less risky than chasing brilliance. Second takeaway. Practice the pre-mortem. Seriously, use this technique. Before any big project, imagine it has failed. Write the story of why. It will save you so much pain later. Make it a mandatory step for your team or even just for yourself. And third, find the anti-advice. Invert your goals in your career, in your finances, in your relationships. Figure out what guaranteed failure looks like and then systematically eliminate those behaviors first. Build your success on a foundation of subtraction. And just remember, blindly chasing success is always high risk. But preventing failure using this disciplined approach, that carries very little risk. It's a much more reliable path to progress. So the next time you feel stuck, just remember Jacoby and Munger. Ask yourself, if this all goes horribly wrong in six months, what's the one obvious mistake I made today that caused it? And how can I fix that before the sun goes down? That answer, that might be the biggest breakthrough you have all week. What stands out to you?
+
+
+=== TIMESTAMPED SEGMENTS ===
+
+[00:00] All I want to know is where I'm going to die, so I'll never go there.
+[00:02] That has to be one of the most paradoxical, but brilliant pieces of advice ever given.
+[00:08] It really is. And it comes from, of course, the late Charlie Munger.
+[00:11] That single sentence is pretty much the core of the mental model we're
+[00:15] diving into today. Inversion. Right.
+[00:18] Inversion is, well, it's a way of thinking that just flips the whole problem
+[00:22] solving script on its head.
+[00:23] So instead of asking, how do I succeed?
+[00:25] Which is what everyone does.
+[00:26] Which is what we all do naturally.
+[00:28] You stop and you ask the reverse, what would guarantee I fail completely?
+[00:32] And how do I make sure to avoid that?
+[00:34] And our mission today is really to unpack this.
+[00:37] This critical skill is used by some of the greatest thinkers, but it's so simple.
+[00:43] We're hoping to give you a kind of shortcut to making better decisions, not by, you know,
+[00:48] chasing genius, but by focusing on the power of subtraction.
+[00:53] Systematically getting rid of the dumb mistakes that trip everyone else up.
+[00:56] It's like finding the ultimate avoid stupidity filter.
+[00:59] It makes everything clearer and safer.
+[01:01] OK, so let's get into it.
+[01:03] This whole idea of thinking backward.
+[01:06] It's not new, right?
+[01:07] This isn't some modern invention from finance bros.
+[01:10] Not at all. It has incredibly deep historical roots.
+[01:14] I mean, we're talking more than 2000 years ago with the ancient stoic philosophers.
+[01:18] The stoics.
+[01:19] Yeah.
+[01:20] Like Marcus Aurelius and Seneca.
+[01:21] Exactly. Those guys.
+[01:23] They practice this daily ritual called premeditatio malorum.
+[01:27] Which sounds intense. The premeditation of evils.
+[01:31] It does. And we think of stoicism as being about, you know, staying calm.
+[01:35] But this exercise was proactive.
+[01:38] So what did they actually do?
+[01:39] Before a big day, they'd vividly imagine the worst case scenario.
+[01:43] I mean, really picture it.
+[01:45] Losing their job, being humiliated in public, getting thrown in jail.
+[01:49] OK, but why?
+[01:50] Why would you want to put yourself through that intentionally?
+[01:52] Well, it wasn't about scaring yourself. It was about stealing fear's power.
+[01:56] By walking through the disaster in your mind, a couple of things happen.
+[01:58] First, you realize you could probably handle it emotionally.
+[02:01] It's not a shock anymore.
+[02:03] Right. You've already lived it once in your head.
+[02:05] And second, and this is the key part for inversion,
+[02:07] it forces you to see the steps that could lead to that disaster.
+[02:10] So you can actively plan to prevent them.
+[02:13] The stoics knew that avoiding a terrible life was a more reliable path than just,
+[02:18] you know, hoping for a perfect one.
+[02:20] That's a huge shift in focus, preemptive prevention.
+[02:23] But this ancient idea, it found a new home somewhere completely different.
+[02:28] It did. Fast forward to the 19th century with a German mathematician, Carl Jacobi.
+[02:34] In mathematics.
+[02:35] Of all places.
+[02:36] He took this concept and boiled it down to a simple motto,
+[02:39] man muss immer umkehren, which basically means invert, always invert.
+[02:45] So how does a mathematician use this?
+[02:47] Well, when he was stuck on a really complex equation,
+[02:49] instead of trying to force a solution forward, he just start at the end result and work backward.
+[02:54] And he found that a lot of the time, the solution just revealed itself.
+[02:58] So that's the through line from the stoics to Munger.
+[03:01] The power is in figuring out how you might fail so you can build a system to avoid it.
+[03:06] Exactly. It's about elimination, defining what you want
+[03:09] by first figuring out everything you don't want and then just subtracting it.
+[03:12] Okay, let's make this really concrete with a visual.
+[03:15] I think this helps a lot.
+[03:17] Imagine you're at the start of a massive complicated maze.
+[03:21] You start walking forward, you hit a dead end, you turn back, you hit another one.
+[03:25] It's frustrating, it's slow, it's just inefficient.
+[03:29] We've all been there.
+[03:30] But if you use inversion, you just go to the end,
+[03:33] you start at the exit and you solve it backward.
+[03:35] Suddenly, all those dead ends don't matter, the path becomes obvious.
+[03:39] The problem just gets so much easier to solve.
+[03:42] You're not searching for the one right path, you're eliminating all the wrong ones.
+[03:46] And it's that exact clarity that Charlie Munger brought into the chaotic world of finance.
+[03:51] Munger took Jacobi's role and applied it to everything.
+[03:54] And it led to his foundational principle, which is worth saying again.
+[03:58] It is remarkable how much long-term advantage we have gotten by trying to be
+[04:02] consistently not stupid instead of trying to be very intelligent.
+[04:05] That quote is, it's so deceptively simple.
+[04:09] Because the normal approach is, how do I find the next huge stock?
+[04:13] Munger flips that completely, he inverts it.
+[04:15] The problem for him isn't how do I get rich?
+[04:18] It's how do I not lose money?
+[04:21] If you solve for that, the getting rich part tends to take care of itself.
+[04:25] But couldn't that lead to analysis paralysis?
+[04:28] If you're only focused on avoiding failure,
+[04:31] how do you ever actually take a risk and do something?
+[04:34] That is a great question and it's a real risk.
+[04:36] But the key is the kind of mistake you're trying to avoid.
+[04:40] Munger's not worried about missing a small opportunity.
+[04:42] He's worried about the big ones.
+[04:43] The ones that take you out of the game for good.
+[04:46] The permanent mistakes.
+[04:49] So his inversion process isn't about avoiding every tiny risk.
+[04:52] It's about avoiding the things that guarantee destruction.
+[04:55] Like what?
+[04:55] Like taking on way too much debt, investing in businesses you don't understand,
+[05:00] or making emotional impulsive trades.
+[05:02] Those are the things that cause catastrophic loss.
+[05:04] That's the subtraction mindset.
+[05:06] You focus on eliminating harm, which is way easier and more predictable
+[05:09] than trying to engineer some brilliant success.
+[05:12] Okay, so this is where it gets really useful for all of us.
+[05:14] How do we take this philosophy and turn it into a tool we can use every day?
+[05:18] Right.
+[05:19] This is where it goes from an idea to a structured technique.
+[05:23] When we start a new project, our default question is always aspirational.
+[05:28] What do we need to do to succeed?
+[05:30] But the inverted question is the opposite.
+[05:32] It's what could happen that would absolutely stop us?
+[05:35] Or maybe even how could this whole thing fail?
+[05:38] And how would I personally be responsible for that failure?
+[05:41] That inverted question is so powerful because it fights our own biases.
+[05:45] We all have confirmation bias.
+[05:47] We look for evidence that we're right and we have optimism bias.
+[05:50] We just assume things will work out.
+[05:52] So inversion forces you to actively look for the flaws to try to prove yourself wrong.
+[05:57] Yes, it's a safety check on your own confidence.
+[06:00] And the best, most structured way to do this is a technique called the failure premortem.
+[06:05] The failure premortem.
+[06:07] Okay, I love that name.
+[06:07] It's a gold standard technique now.
+[06:09] And it's so simple.
+[06:10] Before you start a big project, you imagine it's six months in the future and it has failed.
+[06:15] I mean, failed spectacularly.
+[06:17] And then what?
+[06:17] You hold a meeting.
+[06:19] And everyone on the team has to write an obituary for the project.
+[06:22] You tell the story of how it failed, what went wrong, was it a competitor,
+[06:26] did the team fall apart, did we miss a deadline?
+[06:29] That sounds incredibly uncomfortable.
+[06:32] It is.
+[06:33] But that discomfort is why it works.
+[06:35] It overcomes what we call distance from the consequences.
+[06:39] A small bad decision today might not seem like a big deal.
+[06:43] Until six months later when it blows everything up.
+[06:45] Exactly.
+[06:46] The premortem makes those consequences feel immediate.
+[06:49] And it also gives people permission to voice their doubts.
+[06:52] It makes it safe to say, hey, I'm worried about this without being seen as negative.
+[06:56] You're basically harvesting all the negative intelligence up front
+[06:59] and turning it into a positive action plan.
+[07:01] That's it.
+[07:02] And for anyone listening who wants to use this, there's a really clear five-step process.
+[07:06] Okay, let's walk through it.
+[07:07] Step one is, state your goal.
+[07:10] Be specific.
+[07:11] Write down exactly what success looks like.
+[07:13] Then step two, invert the question.
+[07:16] Immediately flip it.
+[07:17] What does spectacular failure look like?
+[07:19] Not just missing the goal, but the worst possible outcome.
+[07:22] Step three, explore the causes of failure.
+[07:26] Brainstorm every single thing that could lead to that disaster.
+[07:30] Be ruthless.
+[07:31] Bad marketing, a buggy product, a key person quitting.
+[07:34] Right.
+[07:35] Then step four is a bit different.
+[07:37] Way pros and cons inverted.
+[07:39] Usually we look at the upside of our options.
+[07:41] Here you look at the downside.
+[07:43] For each choice you have, you ask what weakness in this specific option
+[07:47] could lead to one of those failures we just listed.
+[07:49] So if I'm choosing a supplier, I don't just look at the price.
+[07:52] I ask which one's shaky logistics are more likely to kill my whole project six months from now.
+[07:57] Precisely.
+[07:57] You're stress testing your choices against failure.
+[08:00] And then finally, step five, implement an action plan.
+[08:03] You build a strategy specifically designed to avoid or fix every cause of failure you identified.
+[08:08] You build guardrails around disaster.
+[08:11] So this applies to, well, everything.
+[08:13] It's not just for big corporate projects.
+[08:16] The beauty here is how versatile it is.
+[08:18] It's like anti-advice for your entire life.
+[08:20] Absolutely.
+[08:21] Think about leadership.
+[08:22] Instead of asking, how can I be a great leader, invert it.
+[08:26] What would I have to do every day to be the most demoralizing, parable leader imaginable?
+[08:31] You'd immediately think of things like micromanaging,
+[08:35] taking credit for other people's work, never giving feedback.
+[08:38] Exactly.
+[08:39] Once you have that list, your leadership plan is simple.
+[08:42] Just don't do those things.
+[08:43] You spend all your energy eliminating harmful actions
+[08:46] instead of chasing vague, good leader traits.
+[08:49] Or what about just being productive?
+[08:51] Instead of, how do I get more done, you could ask.
+[08:54] What are the things that make us unproductive?
+[08:56] What wastes the most time?
+[08:58] The answer isn't a new app.
+[08:59] It's probably too many meetings or a culture where people are afraid to admit mistakes early.
+[09:04] You eliminate the friction.
+[09:05] It even works for personal stuff.
+[09:07] Right.
+[09:07] Relationships.
+[09:08] What behaviors would absolutely destroy this relationship?
+[09:11] Lying, neglect, secrets.
+[09:12] You know what they are, so you focus on avoiding those.
+[09:15] It's a much surer path to a stable relationship than, you know, planning one big romantic gesture.
+[09:20] So at its core, inversion is really a tool to fight our own wiring, our bias for action.
+[09:26] We always want to do something.
+[09:27] But sometimes the most powerful action is inaction, the discipline to avoid an obvious mistake.
+[09:33] It's about constant self-criticism to prevent those big errors from piling up.
+[09:38] Okay.
+[09:38] To bring this all home, let's summarize the key takeaways from this deep dive.
+[09:41] I think the first one is just, the goal is avoidance.
+[09:44] Success usually comes from consistently not making dumb mistakes,
+[09:48] not from one single brilliant move.
+[09:51] Avoiding stupidity is easier and less risky than chasing brilliance.
+[09:55] Second takeaway.
+[09:57] Practice the pre-mortem.
+[09:58] Seriously, use this technique.
+[10:00] Before any big project, imagine it has failed.
+[10:03] Write the story of why.
+[10:04] It will save you so much pain later.
+[10:06] Make it a mandatory step for your team or even just for yourself.
+[10:09] And third, find the anti-advice.
+[10:12] Invert your goals in your career, in your finances, in your relationships.
+[10:16] Figure out what guaranteed failure looks like and then systematically eliminate those behaviors first.
+[10:21] Build your success on a foundation of subtraction.
+[10:23] And just remember, blindly chasing success is always high risk.
+[10:28] But preventing failure using this disciplined approach, that carries very little risk.
+[10:33] It's a much more reliable path to progress.
+[10:36] So the next time you feel stuck, just remember Jacoby and Munger.
+[10:38] Ask yourself, if this all goes horribly wrong in six months,
+[10:42] what's the one obvious mistake I made today that caused it?
+[10:45] And how can I fix that before the sun goes down?
+[10:48] That answer, that might be the biggest breakthrough you have all week.
+[10:50] What stands out to you?

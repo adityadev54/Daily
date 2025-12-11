@@ -1,0 +1,924 @@
+1
+00:00:00,000 --> 00:00:02,279
+All I want to know is where I'm going to die, so I'll never go there.
+
+2
+00:00:02,500 --> 00:00:07,940
+That has to be one of the most paradoxical, but brilliant pieces of advice ever given.
+
+3
+00:00:08,039 --> 00:00:11,480
+It really is. And it comes from, of course, the late Charlie Munger.
+
+4
+00:00:11,699 --> 00:00:15,400
+That single sentence is pretty much the core of the mental model we're
+
+5
+00:00:15,400 --> 00:00:18,019
+diving into today. Inversion. Right.
+
+6
+00:00:18,840 --> 00:00:22,260
+Inversion is, well, it's a way of thinking that just flips the whole problem
+
+7
+00:00:22,260 --> 00:00:23,579
+solving script on its head.
+
+8
+00:00:23,739 --> 00:00:25,899
+So instead of asking, how do I succeed?
+
+9
+00:00:25,980 --> 00:00:26,899
+Which is what everyone does.
+
+10
+00:00:26,920 --> 00:00:28,179
+Which is what we all do naturally.
+
+11
+00:00:28,179 --> 00:00:32,340
+You stop and you ask the reverse, what would guarantee I fail completely?
+
+12
+00:00:32,439 --> 00:00:34,060
+And how do I make sure to avoid that?
+
+13
+00:00:34,320 --> 00:00:36,899
+And our mission today is really to unpack this.
+
+14
+00:00:37,939 --> 00:00:43,060
+This critical skill is used by some of the greatest thinkers, but it's so simple.
+
+15
+00:00:43,979 --> 00:00:48,479
+We're hoping to give you a kind of shortcut to making better decisions, not by, you know,
+
+16
+00:00:48,579 --> 00:00:52,100
+chasing genius, but by focusing on the power of subtraction.
+
+17
+00:00:53,260 --> 00:00:56,100
+Systematically getting rid of the dumb mistakes that trip everyone else up.
+
+18
+00:00:56,100 --> 00:00:59,359
+It's like finding the ultimate avoid stupidity filter.
+
+19
+00:00:59,359 --> 00:01:01,280
+It makes everything clearer and safer.
+
+20
+00:01:01,640 --> 00:01:02,979
+OK, so let's get into it.
+
+21
+00:01:03,140 --> 00:01:04,859
+This whole idea of thinking backward.
+
+22
+00:01:06,240 --> 00:01:07,620
+It's not new, right?
+
+23
+00:01:07,659 --> 00:01:10,340
+This isn't some modern invention from finance bros.
+
+24
+00:01:10,500 --> 00:01:14,079
+Not at all. It has incredibly deep historical roots.
+
+25
+00:01:14,280 --> 00:01:18,700
+I mean, we're talking more than 2000 years ago with the ancient stoic philosophers.
+
+26
+00:01:18,700 --> 00:01:19,659
+The stoics.
+
+27
+00:01:19,680 --> 00:01:19,900
+Yeah.
+
+28
+00:01:20,019 --> 00:01:21,560
+Like Marcus Aurelius and Seneca.
+
+29
+00:01:21,900 --> 00:01:23,219
+Exactly. Those guys.
+
+30
+00:01:23,219 --> 00:01:27,480
+They practice this daily ritual called premeditatio malorum.
+
+31
+00:01:27,599 --> 00:01:31,180
+Which sounds intense. The premeditation of evils.
+
+32
+00:01:31,319 --> 00:01:35,140
+It does. And we think of stoicism as being about, you know, staying calm.
+
+33
+00:01:35,719 --> 00:01:38,200
+But this exercise was proactive.
+
+34
+00:01:38,359 --> 00:01:39,700
+So what did they actually do?
+
+35
+00:01:39,920 --> 00:01:43,480
+Before a big day, they'd vividly imagine the worst case scenario.
+
+36
+00:01:43,739 --> 00:01:45,260
+I mean, really picture it.
+
+37
+00:01:45,540 --> 00:01:49,120
+Losing their job, being humiliated in public, getting thrown in jail.
+
+38
+00:01:49,180 --> 00:01:50,079
+OK, but why?
+
+39
+00:01:50,359 --> 00:01:52,459
+Why would you want to put yourself through that intentionally?
+
+40
+00:01:52,459 --> 00:01:55,799
+Well, it wasn't about scaring yourself. It was about stealing fear's power.
+
+41
+00:01:56,140 --> 00:01:58,799
+By walking through the disaster in your mind, a couple of things happen.
+
+42
+00:01:58,980 --> 00:02:01,719
+First, you realize you could probably handle it emotionally.
+
+43
+00:02:01,780 --> 00:02:02,859
+It's not a shock anymore.
+
+44
+00:02:03,079 --> 00:02:04,760
+Right. You've already lived it once in your head.
+
+45
+00:02:05,120 --> 00:02:07,340
+And second, and this is the key part for inversion,
+
+46
+00:02:07,859 --> 00:02:10,919
+it forces you to see the steps that could lead to that disaster.
+
+47
+00:02:10,960 --> 00:02:13,020
+So you can actively plan to prevent them.
+
+48
+00:02:13,919 --> 00:02:18,000
+The stoics knew that avoiding a terrible life was a more reliable path than just,
+
+49
+00:02:18,000 --> 00:02:20,060
+you know, hoping for a perfect one.
+
+50
+00:02:20,060 --> 00:02:23,219
+That's a huge shift in focus, preemptive prevention.
+
+51
+00:02:23,939 --> 00:02:28,520
+But this ancient idea, it found a new home somewhere completely different.
+
+52
+00:02:28,680 --> 00:02:34,219
+It did. Fast forward to the 19th century with a German mathematician, Carl Jacobi.
+
+53
+00:02:34,280 --> 00:02:35,000
+In mathematics.
+
+54
+00:02:35,259 --> 00:02:35,939
+Of all places.
+
+55
+00:02:36,080 --> 00:02:38,740
+He took this concept and boiled it down to a simple motto,
+
+56
+00:02:39,280 --> 00:02:44,840
+man muss immer umkehren, which basically means invert, always invert.
+
+57
+00:02:45,259 --> 00:02:46,900
+So how does a mathematician use this?
+
+58
+00:02:47,280 --> 00:02:49,439
+Well, when he was stuck on a really complex equation,
+
+59
+00:02:49,439 --> 00:02:54,039
+instead of trying to force a solution forward, he just start at the end result and work backward.
+
+60
+00:02:54,300 --> 00:02:57,960
+And he found that a lot of the time, the solution just revealed itself.
+
+61
+00:02:58,159 --> 00:03:00,639
+So that's the through line from the stoics to Munger.
+
+62
+00:03:01,280 --> 00:03:06,039
+The power is in figuring out how you might fail so you can build a system to avoid it.
+
+63
+00:03:06,120 --> 00:03:09,099
+Exactly. It's about elimination, defining what you want
+
+64
+00:03:09,099 --> 00:03:12,740
+by first figuring out everything you don't want and then just subtracting it.
+
+65
+00:03:12,960 --> 00:03:15,060
+Okay, let's make this really concrete with a visual.
+
+66
+00:03:15,199 --> 00:03:16,219
+I think this helps a lot.
+
+67
+00:03:17,060 --> 00:03:20,659
+Imagine you're at the start of a massive complicated maze.
+
+68
+00:03:21,219 --> 00:03:25,360
+You start walking forward, you hit a dead end, you turn back, you hit another one.
+
+69
+00:03:25,379 --> 00:03:29,120
+It's frustrating, it's slow, it's just inefficient.
+
+70
+00:03:29,379 --> 00:03:30,120
+We've all been there.
+
+71
+00:03:30,240 --> 00:03:33,259
+But if you use inversion, you just go to the end,
+
+72
+00:03:33,419 --> 00:03:35,180
+you start at the exit and you solve it backward.
+
+73
+00:03:35,699 --> 00:03:39,199
+Suddenly, all those dead ends don't matter, the path becomes obvious.
+
+74
+00:03:39,539 --> 00:03:41,979
+The problem just gets so much easier to solve.
+
+75
+00:03:42,039 --> 00:03:46,199
+You're not searching for the one right path, you're eliminating all the wrong ones.
+
+76
+00:03:46,219 --> 00:03:51,360
+And it's that exact clarity that Charlie Munger brought into the chaotic world of finance.
+
+77
+00:03:51,659 --> 00:03:54,099
+Munger took Jacobi's role and applied it to everything.
+
+78
+00:03:54,460 --> 00:03:57,659
+And it led to his foundational principle, which is worth saying again.
+
+79
+00:03:58,020 --> 00:04:02,180
+It is remarkable how much long-term advantage we have gotten by trying to be
+
+80
+00:04:02,180 --> 00:04:05,620
+consistently not stupid instead of trying to be very intelligent.
+
+81
+00:04:05,860 --> 00:04:09,340
+That quote is, it's so deceptively simple.
+
+82
+00:04:09,400 --> 00:04:13,120
+Because the normal approach is, how do I find the next huge stock?
+
+83
+00:04:13,419 --> 00:04:15,759
+Munger flips that completely, he inverts it.
+
+84
+00:04:15,759 --> 00:04:18,199
+The problem for him isn't how do I get rich?
+
+85
+00:04:18,579 --> 00:04:20,620
+It's how do I not lose money?
+
+86
+00:04:21,279 --> 00:04:24,759
+If you solve for that, the getting rich part tends to take care of itself.
+
+87
+00:04:25,120 --> 00:04:28,540
+But couldn't that lead to analysis paralysis?
+
+88
+00:04:28,759 --> 00:04:31,379
+If you're only focused on avoiding failure,
+
+89
+00:04:31,860 --> 00:04:34,100
+how do you ever actually take a risk and do something?
+
+90
+00:04:34,300 --> 00:04:36,699
+That is a great question and it's a real risk.
+
+91
+00:04:36,860 --> 00:04:39,920
+But the key is the kind of mistake you're trying to avoid.
+
+92
+00:04:40,379 --> 00:04:42,560
+Munger's not worried about missing a small opportunity.
+
+93
+00:04:42,620 --> 00:04:43,639
+He's worried about the big ones.
+
+94
+00:04:43,639 --> 00:04:46,300
+The ones that take you out of the game for good.
+
+95
+00:04:46,720 --> 00:04:47,939
+The permanent mistakes.
+
+96
+00:04:49,019 --> 00:04:52,279
+So his inversion process isn't about avoiding every tiny risk.
+
+97
+00:04:52,439 --> 00:04:54,899
+It's about avoiding the things that guarantee destruction.
+
+98
+00:04:55,079 --> 00:04:55,540
+Like what?
+
+99
+00:04:55,899 --> 00:04:59,779
+Like taking on way too much debt, investing in businesses you don't understand,
+
+100
+00:05:00,060 --> 00:05:01,860
+or making emotional impulsive trades.
+
+101
+00:05:02,180 --> 00:05:04,319
+Those are the things that cause catastrophic loss.
+
+102
+00:05:04,620 --> 00:05:06,019
+That's the subtraction mindset.
+
+103
+00:05:06,259 --> 00:05:09,860
+You focus on eliminating harm, which is way easier and more predictable
+
+104
+00:05:09,860 --> 00:05:12,019
+than trying to engineer some brilliant success.
+
+105
+00:05:12,019 --> 00:05:14,079
+Okay, so this is where it gets really useful for all of us.
+
+106
+00:05:14,399 --> 00:05:18,699
+How do we take this philosophy and turn it into a tool we can use every day?
+
+107
+00:05:18,980 --> 00:05:19,259
+Right.
+
+108
+00:05:19,540 --> 00:05:22,639
+This is where it goes from an idea to a structured technique.
+
+109
+00:05:23,439 --> 00:05:27,579
+When we start a new project, our default question is always aspirational.
+
+110
+00:05:28,040 --> 00:05:29,620
+What do we need to do to succeed?
+
+111
+00:05:30,060 --> 00:05:31,839
+But the inverted question is the opposite.
+
+112
+00:05:32,639 --> 00:05:35,660
+It's what could happen that would absolutely stop us?
+
+113
+00:05:35,779 --> 00:05:38,259
+Or maybe even how could this whole thing fail?
+
+114
+00:05:38,319 --> 00:05:41,740
+And how would I personally be responsible for that failure?
+
+115
+00:05:41,740 --> 00:05:45,139
+That inverted question is so powerful because it fights our own biases.
+
+116
+00:05:45,199 --> 00:05:46,879
+We all have confirmation bias.
+
+117
+00:05:47,199 --> 00:05:50,019
+We look for evidence that we're right and we have optimism bias.
+
+118
+00:05:50,459 --> 00:05:52,319
+We just assume things will work out.
+
+119
+00:05:52,540 --> 00:05:57,500
+So inversion forces you to actively look for the flaws to try to prove yourself wrong.
+
+120
+00:05:57,839 --> 00:06:00,019
+Yes, it's a safety check on your own confidence.
+
+121
+00:06:00,500 --> 00:06:05,740
+And the best, most structured way to do this is a technique called the failure premortem.
+
+122
+00:06:05,959 --> 00:06:06,959
+The failure premortem.
+
+123
+00:06:07,060 --> 00:06:07,680
+Okay, I love that name.
+
+124
+00:06:07,720 --> 00:06:09,139
+It's a gold standard technique now.
+
+125
+00:06:09,560 --> 00:06:10,600
+And it's so simple.
+
+126
+00:06:10,600 --> 00:06:15,120
+Before you start a big project, you imagine it's six months in the future and it has failed.
+
+127
+00:06:15,220 --> 00:06:16,980
+I mean, failed spectacularly.
+
+128
+00:06:17,060 --> 00:06:17,500
+And then what?
+
+129
+00:06:17,839 --> 00:06:18,519
+You hold a meeting.
+
+130
+00:06:19,079 --> 00:06:21,860
+And everyone on the team has to write an obituary for the project.
+
+131
+00:06:22,399 --> 00:06:25,839
+You tell the story of how it failed, what went wrong, was it a competitor,
+
+132
+00:06:26,160 --> 00:06:28,759
+did the team fall apart, did we miss a deadline?
+
+133
+00:06:29,519 --> 00:06:32,000
+That sounds incredibly uncomfortable.
+
+134
+00:06:32,300 --> 00:06:32,939
+It is.
+
+135
+00:06:33,160 --> 00:06:35,279
+But that discomfort is why it works.
+
+136
+00:06:35,579 --> 00:06:38,579
+It overcomes what we call distance from the consequences.
+
+137
+00:06:39,139 --> 00:06:42,740
+A small bad decision today might not seem like a big deal.
+
+138
+00:06:43,220 --> 00:06:45,519
+Until six months later when it blows everything up.
+
+139
+00:06:45,660 --> 00:06:46,079
+Exactly.
+
+140
+00:06:46,279 --> 00:06:49,220
+The premortem makes those consequences feel immediate.
+
+141
+00:06:49,519 --> 00:06:52,360
+And it also gives people permission to voice their doubts.
+
+142
+00:06:52,740 --> 00:06:56,879
+It makes it safe to say, hey, I'm worried about this without being seen as negative.
+
+143
+00:06:56,959 --> 00:06:59,899
+You're basically harvesting all the negative intelligence up front
+
+144
+00:06:59,899 --> 00:07:01,779
+and turning it into a positive action plan.
+
+145
+00:07:01,860 --> 00:07:02,379
+That's it.
+
+146
+00:07:02,500 --> 00:07:06,600
+And for anyone listening who wants to use this, there's a really clear five-step process.
+
+147
+00:07:06,680 --> 00:07:07,620
+Okay, let's walk through it.
+
+148
+00:07:07,620 --> 00:07:09,800
+Step one is, state your goal.
+
+149
+00:07:10,240 --> 00:07:10,920
+Be specific.
+
+150
+00:07:11,259 --> 00:07:13,339
+Write down exactly what success looks like.
+
+151
+00:07:13,379 --> 00:07:15,759
+Then step two, invert the question.
+
+152
+00:07:16,139 --> 00:07:17,199
+Immediately flip it.
+
+153
+00:07:17,360 --> 00:07:19,360
+What does spectacular failure look like?
+
+154
+00:07:19,459 --> 00:07:22,379
+Not just missing the goal, but the worst possible outcome.
+
+155
+00:07:22,740 --> 00:07:25,959
+Step three, explore the causes of failure.
+
+156
+00:07:26,980 --> 00:07:29,800
+Brainstorm every single thing that could lead to that disaster.
+
+157
+00:07:30,180 --> 00:07:30,819
+Be ruthless.
+
+158
+00:07:31,459 --> 00:07:34,240
+Bad marketing, a buggy product, a key person quitting.
+
+159
+00:07:34,500 --> 00:07:34,860
+Right.
+
+160
+00:07:35,360 --> 00:07:37,259
+Then step four is a bit different.
+
+161
+00:07:37,259 --> 00:07:38,819
+Way pros and cons inverted.
+
+162
+00:07:39,339 --> 00:07:41,199
+Usually we look at the upside of our options.
+
+163
+00:07:41,439 --> 00:07:42,779
+Here you look at the downside.
+
+164
+00:07:43,079 --> 00:07:47,100
+For each choice you have, you ask what weakness in this specific option
+
+165
+00:07:47,100 --> 00:07:49,600
+could lead to one of those failures we just listed.
+
+166
+00:07:49,879 --> 00:07:52,019
+So if I'm choosing a supplier, I don't just look at the price.
+
+167
+00:07:52,199 --> 00:07:56,459
+I ask which one's shaky logistics are more likely to kill my whole project six months from now.
+
+168
+00:07:57,000 --> 00:07:57,480
+Precisely.
+
+169
+00:07:57,660 --> 00:07:59,959
+You're stress testing your choices against failure.
+
+170
+00:08:00,560 --> 00:08:03,740
+And then finally, step five, implement an action plan.
+
+171
+00:08:03,740 --> 00:08:08,860
+You build a strategy specifically designed to avoid or fix every cause of failure you identified.
+
+172
+00:08:08,959 --> 00:08:11,000
+You build guardrails around disaster.
+
+173
+00:08:11,220 --> 00:08:13,740
+So this applies to, well, everything.
+
+174
+00:08:13,800 --> 00:08:15,740
+It's not just for big corporate projects.
+
+175
+00:08:16,240 --> 00:08:18,139
+The beauty here is how versatile it is.
+
+176
+00:08:18,360 --> 00:08:20,620
+It's like anti-advice for your entire life.
+
+177
+00:08:20,980 --> 00:08:21,379
+Absolutely.
+
+178
+00:08:21,519 --> 00:08:22,620
+Think about leadership.
+
+179
+00:08:22,939 --> 00:08:26,720
+Instead of asking, how can I be a great leader, invert it.
+
+180
+00:08:26,980 --> 00:08:31,639
+What would I have to do every day to be the most demoralizing, parable leader imaginable?
+
+181
+00:08:31,639 --> 00:08:35,440
+You'd immediately think of things like micromanaging,
+
+182
+00:08:35,720 --> 00:08:38,320
+taking credit for other people's work, never giving feedback.
+
+183
+00:08:38,580 --> 00:08:39,019
+Exactly.
+
+184
+00:08:39,220 --> 00:08:41,639
+Once you have that list, your leadership plan is simple.
+
+185
+00:08:42,240 --> 00:08:43,480
+Just don't do those things.
+
+186
+00:08:43,940 --> 00:08:46,519
+You spend all your energy eliminating harmful actions
+
+187
+00:08:46,519 --> 00:08:49,220
+instead of chasing vague, good leader traits.
+
+188
+00:08:49,320 --> 00:08:50,740
+Or what about just being productive?
+
+189
+00:08:51,539 --> 00:08:54,200
+Instead of, how do I get more done, you could ask.
+
+190
+00:08:54,320 --> 00:08:56,120
+What are the things that make us unproductive?
+
+191
+00:08:56,320 --> 00:08:57,899
+What wastes the most time?
+
+192
+00:08:58,340 --> 00:08:59,720
+The answer isn't a new app.
+
+193
+00:08:59,720 --> 00:09:04,240
+It's probably too many meetings or a culture where people are afraid to admit mistakes early.
+
+194
+00:09:04,519 --> 00:09:05,639
+You eliminate the friction.
+
+195
+00:09:05,879 --> 00:09:07,000
+It even works for personal stuff.
+
+196
+00:09:07,299 --> 00:09:07,500
+Right.
+
+197
+00:09:07,580 --> 00:09:08,039
+Relationships.
+
+198
+00:09:08,559 --> 00:09:11,039
+What behaviors would absolutely destroy this relationship?
+
+199
+00:09:11,340 --> 00:09:12,779
+Lying, neglect, secrets.
+
+200
+00:09:12,840 --> 00:09:14,879
+You know what they are, so you focus on avoiding those.
+
+201
+00:09:15,080 --> 00:09:19,919
+It's a much surer path to a stable relationship than, you know, planning one big romantic gesture.
+
+202
+00:09:20,159 --> 00:09:25,600
+So at its core, inversion is really a tool to fight our own wiring, our bias for action.
+
+203
+00:09:26,019 --> 00:09:27,340
+We always want to do something.
+
+204
+00:09:27,340 --> 00:09:33,019
+But sometimes the most powerful action is inaction, the discipline to avoid an obvious mistake.
+
+205
+00:09:33,519 --> 00:09:38,000
+It's about constant self-criticism to prevent those big errors from piling up.
+
+206
+00:09:38,159 --> 00:09:38,299
+Okay.
+
+207
+00:09:38,399 --> 00:09:41,659
+To bring this all home, let's summarize the key takeaways from this deep dive.
+
+208
+00:09:41,799 --> 00:09:44,519
+I think the first one is just, the goal is avoidance.
+
+209
+00:09:44,820 --> 00:09:48,460
+Success usually comes from consistently not making dumb mistakes,
+
+210
+00:09:48,820 --> 00:09:51,580
+not from one single brilliant move.
+
+211
+00:09:51,960 --> 00:09:55,679
+Avoiding stupidity is easier and less risky than chasing brilliance.
+
+212
+00:09:55,860 --> 00:09:56,559
+Second takeaway.
+
+213
+00:09:57,139 --> 00:09:58,600
+Practice the pre-mortem.
+
+214
+00:09:58,879 --> 00:10:00,340
+Seriously, use this technique.
+
+215
+00:10:00,720 --> 00:10:02,980
+Before any big project, imagine it has failed.
+
+216
+00:10:03,259 --> 00:10:04,419
+Write the story of why.
+
+217
+00:10:04,639 --> 00:10:06,360
+It will save you so much pain later.
+
+218
+00:10:06,639 --> 00:10:09,840
+Make it a mandatory step for your team or even just for yourself.
+
+219
+00:10:09,980 --> 00:10:12,279
+And third, find the anti-advice.
+
+220
+00:10:12,360 --> 00:10:16,139
+Invert your goals in your career, in your finances, in your relationships.
+
+221
+00:10:16,539 --> 00:10:20,820
+Figure out what guaranteed failure looks like and then systematically eliminate those behaviors first.
+
+222
+00:10:21,159 --> 00:10:23,320
+Build your success on a foundation of subtraction.
+
+223
+00:10:23,320 --> 00:10:27,879
+And just remember, blindly chasing success is always high risk.
+
+224
+00:10:28,679 --> 00:10:33,720
+But preventing failure using this disciplined approach, that carries very little risk.
+
+225
+00:10:33,899 --> 00:10:35,899
+It's a much more reliable path to progress.
+
+226
+00:10:36,299 --> 00:10:38,820
+So the next time you feel stuck, just remember Jacoby and Munger.
+
+227
+00:10:38,960 --> 00:10:42,120
+Ask yourself, if this all goes horribly wrong in six months,
+
+228
+00:10:42,539 --> 00:10:45,220
+what's the one obvious mistake I made today that caused it?
+
+229
+00:10:45,240 --> 00:10:47,440
+And how can I fix that before the sun goes down?
+
+230
+00:10:48,019 --> 00:10:50,419
+That answer, that might be the biggest breakthrough you have all week.
+
+231
+00:10:50,500 --> 00:10:51,500
+What stands out to you?
+

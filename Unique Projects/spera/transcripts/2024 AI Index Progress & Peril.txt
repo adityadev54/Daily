@@ -1,0 +1,150 @@
+=== CHAPTERS ===
+
+[00:00] All right, so Stanford's big annual AI index report just...
+
+
+=== FULL TRANSCRIPT ===
+
+All right, so Stanford's big annual AI index report just dropped, and it's pretty much our best look at where we stand with artificial intelligence. The 2024 edition really paints a picture of two things happening at once. AI is moving forward at a dizzying speed, but it's also creating some really serious new problems. So let's dive in and break down what that actually means. Okay, let's just kick things off with one number from the report that really jumps out. Since 2013, the number of recorded AI incidents, we're talking about things like deep fakes, big privacy breaches, major accidents. That number has grown by more than 20 times. That is not a small jump, you guys. That is an absolute explosion. And that number, it really gets to the core of this entire report. AI is just developing so incredibly fast that we're all struggling to keep up with the consequences. The story of AI in 2024 is kind of like two stories happening at the same time. On one hand, you have these incredible, unprecedented breakthroughs, and on the other, you have these unprecedented risks popping up right alongside them. So first up, let's talk about the speed. I mean, the sheer pace of AI development right now is, it's just mind boggling. It's really unlike anything we've ever seen before. And look, this isn't just a gut feeling, right? The data absolutely backs this up. What we're looking at here is the raw output from the research community. The number of papers getting published at AI conferences has more than doubled since 2010. And just in the last year, it jumped over 30%. The engine of AI innovation is just firing on all cylinders. And all that research, it's leading to some truly wild new abilities. We're talking stuff that honestly would have sounded like straight up science fiction just a couple of years ago. So a huge reason for this leap is something called multimodal AI. Now what does that mean? Well in simple terms, AI isn't just a one-trick pony anymore. It's not just about text or just about images. Now the heavy hitters can see, read, and listen all at the same time. And that combination is unlocking some incredible new skills. For example, check this out. There's this model called MV Dream. You can just type in a few words, like a bulldog wearing a black pirate hat, and boom, it spits out a whole 3D model. We're not just talking about flat images anymore. This is AI creating entire virtual objects from scratch, just from a little bit of text. But it's not just about creating stuff. It's also about understanding it. Take Meta's Segments Anything model. It can look at a busy, complicated photo, and with this almost superhuman accuracy, it can pick out every single object. It knows that's the emu, that's its beak, that's the backpack, that's the person's hand on the bottle. It's incredible. And this is where it gets really serious. In a good way. These new abilities have some profound, potentially life-saving uses. A new model, Panda, can look at CT scans and find early signs of pancreatic cancer, which is notoriously hard for even human doctors to spot. So this isn't just a cool tech demo. This could be a huge leap forward for science, and it could literally save lives. Okay, so we've seen the amazing side of the coin. But all this incredible progress has a flip side. The report also points a huge spotlight on some deep, pretty worrying cracks that are starting to show up in the very foundation of this tech. And that leads us to this kind of weird, but super important question. You know how AI is creating so much stuff online now? Well, what happens when it starts training on its own creations? Is it kind of eating its own tail? This is a real thing, and it has a name. Model collapse. The best way to think about it is like making a photocopy of a photocopy. You know how each new copy gets a little fuzzier, a little more degraded? That's basically what's happening here. When AI models are trained on other AI-generated data, they can start to lose touch with reality, getting, well, blander and less accurate over time. And you can literally see it happening right here. So on the left, you've got the numbers from the original model trained on real stuff. But watch what happens as it gets retrained on its own output, over and over. All the variety just disappears. By the time you get to the 20th generation, it's just this washed-out, repetitive mess, a poor imitation of the original. And you know what makes this whole thing even trinkier? A serious lack of transparency. This chart, it basically shows that most of the big-name AI models are closed source. That means we have no idea what data they were trained on. So how are researchers supposed to spot problems like model collapse if they can't even look under the hood? So okay, these technical problems are a big deal. But the report doesn't stop there. It goes deeper. And it looks at how AI is already having a direct and sometimes pretty troubling impact on all of us, on our society. Let's talk about safety for a second. We usually think of AI safety as just, you know, blocking it from answering obviously bad questions. But it turns out it's way more complicated than that. Researchers found that you can feed a model a really long, gibberish prompt, and it can actually trick the AI into bypassing its own safety filters. It's a pretty stark reminder that these things don't really understand what they're doing like a person does. And that lack of real understanding can have some pretty dangerous results. I mean, look at this. When researchers asked leading chatbots about medicine and race, the models often just repeated old debunked myths, like false ideas about skin thickness differences between races. It's a perfect and frankly scary example of how biases in the training data can lead to the AI spitting out harmful misinformation. And this bias isn't just about facts. It's cultural, too. Check this out. When an LLM was asked to pick between a good democracy and a strong economy, it overwhelmingly chose democracy. Now that lines up pretty well with opinions in the US and Europe. But it doesn't match what people in many other parts of the world would say. It just goes to show how these models are soaking up the cultural values of the people who build them. And that has huge implications for technology that's supposed to be for everyone all over the globe. So, with all of that, where do we go from here? The report really paints a complicated, nuanced picture of what our future with AI looks like. When you boil it all down, the 2024 AI index is telling us that AI isn't just one thing. It's really two. It's this amazing engine for progress and discovery. And at the exact same time, it's a mirror. A mirror that reflects all of our own biases, our weaknesses, and our societal flaws right back in our faces. And this two-sided nature of AI is forcing a much-needed global conversation about, you know, how do we make sure these things are safe? How do we trust them? The report really highlights this growing demand for more transparency, for more responsibility, from everyone. Policymakers, the public. We're all starting to ask for more accountability. And that really brings us to the big takeaway here. The tech itself, it's not good or bad. It's a tool. It's a reflection. So, the ultimate question this report leaves us with isn't, will AI be good or bad? The real question is, will we be? It all comes down to the choices we make, the values we build into these systems, and the kind of future we decide to create with it.
+
+
+=== TIMESTAMPED SEGMENTS ===
+
+[00:00] All right, so Stanford's big annual AI index report just dropped, and it's pretty much
+[00:05] our best look at where we stand with artificial intelligence.
+[00:08] The 2024 edition really paints a picture of two things happening at once.
+[00:11] AI is moving forward at a dizzying speed, but it's also creating some really serious
+[00:16] new problems.
+[00:17] So let's dive in and break down what that actually means.
+[00:20] Okay, let's just kick things off with one number from the report that really jumps out.
+[00:24] Since 2013, the number of recorded AI incidents, we're talking about things like deep fakes,
+[00:31] big privacy breaches, major accidents.
+[00:33] That number has grown by more than 20 times.
+[00:36] That is not a small jump, you guys.
+[00:38] That is an absolute explosion.
+[00:41] And that number, it really gets to the core of this entire report.
+[00:46] AI is just developing so incredibly fast that we're all struggling to keep up with the
+[00:52] consequences.
+[00:53] The story of AI in 2024 is kind of like two stories happening at the same time.
+[00:58] On one hand, you have these incredible, unprecedented breakthroughs, and on the other, you have these
+[01:04] unprecedented risks popping up right alongside them.
+[01:07] So first up, let's talk about the speed.
+[01:10] I mean, the sheer pace of AI development right now is, it's just mind boggling.
+[01:15] It's really unlike anything we've ever seen before.
+[01:18] And look, this isn't just a gut feeling, right?
+[01:20] The data absolutely backs this up.
+[01:23] What we're looking at here is the raw output from the research community.
+[01:26] The number of papers getting published at AI conferences has more than doubled since
+[01:30] 2010.
+[01:31] And just in the last year, it jumped over 30%.
+[01:33] The engine of AI innovation is just firing on all cylinders.
+[01:38] And all that research, it's leading to some truly wild new abilities.
+[01:43] We're talking stuff that honestly would have sounded like straight up science fiction just
+[01:48] a couple of years ago.
+[01:50] So a huge reason for this leap is something called multimodal AI.
+[01:54] Now what does that mean?
+[01:56] Well in simple terms, AI isn't just a one-trick pony anymore.
+[02:00] It's not just about text or just about images.
+[02:03] Now the heavy hitters can see, read, and listen all at the same time.
+[02:08] And that combination is unlocking some incredible new skills.
+[02:12] For example, check this out.
+[02:14] There's this model called MV Dream.
+[02:16] You can just type in a few words, like a bulldog wearing a black pirate hat, and boom, it spits
+[02:22] out a whole 3D model.
+[02:24] We're not just talking about flat images anymore.
+[02:26] This is AI creating entire virtual objects from scratch, just from a little bit of text.
+[02:32] But it's not just about creating stuff.
+[02:34] It's also about understanding it.
+[02:36] Take Meta's Segments Anything model.
+[02:38] It can look at a busy, complicated photo, and with this almost superhuman accuracy,
+[02:44] it can pick out every single object.
+[02:47] It knows that's the emu, that's its beak, that's the backpack, that's the person's
+[02:50] hand on the bottle.
+[02:52] It's incredible.
+[02:53] And this is where it gets really serious.
+[02:56] In a good way.
+[02:57] These new abilities have some profound, potentially life-saving uses.
+[03:01] A new model, Panda, can look at CT scans and find early signs of pancreatic cancer, which
+[03:07] is notoriously hard for even human doctors to spot.
+[03:11] So this isn't just a cool tech demo.
+[03:12] This could be a huge leap forward for science, and it could literally save lives.
+[03:18] Okay, so we've seen the amazing side of the coin.
+[03:22] But all this incredible progress has a flip side.
+[03:26] The report also points a huge spotlight on some deep, pretty worrying cracks that are
+[03:31] starting to show up in the very foundation of this tech.
+[03:35] And that leads us to this kind of weird, but super important question.
+[03:39] You know how AI is creating so much stuff online now?
+[03:41] Well, what happens when it starts training on its own creations?
+[03:46] Is it kind of eating its own tail?
+[03:48] This is a real thing, and it has a name.
+[03:51] Model collapse.
+[03:53] The best way to think about it is like making a photocopy of a photocopy.
+[03:57] You know how each new copy gets a little fuzzier, a little more degraded?
+[04:01] That's basically what's happening here.
+[04:03] When AI models are trained on other AI-generated data, they can start to lose touch with reality,
+[04:08] getting, well, blander and less accurate over time.
+[04:12] And you can literally see it happening right here.
+[04:15] So on the left, you've got the numbers from the original model trained on real stuff.
+[04:19] But watch what happens as it gets retrained on its own output, over and over.
+[04:23] All the variety just disappears.
+[04:25] By the time you get to the 20th generation, it's just this washed-out, repetitive mess,
+[04:30] a poor imitation of the original.
+[04:32] And you know what makes this whole thing even trinkier?
+[04:35] A serious lack of transparency.
+[04:38] This chart, it basically shows that most of the big-name AI models are closed source.
+[04:44] That means we have no idea what data they were trained on.
+[04:47] So how are researchers supposed to spot problems like model collapse if they can't even look
+[04:52] under the hood?
+[04:53] So okay, these technical problems are a big deal.
+[04:56] But the report doesn't stop there.
+[04:58] It goes deeper.
+[04:59] And it looks at how AI is already having a direct and sometimes pretty troubling impact
+[05:04] on all of us, on our society.
+[05:06] Let's talk about safety for a second.
+[05:09] We usually think of AI safety as just, you know, blocking it from answering obviously
+[05:13] bad questions.
+[05:14] But it turns out it's way more complicated than that.
+[05:17] Researchers found that you can feed a model a really long, gibberish prompt, and it can
+[05:21] actually trick the AI into bypassing its own safety filters.
+[05:24] It's a pretty stark reminder that these things don't really understand what they're doing
+[05:28] like a person does.
+[05:30] And that lack of real understanding can have some pretty dangerous results.
+[05:34] I mean, look at this.
+[05:35] When researchers asked leading chatbots about medicine and race, the models often just repeated
+[05:40] old debunked myths, like false ideas about skin thickness differences between races.
+[05:46] It's a perfect and frankly scary example of how biases in the training data can lead
+[05:50] to the AI spitting out harmful misinformation.
+[05:54] And this bias isn't just about facts.
+[05:55] It's cultural, too.
+[05:57] Check this out.
+[05:58] When an LLM was asked to pick between a good democracy and a strong economy, it overwhelmingly
+[06:02] chose democracy.
+[06:03] Now that lines up pretty well with opinions in the US and Europe.
+[06:07] But it doesn't match what people in many other parts of the world would say.
+[06:11] It just goes to show how these models are soaking up the cultural values of the people
+[06:14] who build them.
+[06:15] And that has huge implications for technology that's supposed to be for everyone all over
+[06:19] the globe.
+[06:20] So, with all of that, where do we go from here?
+[06:23] The report really paints a complicated, nuanced picture of what our future with AI looks like.
+[06:30] When you boil it all down, the 2024 AI index is telling us that AI isn't just one thing.
+[06:36] It's really two.
+[06:37] It's this amazing engine for progress and discovery.
+[06:40] And at the exact same time, it's a mirror.
+[06:43] A mirror that reflects all of our own biases, our weaknesses, and our societal flaws right
+[06:47] back in our faces.
+[06:49] And this two-sided nature of AI is forcing a much-needed global conversation about, you
+[06:54] know, how do we make sure these things are safe?
+[06:56] How do we trust them?
+[06:58] The report really highlights this growing demand for more transparency, for more responsibility,
+[07:03] from everyone.
+[07:04] Policymakers, the public.
+[07:06] We're all starting to ask for more accountability.
+[07:09] And that really brings us to the big takeaway here.
+[07:12] The tech itself, it's not good or bad.
+[07:15] It's a tool.
+[07:16] It's a reflection.
+[07:17] So, the ultimate question this report leaves us with isn't, will AI be good or bad?
+[07:22] The real question is, will we be?
+[07:25] It all comes down to the choices we make, the values we build into these systems, and
+[07:29] the kind of future we decide to create with it.

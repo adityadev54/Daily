@@ -1,0 +1,438 @@
+{
+  "language": "en",
+  "duration_seconds": 329.42,
+  "duration_formatted": "05:29",
+  "full_transcript": "You know, in the world of artificial intelligence, there's this massive, hidden dragon that every researcher, every company is desperately trying to slay. And it's not a lack of data or a shortage of brilliant minds. No, it's something way more fundamental than that. So what is this dragon? What's the one thing that's really holding back the next wave of AI breakthroughs? You know, the stuff that could cure diseases or help solve climate change? Believe it or not, The answer is kind of simple, almost mundane, really. It's inefficiency. The sheer amount of time and computational power it takes to teach an AI model anything, it's just staggering. It's like we're building these incredible superhighways, but forcing our AI to learn how to drive stuck in first gear. So we keep throwing all this amazing hardware at the problem, but what if the problem isn't the engine? What if it's the map we're using? The real breakthrough, it turns out, isn't just about training harder, it's about training smarter. And that brings us to this whole quest for something called optimization. I want you to think about it like this. Training an AI is like trying to find the absolute lowest point in a massive, complicated mountain range, but you have to do it in a super thick fog. So for years, the standard way we've done this is with something called first order optimization. Okay, so you're in that foggy valley, you can't see a thing. All you can do is feel the right where you're standing. So you take a small step downhill, feel the slope again, take another step. It works eventually, but it's this slow plotting process. You might end up zigzagging down a gentle slope for hours, and you'd completely miss a much steeper, way faster path that was just a few feet away. But what if the fog lifted just a little? That's what second order optimization is like. Instead of just feeling the slope right under your feet, you can now see the curvature of the valley around you. You don't just see which way is down, you see how quickly it goes down. You can see the whole shape of the terrain, which means you can aim directly for the bottom. It is a total game changer. And you can literally see the difference here. On the left, first order optimization sees the world in a straight line. It's looking at each piece of the puzzle on its own. But over on the right, second order sees the whole picture, every single connection, every relationship. It's the difference between looking at one single paving stone versus seeing the entire map. Now, for a long, long time, being able to see that full map was just way too computationally expensive. It was a beautiful idea in theory that just couldn't work in the real world with the enormous AI models we use today. Until a new algorithm came along, one with a, well, a pretty memorable name, to slay this dragon of inefficiency. It's called Shampoo. And its whole purpose is right there in what its creators said. Shampoo was designed to bridge the gap. It finds this really clever way to approximate that full map, all that second order information, but without the crippling computational cost. It makes the power of seeing the whole terrain accessible for the very first time at a massive scale. So how does it pull this off? Well, it's kind of like a brilliant orchestra conductor. You've got the main GPU musicians playing the main melody, that's the AI training, but Shampoo notices the CPU percussion section is just sitting there not doing much. So it hands them a totally different piece of music, those complex map making calculations, and tells them to play it at the same time. Nothing stops, nobody has to wait. It's just a symphony of efficiency, using every part of the computer in perfect harmony. And all of this speed up. We're not talking about a theoretical improvement here. This is about getting results way faster. Researchers applied Shampoo to some of the largest, most complex models out there. You know, models for machine translation, language understanding, ad prediction, and the results? They were dramatic. And the results are just stunning. I mean, look at this. For a standard transformer model, the kind that powers things like Google Translate, they didn't just shave off a few minutes, they cut the training time nearly in half. And for the really big models, they saved over 17 hours. That's not just an improvement, that's a revolution. Let that sink in. What this means is that for some of the biggest, most important AI tasks in the world, we can now get to the answer almost twice as fast. Just imagine what that does to the speed of discovery. So this is way more than just a faster algorithm. This is about unlocking the future. When you can dramatically reduce the time it takes to experiment and to innovate, you fundamentally change what's even possible. So as we're emerging from that foggy valley, and we've got this much clearer map in our hands, what are the key landmarks we should remember from this journey? Okay, first, remember that one of AI's biggest dragons is just simple inefficiency, the time and the cost of training. Second, the solution isn't always just more power. It's smarter methods like second order optimization that give us a bird's eye view of the problem. And third, and this is the most important part, making training faster means we accelerate the entire cycle of innovation, from a new idea to a real breakthrough. Because this isn't just about faster computers. It's about faster cures. It's about getting to a cancer treatment or a climate solution or a scientific discovery in half the time. The real question isn't how much faster the AI can learn. It's how much faster we can build a better world for everyone.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.58,
+      "start_formatted": "00:00",
+      "end_formatted": "00:05",
+      "text": "You know, in the world of artificial intelligence, there's this massive, hidden dragon that every"
+    },
+    {
+      "start": 5.58,
+      "end": 11.2,
+      "start_formatted": "00:05",
+      "end_formatted": "00:11",
+      "text": "researcher, every company is desperately trying to slay. And it's not a lack of data or a shortage"
+    },
+    {
+      "start": 11.2,
+      "end": 17.38,
+      "start_formatted": "00:11",
+      "end_formatted": "00:17",
+      "text": "of brilliant minds. No, it's something way more fundamental than that. So what is this dragon?"
+    },
+    {
+      "start": 17.88,
+      "end": 22.04,
+      "start_formatted": "00:17",
+      "end_formatted": "00:22",
+      "text": "What's the one thing that's really holding back the next wave of AI breakthroughs? You know,"
+    },
+    {
+      "start": 22.06,
+      "end": 26.4,
+      "start_formatted": "00:22",
+      "end_formatted": "00:26",
+      "text": "the stuff that could cure diseases or help solve climate change? Believe it or not,"
+    },
+    {
+      "start": 26.4,
+      "end": 32.1,
+      "start_formatted": "00:26",
+      "end_formatted": "00:32",
+      "text": "The answer is kind of simple, almost mundane, really. It's inefficiency. The sheer amount of time"
+    },
+    {
+      "start": 32.1,
+      "end": 37.16,
+      "start_formatted": "00:32",
+      "end_formatted": "00:37",
+      "text": "and computational power it takes to teach an AI model anything, it's just staggering. It's like"
+    },
+    {
+      "start": 37.16,
+      "end": 41.76,
+      "start_formatted": "00:37",
+      "end_formatted": "00:41",
+      "text": "we're building these incredible superhighways, but forcing our AI to learn how to drive stuck in first"
+    },
+    {
+      "start": 41.76,
+      "end": 48.3,
+      "start_formatted": "00:41",
+      "end_formatted": "00:48",
+      "text": "gear. So we keep throwing all this amazing hardware at the problem, but what if the problem isn't the"
+    },
+    {
+      "start": 48.3,
+      "end": 53.3,
+      "start_formatted": "00:48",
+      "end_formatted": "00:53",
+      "text": "engine? What if it's the map we're using? The real breakthrough, it turns out, isn't just about"
+    },
+    {
+      "start": 53.3,
+      "end": 58.92,
+      "start_formatted": "00:53",
+      "end_formatted": "00:58",
+      "text": "training harder, it's about training smarter. And that brings us to this whole quest for something"
+    },
+    {
+      "start": 58.92,
+      "end": 64.0,
+      "start_formatted": "00:58",
+      "end_formatted": "01:04",
+      "text": "called optimization. I want you to think about it like this. Training an AI is like trying to find"
+    },
+    {
+      "start": 64.0,
+      "end": 69.36,
+      "start_formatted": "01:04",
+      "end_formatted": "01:09",
+      "text": "the absolute lowest point in a massive, complicated mountain range, but you have to do it in a super"
+    },
+    {
+      "start": 69.36,
+      "end": 74.34,
+      "start_formatted": "01:09",
+      "end_formatted": "01:14",
+      "text": "thick fog. So for years, the standard way we've done this is with something called first order"
+    },
+    {
+      "start": 74.34,
+      "end": 79.78,
+      "start_formatted": "01:14",
+      "end_formatted": "01:19",
+      "text": "optimization. Okay, so you're in that foggy valley, you can't see a thing. All you can do is feel the"
+    },
+    {
+      "start": 80.6,
+      "end": 86.74,
+      "start_formatted": "01:20",
+      "end_formatted": "01:26",
+      "text": "right where you're standing. So you take a small step downhill, feel the slope again, take another"
+    },
+    {
+      "start": 86.74,
+      "end": 93.48,
+      "start_formatted": "01:26",
+      "end_formatted": "01:33",
+      "text": "step. It works eventually, but it's this slow plotting process. You might end up zigzagging down"
+    },
+    {
+      "start": 93.48,
+      "end": 99.12,
+      "start_formatted": "01:33",
+      "end_formatted": "01:39",
+      "text": "a gentle slope for hours, and you'd completely miss a much steeper, way faster path that was just a"
+    },
+    {
+      "start": 99.12,
+      "end": 105.44,
+      "start_formatted": "01:39",
+      "end_formatted": "01:45",
+      "text": "few feet away. But what if the fog lifted just a little? That's what second order optimization is"
+    },
+    {
+      "start": 105.44,
+      "end": 110.28,
+      "start_formatted": "01:45",
+      "end_formatted": "01:50",
+      "text": "like. Instead of just feeling the slope right under your feet, you can now see the curvature of"
+    },
+    {
+      "start": 110.28,
+      "end": 115.28,
+      "start_formatted": "01:50",
+      "end_formatted": "01:55",
+      "text": "the valley around you. You don't just see which way is down, you see how quickly it goes down."
+    },
+    {
+      "start": 115.62,
+      "end": 120.02,
+      "start_formatted": "01:55",
+      "end_formatted": "02:00",
+      "text": "You can see the whole shape of the terrain, which means you can aim directly for the bottom."
+    },
+    {
+      "start": 120.52,
+      "end": 126.28,
+      "start_formatted": "02:00",
+      "end_formatted": "02:06",
+      "text": "It is a total game changer. And you can literally see the difference here. On the left, first order"
+    },
+    {
+      "start": 126.28,
+      "end": 131.2,
+      "start_formatted": "02:06",
+      "end_formatted": "02:11",
+      "text": "optimization sees the world in a straight line. It's looking at each piece of the puzzle on its own."
+    },
+    {
+      "start": 131.2,
+      "end": 136.8,
+      "start_formatted": "02:11",
+      "end_formatted": "02:16",
+      "text": "But over on the right, second order sees the whole picture, every single connection, every"
+    },
+    {
+      "start": 136.8,
+      "end": 142.2,
+      "start_formatted": "02:16",
+      "end_formatted": "02:22",
+      "text": "relationship. It's the difference between looking at one single paving stone versus seeing the entire"
+    },
+    {
+      "start": 142.2,
+      "end": 148.92,
+      "start_formatted": "02:22",
+      "end_formatted": "02:28",
+      "text": "map. Now, for a long, long time, being able to see that full map was just way too computationally"
+    },
+    {
+      "start": 148.92,
+      "end": 153.82,
+      "start_formatted": "02:28",
+      "end_formatted": "02:33",
+      "text": "expensive. It was a beautiful idea in theory that just couldn't work in the real world with the"
+    },
+    {
+      "start": 153.82,
+      "end": 160.1,
+      "start_formatted": "02:33",
+      "end_formatted": "02:40",
+      "text": "enormous AI models we use today. Until a new algorithm came along, one with a, well, a pretty"
+    },
+    {
+      "start": 160.1,
+      "end": 167.4,
+      "start_formatted": "02:40",
+      "end_formatted": "02:47",
+      "text": "memorable name, to slay this dragon of inefficiency. It's called Shampoo. And its whole purpose is right"
+    },
+    {
+      "start": 167.4,
+      "end": 173.46,
+      "start_formatted": "02:47",
+      "end_formatted": "02:53",
+      "text": "there in what its creators said. Shampoo was designed to bridge the gap. It finds this really"
+    },
+    {
+      "start": 173.46,
+      "end": 178.86,
+      "start_formatted": "02:53",
+      "end_formatted": "02:58",
+      "text": "clever way to approximate that full map, all that second order information, but without the crippling"
+    },
+    {
+      "start": 178.86,
+      "end": 184.02,
+      "start_formatted": "02:58",
+      "end_formatted": "03:04",
+      "text": "computational cost. It makes the power of seeing the whole terrain accessible for the very first"
+    },
+    {
+      "start": 184.02,
+      "end": 189.14,
+      "start_formatted": "03:04",
+      "end_formatted": "03:09",
+      "text": "time at a massive scale. So how does it pull this off? Well, it's kind of like a brilliant"
+    },
+    {
+      "start": 189.14,
+      "end": 194.24,
+      "start_formatted": "03:09",
+      "end_formatted": "03:14",
+      "text": "orchestra conductor. You've got the main GPU musicians playing the main melody, that's the AI"
+    },
+    {
+      "start": 194.24,
+      "end": 199.2,
+      "start_formatted": "03:14",
+      "end_formatted": "03:19",
+      "text": "training, but Shampoo notices the CPU percussion section is just sitting there not doing much."
+    },
+    {
+      "start": 199.58,
+      "end": 203.84,
+      "start_formatted": "03:19",
+      "end_formatted": "03:23",
+      "text": "So it hands them a totally different piece of music, those complex map making calculations,"
+    },
+    {
+      "start": 204.1,
+      "end": 208.76,
+      "start_formatted": "03:24",
+      "end_formatted": "03:28",
+      "text": "and tells them to play it at the same time. Nothing stops, nobody has to wait. It's just a"
+    },
+    {
+      "start": 208.76,
+      "end": 219.12,
+      "start_formatted": "03:28",
+      "end_formatted": "03:39",
+      "text": "symphony of efficiency, using every part of the computer in perfect harmony. And all of this"
+    },
+    {
+      "start": 219.12,
+      "end": 223.62,
+      "start_formatted": "03:39",
+      "end_formatted": "03:43",
+      "text": "speed up. We're not talking about a theoretical improvement here. This is about getting results"
+    },
+    {
+      "start": 223.62,
+      "end": 228.58,
+      "start_formatted": "03:43",
+      "end_formatted": "03:48",
+      "text": "way faster. Researchers applied Shampoo to some of the largest, most complex models out there."
+    },
+    {
+      "start": 228.86,
+      "end": 233.48,
+      "start_formatted": "03:48",
+      "end_formatted": "03:53",
+      "text": "You know, models for machine translation, language understanding, ad prediction, and the results?"
+    },
+    {
+      "start": 233.96,
+      "end": 240.26,
+      "start_formatted": "03:53",
+      "end_formatted": "04:00",
+      "text": "They were dramatic. And the results are just stunning. I mean, look at this. For a standard"
+    },
+    {
+      "start": 240.26,
+      "end": 244.82,
+      "start_formatted": "04:00",
+      "end_formatted": "04:04",
+      "text": "transformer model, the kind that powers things like Google Translate, they didn't just shave off a"
+    },
+    {
+      "start": 244.82,
+      "end": 250.92,
+      "start_formatted": "04:04",
+      "end_formatted": "04:10",
+      "text": "few minutes, they cut the training time nearly in half. And for the really big models, they saved"
+    },
+    {
+      "start": 250.92,
+      "end": 258.14,
+      "start_formatted": "04:10",
+      "end_formatted": "04:18",
+      "text": "over 17 hours. That's not just an improvement, that's a revolution. Let that sink in. What this"
+    },
+    {
+      "start": 258.14,
+      "end": 263.02,
+      "start_formatted": "04:18",
+      "end_formatted": "04:23",
+      "text": "means is that for some of the biggest, most important AI tasks in the world, we can now get"
+    },
+    {
+      "start": 263.02,
+      "end": 267.7,
+      "start_formatted": "04:23",
+      "end_formatted": "04:27",
+      "text": "to the answer almost twice as fast. Just imagine what that does to the speed of discovery."
+    },
+    {
+      "start": 268.46,
+      "end": 274.6,
+      "start_formatted": "04:28",
+      "end_formatted": "04:34",
+      "text": "So this is way more than just a faster algorithm. This is about unlocking the future. When you can"
+    },
+    {
+      "start": 274.6,
+      "end": 279.74,
+      "start_formatted": "04:34",
+      "end_formatted": "04:39",
+      "text": "dramatically reduce the time it takes to experiment and to innovate, you fundamentally change what's"
+    },
+    {
+      "start": 279.74,
+      "end": 285.86,
+      "start_formatted": "04:39",
+      "end_formatted": "04:45",
+      "text": "even possible. So as we're emerging from that foggy valley, and we've got this much clearer map in"
+    },
+    {
+      "start": 285.86,
+      "end": 291.38,
+      "start_formatted": "04:45",
+      "end_formatted": "04:51",
+      "text": "our hands, what are the key landmarks we should remember from this journey? Okay, first, remember"
+    },
+    {
+      "start": 291.38,
+      "end": 296.36,
+      "start_formatted": "04:51",
+      "end_formatted": "04:56",
+      "text": "that one of AI's biggest dragons is just simple inefficiency, the time and the cost of training."
+    },
+    {
+      "start": 296.84,
+      "end": 301.68,
+      "start_formatted": "04:56",
+      "end_formatted": "05:01",
+      "text": "Second, the solution isn't always just more power. It's smarter methods like second order optimization"
+    },
+    {
+      "start": 301.68,
+      "end": 306.12,
+      "start_formatted": "05:01",
+      "end_formatted": "05:06",
+      "text": "that give us a bird's eye view of the problem. And third, and this is the most important part,"
+    },
+    {
+      "start": 306.54,
+      "end": 311.34,
+      "start_formatted": "05:06",
+      "end_formatted": "05:11",
+      "text": "making training faster means we accelerate the entire cycle of innovation, from a new idea"
+    },
+    {
+      "start": 311.34,
+      "end": 317.14,
+      "start_formatted": "05:11",
+      "end_formatted": "05:17",
+      "text": "to a real breakthrough. Because this isn't just about faster computers. It's about faster cures."
+    },
+    {
+      "start": 317.48,
+      "end": 322.4,
+      "start_formatted": "05:17",
+      "end_formatted": "05:22",
+      "text": "It's about getting to a cancer treatment or a climate solution or a scientific discovery in half"
+    },
+    {
+      "start": 322.4,
+      "end": 328.1,
+      "start_formatted": "05:22",
+      "end_formatted": "05:28",
+      "text": "the time. The real question isn't how much faster the AI can learn. It's how much faster we can build"
+    },
+    {
+      "start": 328.1,
+      "end": 329.42,
+      "start_formatted": "05:28",
+      "end_formatted": "05:29",
+      "text": "a better world for everyone."
+    }
+  ],
+  "chapters": [
+    {
+      "start": 0,
+      "start_formatted": "00:00",
+      "title": "You know, in the world of artificial intelligence, there's...",
+      "text_preview": "You know, in the world of artificial intelligence, there's this massive, hidden dragon that every researcher, every company is desperately trying to slay. And it's not a lack of data or a shortage of ",
+      "number": 1
+    }
+  ],
+  "word_count": 1007
+}

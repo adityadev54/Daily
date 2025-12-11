@@ -1,0 +1,2657 @@
+{
+  "language": "en",
+  "duration_seconds": 845.64,
+  "duration_formatted": "14:05",
+  "full_transcript": "I want you to anchor yourself in two numbers right now. They really define the strategic challenge of our time. The first number is $65 million. That is the conventional sort of accepted price tag for building a modern orbital class rocket. 65 million. The benchmark, you know, the number everyone just accepts is reality. Exactly. Now hold onto the second number, $2 million. Okay. That figure represents the actual objective, theoretical minimum cost of the raw materials, the high grade aluminum, the titanium, copper, carbon fiber, all the stuff you need to build that exact same rocket. So wait, you're saying the fundamental material cost is just over 2% of the final price? Just over 2%. Wow. That massive, nearly 97% gap. Yeah. It's not filled by physics or necessary complexity. It's filled by something else. Yeah. That right there, that's the opportunity. That 97% gap, that's the whole ball game. It basically screams that the cost problem isn't a science problem, it's just a history problem. Right. So our mission in this deep dive is to explore the tool that world-class innovators use to attack that history. We're diving deep into what's called first principles thinking, or FPT. And really what we're exploring is the intellectual courage it takes to choose rigor over ease. I mean, most people and most companies, they reason by analogy. It's the default path, right? It's mentally easier. Totally. We look at the past and we just assume the future has to resemble it. We say, well, rockets cost 65 million because that's what rockets have always cost. So we have to build our business around that price. Exactly. And your vision is immediately constrained. You might make it 5% better, maybe 10% cheaper by tweaking your supply chain, but you are still completely trapped inside that conventional frame. FPT demands that we just ignore those conventions. We boil everything down to its foundational objective truths. And while this feels so modern, so revolutionary, it's actually not new at all, is it? Not at all. It's rooted in a philosophical tradition laid down by Aristotle. He was obsessed with moving past in doxa, the things known to us. So common beliefs, accepted theories. He wanted to move from that to things known by nature, the objective principles that actually govern the world. So this deep dive is basically the mental blueprint for mastering that shift. That's the goal. Okay, let's unpack this with a relatable story first because I think we all do this analogical thinking all the time. Think about that simple human tendency to just stop asking why. Oh, it starts so young. You see it with kids, right? That relentless questioning. Yes, why is the sky blue? Why is the sun hot? Why do I have to eat my vegetables? That sequence of whys is the purest form of first principles analysis. The child is literally trying to deconstruct the world. And what always happens, questioning goes on and on until the adult's answer finally becomes, because I said so. Or, and this is more telling, the adult realizes their own supposedly deep knowledge is actually pretty fragile. They don't know the full chain of cause and effect. Exactly. They stop asking why, right at the point where the answer demands real intellectual effort. And that fragility translates directly into corporate inertia. In business, reasoning by analogy is like a comfort blanket. You look at the market leaders, you look at your own history, and you just replicate them with slight adjustments. We saw this failure everywhere during the rise of digital disruption. Yeah, the sources get into this. When legacy companies saw these disruptors gaining traction, their response was often, oh, the competitor is digital, so we should launch an e-commerce platform and become digital too. That is such a superficial diagnosis. It's replicating the outward form, the website, without analyzing the underlying substance. They failed to ask the ultimate why. Right, why is the disruptor actually succeeding? It wasn't just because they had a website, it was because their unit economics, built from the ground up, were fundamentally different. Their cost structure was maybe 80% lower, because they didn't have to carry all that baggage. Like retail rents, massive legacy inventory systems. Geographical restrictions, all of it. They stopped the why game way too soon. So FPT is the antidote. It demands the courage to question the foundational beliefs of your entire industry. And to master it, you need a disciplined process. It's not just a general mindset, it's a systematic method. It really comes down to three core principles. Okay, so the first one is reduction. This is where you disassemble the problem, you break it down into its smallest, most foundational elements, the objective truths. The things that cannot be logically broken down any further. Then step two, and this is arguably the hardest one, challenging assumptions. This is where you have to consciously identify every framework, every convention, every piece of accepted wisdom that the industry has layered on top of those truths. You're hunting for things that are only true because we've always done it that way. Right, and once you have your list of truths, and you've swept away all those conventions, then comes step three. Rebuilding. You construct entirely new solutions based only on the objective facts you uncovered, completely ignoring the old way. I think the Lego block analogy here is perfect. It really captures it. It does. Most people approach a complex problem like rebuilding a pre-assembled Lego car. You might take it apart into its components, wheels, doors, a roof. And then you rebuild it into something a little different, maybe a truck. That's reasoning by analogy. You're limited by the original parts and their existing shapes. Exactly, but first principles thinking says, forget the car. You take the wheels, the doors, the roof, and you melt all that plastic down until you are left only with the raw material, the core plastic polymers. So you're not limited by the old shapes anymore. You're only limited by the material itself and, well, your imagination. Precisely. You are no longer building a slightly better car. You can build a space station, a sword, something the world has never even seen before, because you started from the foundational building blocks, not the previous assembly. The insight is that the rules of the old assembly were arbitrary, but the properties of the raw material are fundamental. But honestly, this sounds exhausting. You said challenging assumptions is the hardest part. How do you stop this from just becoming analysis for the sake of analysis? Doesn't a company risk losing all momentum? That's a critical question. And the rigor is the cost of entry. If you don't do it, you just default back to analogy. But the analysis isn't endless. It stops when you hit a wall you cannot melt down. We'll get to the formal stopping rules, but first, let's see this applied in the real world. Let's go back to SpaceX. When Elon Musk looked at that $65 million price tag, he didn't start with the budget. He started with the elements. He performed the ultimate reduction. He asked, what is a rocket made of? Not, what does a supplier charge me for a valve? But what are the foundational materials? And the analysis was, I mean, it was shocking. The raw materials, the alloys, the carbon fiber, the fuel, had a theoretical minimum cost of just $2 million. And that huge visible gap between the theoretical minimum cost, the TMC, and the current industry cost, the CIC, that is what revealed the strategic opportunity. This gives us a framework for the attack. The current industry cost isn't just TMC plus profit. It's TMC plus a massive convention margin, plus inefficiency, plus profit. And in aerospace, the sources show that 83% of the total cost structure was related to convention, not physics. 83%. The convention margin is where all those industry assumptions live. SpaceX realized that 20% of the cost was just supplier margins. Another 18% was manufacturing labor tied to old bespoke techniques. Another 8% was overhead baked into legacy operations. So the real job wasn't optimizing the 2% material cost. It was about radically deconstructing that 83% convention margin. And by vertically integrating, literally building their own components, their own alloys, and redesigning the whole process for reusability, they attacked the conventions, not the laws of nature. And that's the target. That brings up this idea of the Assumption to Principle Ratio, or APR. Right, the APR is basically the percentage of an industry's model that's based on convention versus objective facts. The higher that ratio, the more assumptions are driving the cost. And the riper the industry is for disruption. In aerospace, that ratio was just astronomical. You see the exact same pattern with PESLA and the electric car battery. For decades, the standard cost was set impossibly high, maybe $600 or $700 per kilowatt hour. That cost ceiling was a convention. It was imposed by legacy supply chains and old manufacturing methods. So the FPT approach was to ask, what is the battery? Not what does the supplier charge, but what are the raw materials? And by reducing it to its core components, the raw lithium, nickel, cobalt, aluminum, the analysis showed the theoretical minimum material cost was only about $80 per kilowatt hour. Wow. That objective truth immediately redefined the boundary of what was possible. They knew the problem wasn't chemistry, it was convention. And they set a clear $80 target. And this isn't just for heavy manufacturing. The XeroDah example from Stockbrokerage in India is perfect. Around 2010, that industry ran on some really fundamental assumptions. The legacy model was built on three core conventions. One, brokers need a physical high street presence. Two, they have to use a high commission model, especially for active traders. And three, trading platforms are expensive, complex infrastructure. So XeroDah applied FPT. They challenged the need for physical branches, realizing that for their target demographic, young tech savvy traders, it was just an unnecessary cost. They challenged the commission model too. They realized that volume enabled by near zero friction tech could completely replace high fees. So they rebuilt their whole model based only on foundational principles, regulatory compliance, secure settlement, and fast execution. And everything else was stripped away. By eliminating the conventional costs, the branch network, expensive relationship managers, they achieved a phenomenal 67% profit margin per customer. Not by charging more. Not at all. But by operating on an infrastructure built only upon irreducible costs. That's the power of it. It forces you to stop focusing on marginal gains inside the framework and start looking for radical cost elimination outside of it. It feels revolutionary, but as you said, it has this deep historical blueprint. Absolutely. This rigor connects us directly back to Aristotle's pursuit of first philosophy. His goal was to find the objective first principles of the world, the features that determine truth, independent of our own beliefs about them. He didn't just accept common sense. He used a method called dialectic. Right. It was a process of intense intellectual scrutiny. Dialectic required finding conflicting arguments and crucially demanding a vigorous defense for the truth of common beliefs, the endoxa, rather than just accepting them. It's like putting every conventional belief on trial. It is. And the core of FPT really echoes his primary goal, seeking the real essence of a thing, not its accidental features like the color of a car or the neighborhood of a brokerage. But the property it must retain to exist in the first place. That focus on defining true substance is the key to objective knowledge. So when we ask, what is a rocket or what is a battery, we're asking what essential properties must remain for it to function as that thing. The titanium is essential. The $60 million supplier margin is incidental. Precisely. But let's bring this back to the practical application for you, the listener. How do we manage that risk we talked about, the risk of analysis paralysis, where you just break down assumptions forever without acting? That is the necessary limitation. FPT is a tool for better decisions, not a substitute for action. And the sources offer very clear stopping rules. Okay, so when do you stop the analysis? You stop when you hit one of two immovable constraints, physics or economics? Physics or economics. If the constraint is irreducible because of the immutable laws of the universe, the speed of light, the strength of a material, thermodynamics, the reduction is complete. That's your objective principle. And economics. You also stop if the economic cost of challenging the constraint or maybe the political cost of implementing the change outweighs the potential reward. FPT has to serve innovation, not just academic curiosity. So let's distill this. What does this whole process mean for you right now? Let's do three powerful takeaways. Okay, first, focus on the essence. FPT requires you to constantly answer that fundamental what is it question. Strip away all the layers of convention and identify only the properties essential for that thing's existence. Second, you now know where to hunt for massive opportunity. True disruption is found by analyzing that gap between the theoretical minimum cost and the current industry cost. Right, if the assumption to principle ratio, that amount of conventional baggage is high in your field, you're sitting on an industry that is fundamentally right for disruption. And the third takeaway. Third, recognize that FPT is a profound mental shift. It demands continuous rigor and above all, courage. You have to have the courage to ignore how things are usually done. I like that. In a world where most people just think by analogy. Those who commit to reasoning from first principles possess the unique power to reshape reality itself. So here's the challenge for you to take into your professional or your personal life this week. What cherished expensive assumption in your daily processes or your industry one that everyone just accepts as a given if you broke it down to its raw components is actually just waiting to be melted down and rebuilt into something fundamentally superior. Start asking why until the answer is either physics or economics.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.78,
+      "start_formatted": "00:00",
+      "end_formatted": "00:02",
+      "text": "I want you to anchor yourself in two numbers right now."
+    },
+    {
+      "start": 3.3,
+      "end": 6.68,
+      "start_formatted": "00:03",
+      "end_formatted": "00:06",
+      "text": "They really define the strategic challenge of our time."
+    },
+    {
+      "start": 6.82,
+      "end": 10.26,
+      "start_formatted": "00:06",
+      "end_formatted": "00:10",
+      "text": "The first number is $65 million."
+    },
+    {
+      "start": 10.78,
+      "end": 14.14,
+      "start_formatted": "00:10",
+      "end_formatted": "00:14",
+      "text": "That is the conventional sort of accepted price tag"
+    },
+    {
+      "start": 14.14,
+      "end": 16.58,
+      "start_formatted": "00:14",
+      "end_formatted": "00:16",
+      "text": "for building a modern orbital class rocket."
+    },
+    {
+      "start": 16.92,
+      "end": 18.02,
+      "start_formatted": "00:16",
+      "end_formatted": "00:18",
+      "text": "65 million."
+    },
+    {
+      "start": 19.16,
+      "end": 20.54,
+      "start_formatted": "00:19",
+      "end_formatted": "00:20",
+      "text": "The benchmark, you know,"
+    },
+    {
+      "start": 20.7,
+      "end": 22.8,
+      "start_formatted": "00:20",
+      "end_formatted": "00:22",
+      "text": "the number everyone just accepts is reality."
+    },
+    {
+      "start": 23.2,
+      "end": 23.64,
+      "start_formatted": "00:23",
+      "end_formatted": "00:23",
+      "text": "Exactly."
+    },
+    {
+      "start": 23.84,
+      "end": 26.16,
+      "start_formatted": "00:23",
+      "end_formatted": "00:26",
+      "text": "Now hold onto the second number, $2 million."
+    },
+    {
+      "start": 26.68,
+      "end": 27.12,
+      "start_formatted": "00:26",
+      "end_formatted": "00:27",
+      "text": "Okay."
+    },
+    {
+      "start": 27.66,
+      "end": 30.9,
+      "start_formatted": "00:27",
+      "end_formatted": "00:30",
+      "text": "That figure represents the actual objective,"
+    },
+    {
+      "start": 30.9,
+      "end": 33.38,
+      "start_formatted": "00:30",
+      "end_formatted": "00:33",
+      "text": "theoretical minimum cost of the raw materials,"
+    },
+    {
+      "start": 33.68,
+      "end": 37.4,
+      "start_formatted": "00:33",
+      "end_formatted": "00:37",
+      "text": "the high grade aluminum, the titanium, copper, carbon fiber,"
+    },
+    {
+      "start": 37.78,
+      "end": 40.52,
+      "start_formatted": "00:37",
+      "end_formatted": "00:40",
+      "text": "all the stuff you need to build that exact same rocket."
+    },
+    {
+      "start": 40.74,
+      "end": 42.78,
+      "start_formatted": "00:40",
+      "end_formatted": "00:42",
+      "text": "So wait, you're saying the fundamental material cost"
+    },
+    {
+      "start": 42.78,
+      "end": 44.98,
+      "start_formatted": "00:42",
+      "end_formatted": "00:44",
+      "text": "is just over 2% of the final price?"
+    },
+    {
+      "start": 45.3,
+      "end": 46.44,
+      "start_formatted": "00:45",
+      "end_formatted": "00:46",
+      "text": "Just over 2%."
+    },
+    {
+      "start": 46.44,
+      "end": 46.78,
+      "start_formatted": "00:46",
+      "end_formatted": "00:46",
+      "text": "Wow."
+    },
+    {
+      "start": 46.86,
+      "end": 49.86,
+      "start_formatted": "00:46",
+      "end_formatted": "00:49",
+      "text": "That massive, nearly 97% gap."
+    },
+    {
+      "start": 49.86,
+      "end": 50.18,
+      "start_formatted": "00:49",
+      "end_formatted": "00:50",
+      "text": "Yeah."
+    },
+    {
+      "start": 50.6,
+      "end": 54.0,
+      "start_formatted": "00:50",
+      "end_formatted": "00:54",
+      "text": "It's not filled by physics or necessary complexity."
+    },
+    {
+      "start": 54.1,
+      "end": 55.14,
+      "start_formatted": "00:54",
+      "end_formatted": "00:55",
+      "text": "It's filled by something else."
+    },
+    {
+      "start": 55.24,
+      "end": 55.4,
+      "start_formatted": "00:55",
+      "end_formatted": "00:55",
+      "text": "Yeah."
+    },
+    {
+      "start": 55.4,
+      "end": 57.28,
+      "start_formatted": "00:55",
+      "end_formatted": "00:57",
+      "text": "That right there, that's the opportunity."
+    },
+    {
+      "start": 57.56,
+      "end": 59.9,
+      "start_formatted": "00:57",
+      "end_formatted": "00:59",
+      "text": "That 97% gap, that's the whole ball game."
+    },
+    {
+      "start": 60.16,
+      "end": 61.96,
+      "start_formatted": "01:00",
+      "end_formatted": "01:01",
+      "text": "It basically screams that the cost problem"
+    },
+    {
+      "start": 61.96,
+      "end": 64.38,
+      "start_formatted": "01:01",
+      "end_formatted": "01:04",
+      "text": "isn't a science problem, it's just a history problem."
+    },
+    {
+      "start": 64.38,
+      "end": 64.66,
+      "start_formatted": "01:04",
+      "end_formatted": "01:04",
+      "text": "Right."
+    },
+    {
+      "start": 64.78,
+      "end": 68.9,
+      "start_formatted": "01:04",
+      "end_formatted": "01:08",
+      "text": "So our mission in this deep dive is to explore the tool"
+    },
+    {
+      "start": 68.9,
+      "end": 72.18,
+      "start_formatted": "01:08",
+      "end_formatted": "01:12",
+      "text": "that world-class innovators use to attack that history."
+    },
+    {
+      "start": 72.86,
+      "end": 74.3,
+      "start_formatted": "01:12",
+      "end_formatted": "01:14",
+      "text": "We're diving deep into what's called"
+    },
+    {
+      "start": 74.3,
+      "end": 76.58,
+      "start_formatted": "01:14",
+      "end_formatted": "01:16",
+      "text": "first principles thinking, or FPT."
+    },
+    {
+      "start": 77.06,
+      "end": 80.9,
+      "start_formatted": "01:17",
+      "end_formatted": "01:20",
+      "text": "And really what we're exploring is the intellectual courage"
+    },
+    {
+      "start": 80.9,
+      "end": 83.54,
+      "start_formatted": "01:20",
+      "end_formatted": "01:23",
+      "text": "it takes to choose rigor over ease."
+    },
+    {
+      "start": 84.10000000000001,
+      "end": 85.98,
+      "start_formatted": "01:24",
+      "end_formatted": "01:25",
+      "text": "I mean, most people and most companies,"
+    },
+    {
+      "start": 86.58000000000001,
+      "end": 87.92,
+      "start_formatted": "01:26",
+      "end_formatted": "01:27",
+      "text": "they reason by analogy."
+    },
+    {
+      "start": 88.12,
+      "end": 89.62,
+      "start_formatted": "01:28",
+      "end_formatted": "01:29",
+      "text": "It's the default path, right?"
+    },
+    {
+      "start": 89.72,
+      "end": 90.92,
+      "start_formatted": "01:29",
+      "end_formatted": "01:30",
+      "text": "It's mentally easier."
+    },
+    {
+      "start": 91.12,
+      "end": 91.46,
+      "start_formatted": "01:31",
+      "end_formatted": "01:31",
+      "text": "Totally."
+    },
+    {
+      "start": 91.9,
+      "end": 93.7,
+      "start_formatted": "01:31",
+      "end_formatted": "01:33",
+      "text": "We look at the past and we just assume"
+    },
+    {
+      "start": 93.7,
+      "end": 95.08,
+      "start_formatted": "01:33",
+      "end_formatted": "01:35",
+      "text": "the future has to resemble it."
+    },
+    {
+      "start": 95.2,
+      "end": 97.28,
+      "start_formatted": "01:35",
+      "end_formatted": "01:37",
+      "text": "We say, well, rockets cost 65 million"
+    },
+    {
+      "start": 97.28,
+      "end": 99.14,
+      "start_formatted": "01:37",
+      "end_formatted": "01:39",
+      "text": "because that's what rockets have always cost."
+    },
+    {
+      "start": 99.38,
+      "end": 101.68,
+      "start_formatted": "01:39",
+      "end_formatted": "01:41",
+      "text": "So we have to build our business around that price."
+    },
+    {
+      "start": 101.72,
+      "end": 102.22,
+      "start_formatted": "01:41",
+      "end_formatted": "01:42",
+      "text": "Exactly."
+    },
+    {
+      "start": 102.38,
+      "end": 104.86,
+      "start_formatted": "01:42",
+      "end_formatted": "01:44",
+      "text": "And your vision is immediately constrained."
+    },
+    {
+      "start": 104.96,
+      "end": 107.58,
+      "start_formatted": "01:44",
+      "end_formatted": "01:47",
+      "text": "You might make it 5% better, maybe 10% cheaper"
+    },
+    {
+      "start": 107.58,
+      "end": 109.46,
+      "start_formatted": "01:47",
+      "end_formatted": "01:49",
+      "text": "by tweaking your supply chain,"
+    },
+    {
+      "start": 109.5,
+      "end": 111.68,
+      "start_formatted": "01:49",
+      "end_formatted": "01:51",
+      "text": "but you are still completely trapped"
+    },
+    {
+      "start": 111.68,
+      "end": 113.1,
+      "start_formatted": "01:51",
+      "end_formatted": "01:53",
+      "text": "inside that conventional frame."
+    },
+    {
+      "start": 113.97999999999999,
+      "end": 117.06,
+      "start_formatted": "01:53",
+      "end_formatted": "01:57",
+      "text": "FPT demands that we just ignore those conventions."
+    },
+    {
+      "start": 117.3,
+      "end": 120.3,
+      "start_formatted": "01:57",
+      "end_formatted": "02:00",
+      "text": "We boil everything down to its foundational objective truths."
+    },
+    {
+      "start": 120.46,
+      "end": 122.86,
+      "start_formatted": "02:00",
+      "end_formatted": "02:02",
+      "text": "And while this feels so modern, so revolutionary,"
+    },
+    {
+      "start": 123.34,
+      "end": 125.12,
+      "start_formatted": "02:03",
+      "end_formatted": "02:05",
+      "text": "it's actually not new at all, is it?"
+    },
+    {
+      "start": 125.22,
+      "end": 125.94,
+      "start_formatted": "02:05",
+      "end_formatted": "02:05",
+      "text": "Not at all."
+    },
+    {
+      "start": 126.2,
+      "end": 128.2,
+      "start_formatted": "02:06",
+      "end_formatted": "02:08",
+      "text": "It's rooted in a philosophical tradition"
+    },
+    {
+      "start": 128.2,
+      "end": 129.5,
+      "start_formatted": "02:08",
+      "end_formatted": "02:09",
+      "text": "laid down by Aristotle."
+    },
+    {
+      "start": 129.94,
+      "end": 132.12,
+      "start_formatted": "02:09",
+      "end_formatted": "02:12",
+      "text": "He was obsessed with moving past in doxa,"
+    },
+    {
+      "start": 133.2,
+      "end": 135.72,
+      "start_formatted": "02:13",
+      "end_formatted": "02:15",
+      "text": "the things known to us."
+    },
+    {
+      "start": 136.38,
+      "end": 138.74,
+      "start_formatted": "02:16",
+      "end_formatted": "02:18",
+      "text": "So common beliefs, accepted theories."
+    },
+    {
+      "start": 138.82,
+      "end": 142.4,
+      "start_formatted": "02:18",
+      "end_formatted": "02:22",
+      "text": "He wanted to move from that to things known by nature,"
+    },
+    {
+      "start": 142.4,
+      "end": 145.08,
+      "start_formatted": "02:22",
+      "end_formatted": "02:25",
+      "text": "the objective principles that actually govern the world."
+    },
+    {
+      "start": 145.46,
+      "end": 148.36,
+      "start_formatted": "02:25",
+      "end_formatted": "02:28",
+      "text": "So this deep dive is basically the mental blueprint"
+    },
+    {
+      "start": 148.36,
+      "end": 149.82,
+      "start_formatted": "02:28",
+      "end_formatted": "02:29",
+      "text": "for mastering that shift."
+    },
+    {
+      "start": 149.96,
+      "end": 150.52,
+      "start_formatted": "02:29",
+      "end_formatted": "02:30",
+      "text": "That's the goal."
+    },
+    {
+      "start": 150.72,
+      "end": 153.14,
+      "start_formatted": "02:30",
+      "end_formatted": "02:33",
+      "text": "Okay, let's unpack this with a relatable story first"
+    },
+    {
+      "start": 153.14,
+      "end": 154.44,
+      "start_formatted": "02:33",
+      "end_formatted": "02:34",
+      "text": "because I think we all do this"
+    },
+    {
+      "start": 154.44,
+      "end": 155.8,
+      "start_formatted": "02:34",
+      "end_formatted": "02:35",
+      "text": "analogical thinking all the time."
+    },
+    {
+      "start": 156.34,
+      "end": 158.62,
+      "start_formatted": "02:36",
+      "end_formatted": "02:38",
+      "text": "Think about that simple human tendency"
+    },
+    {
+      "start": 158.62,
+      "end": 161.0,
+      "start_formatted": "02:38",
+      "end_formatted": "02:41",
+      "text": "to just stop asking why."
+    },
+    {
+      "start": 161.28,
+      "end": 162.48,
+      "start_formatted": "02:41",
+      "end_formatted": "02:42",
+      "text": "Oh, it starts so young."
+    },
+    {
+      "start": 162.52,
+      "end": 163.68,
+      "start_formatted": "02:42",
+      "end_formatted": "02:43",
+      "text": "You see it with kids, right?"
+    },
+    {
+      "start": 163.84,
+      "end": 165.42,
+      "start_formatted": "02:43",
+      "end_formatted": "02:45",
+      "text": "That relentless questioning."
+    },
+    {
+      "start": 165.7,
+      "end": 167.3,
+      "start_formatted": "02:45",
+      "end_formatted": "02:47",
+      "text": "Yes, why is the sky blue?"
+    },
+    {
+      "start": 167.52,
+      "end": 168.58,
+      "start_formatted": "02:47",
+      "end_formatted": "02:48",
+      "text": "Why is the sun hot?"
+    },
+    {
+      "start": 168.68,
+      "end": 170.18,
+      "start_formatted": "02:48",
+      "end_formatted": "02:50",
+      "text": "Why do I have to eat my vegetables?"
+    },
+    {
+      "start": 170.74,
+      "end": 173.7,
+      "start_formatted": "02:50",
+      "end_formatted": "02:53",
+      "text": "That sequence of whys is the purest form"
+    },
+    {
+      "start": 173.7,
+      "end": 175.18,
+      "start_formatted": "02:53",
+      "end_formatted": "02:55",
+      "text": "of first principles analysis."
+    },
+    {
+      "start": 175.62,
+      "end": 178.24,
+      "start_formatted": "02:55",
+      "end_formatted": "02:58",
+      "text": "The child is literally trying to deconstruct the world."
+    },
+    {
+      "start": 178.42,
+      "end": 180.4,
+      "start_formatted": "02:58",
+      "end_formatted": "03:00",
+      "text": "And what always happens, questioning goes on and on"
+    },
+    {
+      "start": 180.4,
+      "end": 182.08,
+      "start_formatted": "03:00",
+      "end_formatted": "03:02",
+      "text": "until the adult's answer finally becomes,"
+    },
+    {
+      "start": 182.44,
+      "end": 183.34,
+      "start_formatted": "03:02",
+      "end_formatted": "03:03",
+      "text": "because I said so."
+    },
+    {
+      "start": 183.38,
+      "end": 185.1,
+      "start_formatted": "03:03",
+      "end_formatted": "03:05",
+      "text": "Or, and this is more telling,"
+    },
+    {
+      "start": 185.8,
+      "end": 189.3,
+      "start_formatted": "03:05",
+      "end_formatted": "03:09",
+      "text": "the adult realizes their own supposedly deep knowledge"
+    },
+    {
+      "start": 189.3,
+      "end": 191.62,
+      "start_formatted": "03:09",
+      "end_formatted": "03:11",
+      "text": "is actually pretty fragile."
+    },
+    {
+      "start": 191.68,
+      "end": 193.72,
+      "start_formatted": "03:11",
+      "end_formatted": "03:13",
+      "text": "They don't know the full chain of cause and effect."
+    },
+    {
+      "start": 194.04,
+      "end": 194.6,
+      "start_formatted": "03:14",
+      "end_formatted": "03:14",
+      "text": "Exactly."
+    },
+    {
+      "start": 195.12,
+      "end": 197.78,
+      "start_formatted": "03:15",
+      "end_formatted": "03:17",
+      "text": "They stop asking why, right at the point"
+    },
+    {
+      "start": 197.78,
+      "end": 200.38,
+      "start_formatted": "03:17",
+      "end_formatted": "03:20",
+      "text": "where the answer demands real intellectual effort."
+    },
+    {
+      "start": 201.22,
+      "end": 203.7,
+      "start_formatted": "03:21",
+      "end_formatted": "03:23",
+      "text": "And that fragility translates directly"
+    },
+    {
+      "start": 203.7,
+      "end": 204.62,
+      "start_formatted": "03:23",
+      "end_formatted": "03:24",
+      "text": "into corporate inertia."
+    },
+    {
+      "start": 205.4,
+      "end": 207.52,
+      "start_formatted": "03:25",
+      "end_formatted": "03:27",
+      "text": "In business, reasoning by analogy"
+    },
+    {
+      "start": 207.52,
+      "end": 208.88,
+      "start_formatted": "03:27",
+      "end_formatted": "03:28",
+      "text": "is like a comfort blanket."
+    },
+    {
+      "start": 209.9,
+      "end": 211.06,
+      "start_formatted": "03:29",
+      "end_formatted": "03:31",
+      "text": "You look at the market leaders,"
+    },
+    {
+      "start": 211.68,
+      "end": 212.88,
+      "start_formatted": "03:31",
+      "end_formatted": "03:32",
+      "text": "you look at your own history,"
+    },
+    {
+      "start": 213.22,
+      "end": 215.58,
+      "start_formatted": "03:33",
+      "end_formatted": "03:35",
+      "text": "and you just replicate them with slight adjustments."
+    },
+    {
+      "start": 216.26,
+      "end": 218.06,
+      "start_formatted": "03:36",
+      "end_formatted": "03:38",
+      "text": "We saw this failure everywhere"
+    },
+    {
+      "start": 218.06,
+      "end": 220.0,
+      "start_formatted": "03:38",
+      "end_formatted": "03:40",
+      "text": "during the rise of digital disruption."
+    },
+    {
+      "start": 220.24,
+      "end": 221.78,
+      "start_formatted": "03:40",
+      "end_formatted": "03:41",
+      "text": "Yeah, the sources get into this."
+    },
+    {
+      "start": 222.04,
+      "end": 225.18,
+      "start_formatted": "03:42",
+      "end_formatted": "03:45",
+      "text": "When legacy companies saw these disruptors gaining traction,"
+    },
+    {
+      "start": 225.7,
+      "end": 226.72,
+      "start_formatted": "03:45",
+      "end_formatted": "03:46",
+      "text": "their response was often,"
+    },
+    {
+      "start": 226.72,
+      "end": 228.36,
+      "start_formatted": "03:46",
+      "end_formatted": "03:48",
+      "text": "oh, the competitor is digital,"
+    },
+    {
+      "start": 228.36,
+      "end": 230.14,
+      "start_formatted": "03:48",
+      "end_formatted": "03:50",
+      "text": "so we should launch an e-commerce platform"
+    },
+    {
+      "start": 230.14,
+      "end": 231.36,
+      "start_formatted": "03:50",
+      "end_formatted": "03:51",
+      "text": "and become digital too."
+    },
+    {
+      "start": 231.46,
+      "end": 233.5,
+      "start_formatted": "03:51",
+      "end_formatted": "03:53",
+      "text": "That is such a superficial diagnosis."
+    },
+    {
+      "start": 233.88,
+      "end": 236.34,
+      "start_formatted": "03:53",
+      "end_formatted": "03:56",
+      "text": "It's replicating the outward form, the website,"
+    },
+    {
+      "start": 236.58,
+      "end": 238.64,
+      "start_formatted": "03:56",
+      "end_formatted": "03:58",
+      "text": "without analyzing the underlying substance."
+    },
+    {
+      "start": 238.8,
+      "end": 240.98,
+      "start_formatted": "03:58",
+      "end_formatted": "04:00",
+      "text": "They failed to ask the ultimate why."
+    },
+    {
+      "start": 241.1,
+      "end": 243.12,
+      "start_formatted": "04:01",
+      "end_formatted": "04:03",
+      "text": "Right, why is the disruptor actually succeeding?"
+    },
+    {
+      "start": 243.34,
+      "end": 244.88,
+      "start_formatted": "04:03",
+      "end_formatted": "04:04",
+      "text": "It wasn't just because they had a website,"
+    },
+    {
+      "start": 245.24,
+      "end": 246.72,
+      "start_formatted": "04:05",
+      "end_formatted": "04:06",
+      "text": "it was because their unit economics,"
+    },
+    {
+      "start": 246.82,
+      "end": 248.9,
+      "start_formatted": "04:06",
+      "end_formatted": "04:08",
+      "text": "built from the ground up, were fundamentally different."
+    },
+    {
+      "start": 248.94,
+      "end": 251.1,
+      "start_formatted": "04:08",
+      "end_formatted": "04:11",
+      "text": "Their cost structure was maybe 80% lower,"
+    },
+    {
+      "start": 251.34,
+      "end": 253.04,
+      "start_formatted": "04:11",
+      "end_formatted": "04:13",
+      "text": "because they didn't have to carry all that baggage."
+    },
+    {
+      "start": 253.04,
+      "end": 257.08,
+      "start_formatted": "04:13",
+      "end_formatted": "04:17",
+      "text": "Like retail rents, massive legacy inventory systems."
+    },
+    {
+      "start": 257.4,
+      "end": 259.02,
+      "start_formatted": "04:17",
+      "end_formatted": "04:19",
+      "text": "Geographical restrictions, all of it."
+    },
+    {
+      "start": 259.32,
+      "end": 261.88,
+      "start_formatted": "04:19",
+      "end_formatted": "04:21",
+      "text": "They stopped the why game way too soon."
+    },
+    {
+      "start": 262.44,
+      "end": 264.16,
+      "start_formatted": "04:22",
+      "end_formatted": "04:24",
+      "text": "So FPT is the antidote."
+    },
+    {
+      "start": 264.68,
+      "end": 266.44,
+      "start_formatted": "04:24",
+      "end_formatted": "04:26",
+      "text": "It demands the courage to question"
+    },
+    {
+      "start": 266.44,
+      "end": 269.08,
+      "start_formatted": "04:26",
+      "end_formatted": "04:29",
+      "text": "the foundational beliefs of your entire industry."
+    },
+    {
+      "start": 269.4,
+      "end": 272.48,
+      "start_formatted": "04:29",
+      "end_formatted": "04:32",
+      "text": "And to master it, you need a disciplined process."
+    },
+    {
+      "start": 272.94,
+      "end": 275.4,
+      "start_formatted": "04:32",
+      "end_formatted": "04:35",
+      "text": "It's not just a general mindset, it's a systematic method."
+    },
+    {
+      "start": 275.8,
+      "end": 278.22,
+      "start_formatted": "04:35",
+      "end_formatted": "04:38",
+      "text": "It really comes down to three core principles."
+    },
+    {
+      "start": 278.36,
+      "end": 280.24,
+      "start_formatted": "04:38",
+      "end_formatted": "04:40",
+      "text": "Okay, so the first one is reduction."
+    },
+    {
+      "start": 280.48,
+      "end": 282.3,
+      "start_formatted": "04:40",
+      "end_formatted": "04:42",
+      "text": "This is where you disassemble the problem,"
+    },
+    {
+      "start": 282.3,
+      "end": 284.34,
+      "start_formatted": "04:42",
+      "end_formatted": "04:44",
+      "text": "you break it down into its smallest,"
+    },
+    {
+      "start": 284.48,
+      "end": 287.72,
+      "start_formatted": "04:44",
+      "end_formatted": "04:47",
+      "text": "most foundational elements, the objective truths."
+    },
+    {
+      "start": 288.02,
+      "end": 290.64,
+      "start_formatted": "04:48",
+      "end_formatted": "04:50",
+      "text": "The things that cannot be logically broken down any further."
+    },
+    {
+      "start": 291.48,
+      "end": 294.6,
+      "start_formatted": "04:51",
+      "end_formatted": "04:54",
+      "text": "Then step two, and this is arguably the hardest one,"
+    },
+    {
+      "start": 295.5,
+      "end": 296.38,
+      "start_formatted": "04:55",
+      "end_formatted": "04:56",
+      "text": "challenging assumptions."
+    },
+    {
+      "start": 296.62,
+      "end": 298.72,
+      "start_formatted": "04:56",
+      "end_formatted": "04:58",
+      "text": "This is where you have to consciously identify"
+    },
+    {
+      "start": 298.72,
+      "end": 300.74,
+      "start_formatted": "04:58",
+      "end_formatted": "05:00",
+      "text": "every framework, every convention,"
+    },
+    {
+      "start": 301.06,
+      "end": 302.56,
+      "start_formatted": "05:01",
+      "end_formatted": "05:02",
+      "text": "every piece of accepted wisdom"
+    },
+    {
+      "start": 302.56,
+      "end": 305.06,
+      "start_formatted": "05:02",
+      "end_formatted": "05:05",
+      "text": "that the industry has layered on top of those truths."
+    },
+    {
+      "start": 305.28,
+      "end": 306.78,
+      "start_formatted": "05:05",
+      "end_formatted": "05:06",
+      "text": "You're hunting for things that are only true"
+    },
+    {
+      "start": 306.78,
+      "end": 308.7,
+      "start_formatted": "05:06",
+      "end_formatted": "05:08",
+      "text": "because we've always done it that way."
+    },
+    {
+      "start": 308.78,
+      "end": 310.3,
+      "start_formatted": "05:08",
+      "end_formatted": "05:10",
+      "text": "Right, and once you have your list of truths,"
+    },
+    {
+      "start": 310.44,
+      "end": 311.68,
+      "start_formatted": "05:10",
+      "end_formatted": "05:11",
+      "text": "and you've swept away all those conventions,"
+    },
+    {
+      "start": 311.68,
+      "end": 313.04,
+      "start_formatted": "05:11",
+      "end_formatted": "05:13",
+      "text": "then comes step three."
+    },
+    {
+      "start": 313.08,
+      "end": 313.56,
+      "start_formatted": "05:13",
+      "end_formatted": "05:13",
+      "text": "Rebuilding."
+    },
+    {
+      "start": 314.1,
+      "end": 315.84,
+      "start_formatted": "05:14",
+      "end_formatted": "05:15",
+      "text": "You construct entirely new solutions"
+    },
+    {
+      "start": 315.84,
+      "end": 318.12,
+      "start_formatted": "05:15",
+      "end_formatted": "05:18",
+      "text": "based only on the objective facts you uncovered,"
+    },
+    {
+      "start": 318.9,
+      "end": 320.32,
+      "start_formatted": "05:18",
+      "end_formatted": "05:20",
+      "text": "completely ignoring the old way."
+    },
+    {
+      "start": 320.56,
+      "end": 322.68,
+      "start_formatted": "05:20",
+      "end_formatted": "05:22",
+      "text": "I think the Lego block analogy here is perfect."
+    },
+    {
+      "start": 322.76,
+      "end": 323.88,
+      "start_formatted": "05:22",
+      "end_formatted": "05:23",
+      "text": "It really captures it."
+    },
+    {
+      "start": 324.1,
+      "end": 324.52,
+      "start_formatted": "05:24",
+      "end_formatted": "05:24",
+      "text": "It does."
+    },
+    {
+      "start": 325.0,
+      "end": 327.46,
+      "start_formatted": "05:25",
+      "end_formatted": "05:27",
+      "text": "Most people approach a complex problem"
+    },
+    {
+      "start": 327.46,
+      "end": 329.92,
+      "start_formatted": "05:27",
+      "end_formatted": "05:29",
+      "text": "like rebuilding a pre-assembled Lego car."
+    },
+    {
+      "start": 330.82,
+      "end": 332.86,
+      "start_formatted": "05:30",
+      "end_formatted": "05:32",
+      "text": "You might take it apart into its components,"
+    },
+    {
+      "start": 333.42,
+      "end": 336.04,
+      "start_formatted": "05:33",
+      "end_formatted": "05:36",
+      "text": "wheels, doors, a roof."
+    },
+    {
+      "start": 336.18,
+      "end": 338.1,
+      "start_formatted": "05:36",
+      "end_formatted": "05:38",
+      "text": "And then you rebuild it into something a little different,"
+    },
+    {
+      "start": 338.12,
+      "end": 338.78,
+      "start_formatted": "05:38",
+      "end_formatted": "05:38",
+      "text": "maybe a truck."
+    },
+    {
+      "start": 339.54,
+      "end": 341.1,
+      "start_formatted": "05:39",
+      "end_formatted": "05:41",
+      "text": "That's reasoning by analogy."
+    },
+    {
+      "start": 341.1,
+      "end": 343.28,
+      "start_formatted": "05:41",
+      "end_formatted": "05:43",
+      "text": "You're limited by the original parts"
+    },
+    {
+      "start": 343.28,
+      "end": 344.96,
+      "start_formatted": "05:43",
+      "end_formatted": "05:44",
+      "text": "and their existing shapes."
+    },
+    {
+      "start": 345.66,
+      "end": 347.68,
+      "start_formatted": "05:45",
+      "end_formatted": "05:47",
+      "text": "Exactly, but first principles thinking says,"
+    },
+    {
+      "start": 348.16,
+      "end": 348.76,
+      "start_formatted": "05:48",
+      "end_formatted": "05:48",
+      "text": "forget the car."
+    },
+    {
+      "start": 349.32,
+      "end": 351.5,
+      "start_formatted": "05:49",
+      "end_formatted": "05:51",
+      "text": "You take the wheels, the doors, the roof,"
+    },
+    {
+      "start": 351.56,
+      "end": 353.58,
+      "start_formatted": "05:51",
+      "end_formatted": "05:53",
+      "text": "and you melt all that plastic down"
+    },
+    {
+      "start": 353.58,
+      "end": 356.08,
+      "start_formatted": "05:53",
+      "end_formatted": "05:56",
+      "text": "until you are left only with the raw material,"
+    },
+    {
+      "start": 356.08,
+      "end": 357.76,
+      "start_formatted": "05:56",
+      "end_formatted": "05:57",
+      "text": "the core plastic polymers."
+    },
+    {
+      "start": 357.86,
+      "end": 359.86,
+      "start_formatted": "05:57",
+      "end_formatted": "05:59",
+      "text": "So you're not limited by the old shapes anymore."
+    },
+    {
+      "start": 359.96,
+      "end": 361.82,
+      "start_formatted": "05:59",
+      "end_formatted": "06:01",
+      "text": "You're only limited by the material itself"
+    },
+    {
+      "start": 361.82,
+      "end": 363.6,
+      "start_formatted": "06:01",
+      "end_formatted": "06:03",
+      "text": "and, well, your imagination."
+    },
+    {
+      "start": 364.06,
+      "end": 364.52,
+      "start_formatted": "06:04",
+      "end_formatted": "06:04",
+      "text": "Precisely."
+    },
+    {
+      "start": 364.64,
+      "end": 366.74,
+      "start_formatted": "06:04",
+      "end_formatted": "06:06",
+      "text": "You are no longer building a slightly better car."
+    },
+    {
+      "start": 366.76,
+      "end": 368.48,
+      "start_formatted": "06:06",
+      "end_formatted": "06:08",
+      "text": "You can build a space station, a sword,"
+    },
+    {
+      "start": 368.68,
+      "end": 370.5,
+      "start_formatted": "06:08",
+      "end_formatted": "06:10",
+      "text": "something the world has never even seen before,"
+    },
+    {
+      "start": 370.5,
+      "end": 373.6,
+      "start_formatted": "06:10",
+      "end_formatted": "06:13",
+      "text": "because you started from the foundational building blocks,"
+    },
+    {
+      "start": 373.96,
+      "end": 375.18,
+      "start_formatted": "06:13",
+      "end_formatted": "06:15",
+      "text": "not the previous assembly."
+    },
+    {
+      "start": 375.4,
+      "end": 377.88,
+      "start_formatted": "06:15",
+      "end_formatted": "06:17",
+      "text": "The insight is that the rules of the old assembly"
+    },
+    {
+      "start": 377.88,
+      "end": 379.02,
+      "start_formatted": "06:17",
+      "end_formatted": "06:19",
+      "text": "were arbitrary,"
+    },
+    {
+      "start": 379.42,
+      "end": 382.02,
+      "start_formatted": "06:19",
+      "end_formatted": "06:22",
+      "text": "but the properties of the raw material are fundamental."
+    },
+    {
+      "start": 382.34,
+      "end": 384.06,
+      "start_formatted": "06:22",
+      "end_formatted": "06:24",
+      "text": "But honestly, this sounds exhausting."
+    },
+    {
+      "start": 384.72,
+      "end": 386.98,
+      "start_formatted": "06:24",
+      "end_formatted": "06:26",
+      "text": "You said challenging assumptions is the hardest part."
+    },
+    {
+      "start": 387.48,
+      "end": 389.84,
+      "start_formatted": "06:27",
+      "end_formatted": "06:29",
+      "text": "How do you stop this from just becoming analysis"
+    },
+    {
+      "start": 389.84,
+      "end": 391.34,
+      "start_formatted": "06:29",
+      "end_formatted": "06:31",
+      "text": "for the sake of analysis?"
+    },
+    {
+      "start": 391.62,
+      "end": 393.72,
+      "start_formatted": "06:31",
+      "end_formatted": "06:33",
+      "text": "Doesn't a company risk losing all momentum?"
+    },
+    {
+      "start": 394.22,
+      "end": 395.34,
+      "start_formatted": "06:34",
+      "end_formatted": "06:35",
+      "text": "That's a critical question."
+    },
+    {
+      "start": 395.64,
+      "end": 397.28,
+      "start_formatted": "06:35",
+      "end_formatted": "06:37",
+      "text": "And the rigor is the cost of entry."
+    },
+    {
+      "start": 397.28,
+      "end": 399.98,
+      "start_formatted": "06:37",
+      "end_formatted": "06:39",
+      "text": "If you don't do it, you just default back to analogy."
+    },
+    {
+      "start": 400.72,
+      "end": 402.48,
+      "start_formatted": "06:40",
+      "end_formatted": "06:42",
+      "text": "But the analysis isn't endless."
+    },
+    {
+      "start": 402.8,
+      "end": 405.16,
+      "start_formatted": "06:42",
+      "end_formatted": "06:45",
+      "text": "It stops when you hit a wall you cannot melt down."
+    },
+    {
+      "start": 405.8,
+      "end": 407.44,
+      "start_formatted": "06:45",
+      "end_formatted": "06:47",
+      "text": "We'll get to the formal stopping rules,"
+    },
+    {
+      "start": 407.46,
+      "end": 410.42,
+      "start_formatted": "06:47",
+      "end_formatted": "06:50",
+      "text": "but first, let's see this applied in the real world."
+    },
+    {
+      "start": 410.8,
+      "end": 411.86,
+      "start_formatted": "06:50",
+      "end_formatted": "06:51",
+      "text": "Let's go back to SpaceX."
+    },
+    {
+      "start": 412.58,
+      "end": 415.84,
+      "start_formatted": "06:52",
+      "end_formatted": "06:55",
+      "text": "When Elon Musk looked at that $65 million price tag,"
+    },
+    {
+      "start": 416.18,
+      "end": 417.24,
+      "start_formatted": "06:56",
+      "end_formatted": "06:57",
+      "text": "he didn't start with the budget."
+    },
+    {
+      "start": 417.32,
+      "end": 418.48,
+      "start_formatted": "06:57",
+      "end_formatted": "06:58",
+      "text": "He started with the elements."
+    },
+    {
+      "start": 418.72,
+      "end": 420.28,
+      "start_formatted": "06:58",
+      "end_formatted": "07:00",
+      "text": "He performed the ultimate reduction."
+    },
+    {
+      "start": 420.58,
+      "end": 422.7,
+      "start_formatted": "07:00",
+      "end_formatted": "07:02",
+      "text": "He asked, what is a rocket made of?"
+    },
+    {
+      "start": 422.94,
+      "end": 425.58,
+      "start_formatted": "07:02",
+      "end_formatted": "07:05",
+      "text": "Not, what does a supplier charge me for a valve?"
+    },
+    {
+      "start": 425.58,
+      "end": 427.62,
+      "start_formatted": "07:05",
+      "end_formatted": "07:07",
+      "text": "But what are the foundational materials?"
+    },
+    {
+      "start": 427.78,
+      "end": 429.62,
+      "start_formatted": "07:07",
+      "end_formatted": "07:09",
+      "text": "And the analysis was, I mean, it was shocking."
+    },
+    {
+      "start": 429.72,
+      "end": 432.56,
+      "start_formatted": "07:09",
+      "end_formatted": "07:12",
+      "text": "The raw materials, the alloys, the carbon fiber, the fuel,"
+    },
+    {
+      "start": 432.86,
+      "end": 435.18,
+      "start_formatted": "07:12",
+      "end_formatted": "07:15",
+      "text": "had a theoretical minimum cost of just $2 million."
+    },
+    {
+      "start": 435.72,
+      "end": 437.64,
+      "start_formatted": "07:15",
+      "end_formatted": "07:17",
+      "text": "And that huge visible gap"
+    },
+    {
+      "start": 437.64,
+      "end": 440.58,
+      "start_formatted": "07:17",
+      "end_formatted": "07:20",
+      "text": "between the theoretical minimum cost, the TMC,"
+    },
+    {
+      "start": 440.8,
+      "end": 443.32,
+      "start_formatted": "07:20",
+      "end_formatted": "07:23",
+      "text": "and the current industry cost, the CIC,"
+    },
+    {
+      "start": 444.04,
+      "end": 446.38,
+      "start_formatted": "07:24",
+      "end_formatted": "07:26",
+      "text": "that is what revealed the strategic opportunity."
+    },
+    {
+      "start": 446.7,
+      "end": 448.76,
+      "start_formatted": "07:26",
+      "end_formatted": "07:28",
+      "text": "This gives us a framework for the attack."
+    },
+    {
+      "start": 449.42,
+      "end": 452.64,
+      "start_formatted": "07:29",
+      "end_formatted": "07:32",
+      "text": "The current industry cost isn't just TMC plus profit."
+    },
+    {
+      "start": 452.64,
+      "end": 455.7,
+      "start_formatted": "07:32",
+      "end_formatted": "07:35",
+      "text": "It's TMC plus a massive convention margin,"
+    },
+    {
+      "start": 456.16,
+      "end": 458.38,
+      "start_formatted": "07:36",
+      "end_formatted": "07:38",
+      "text": "plus inefficiency, plus profit."
+    },
+    {
+      "start": 458.64,
+      "end": 462.1,
+      "start_formatted": "07:38",
+      "end_formatted": "07:42",
+      "text": "And in aerospace, the sources show that 83%"
+    },
+    {
+      "start": 462.1,
+      "end": 464.84,
+      "start_formatted": "07:42",
+      "end_formatted": "07:44",
+      "text": "of the total cost structure was related to convention,"
+    },
+    {
+      "start": 465.12,
+      "end": 465.9,
+      "start_formatted": "07:45",
+      "end_formatted": "07:45",
+      "text": "not physics."
+    },
+    {
+      "start": 466.58,
+      "end": 467.26,
+      "start_formatted": "07:46",
+      "end_formatted": "07:47",
+      "text": "83%."
+    },
+    {
+      "start": 467.26,
+      "end": 468.9,
+      "start_formatted": "07:47",
+      "end_formatted": "07:48",
+      "text": "The convention margin is where"
+    },
+    {
+      "start": 468.9,
+      "end": 470.64,
+      "start_formatted": "07:48",
+      "end_formatted": "07:50",
+      "text": "all those industry assumptions live."
+    },
+    {
+      "start": 471.34,
+      "end": 473.58,
+      "start_formatted": "07:51",
+      "end_formatted": "07:53",
+      "text": "SpaceX realized that 20% of the cost"
+    },
+    {
+      "start": 473.58,
+      "end": 475.0,
+      "start_formatted": "07:53",
+      "end_formatted": "07:55",
+      "text": "was just supplier margins."
+    },
+    {
+      "start": 475.46,
+      "end": 477.8,
+      "start_formatted": "07:55",
+      "end_formatted": "07:57",
+      "text": "Another 18% was manufacturing labor"
+    },
+    {
+      "start": 477.8,
+      "end": 479.72,
+      "start_formatted": "07:57",
+      "end_formatted": "07:59",
+      "text": "tied to old bespoke techniques."
+    },
+    {
+      "start": 479.72,
+      "end": 483.34,
+      "start_formatted": "07:59",
+      "end_formatted": "08:03",
+      "text": "Another 8% was overhead baked into legacy operations."
+    },
+    {
+      "start": 483.56,
+      "end": 486.86,
+      "start_formatted": "08:03",
+      "end_formatted": "08:06",
+      "text": "So the real job wasn't optimizing the 2% material cost."
+    },
+    {
+      "start": 486.98,
+      "end": 488.86,
+      "start_formatted": "08:06",
+      "end_formatted": "08:08",
+      "text": "It was about radically deconstructing"
+    },
+    {
+      "start": 488.86,
+      "end": 490.9,
+      "start_formatted": "08:08",
+      "end_formatted": "08:10",
+      "text": "that 83% convention margin."
+    },
+    {
+      "start": 491.14,
+      "end": 492.34,
+      "start_formatted": "08:11",
+      "end_formatted": "08:12",
+      "text": "And by vertically integrating,"
+    },
+    {
+      "start": 492.62,
+      "end": 494.2,
+      "start_formatted": "08:12",
+      "end_formatted": "08:14",
+      "text": "literally building their own components,"
+    },
+    {
+      "start": 494.32,
+      "end": 495.26,
+      "start_formatted": "08:14",
+      "end_formatted": "08:15",
+      "text": "their own alloys,"
+    },
+    {
+      "start": 495.62,
+      "end": 497.7,
+      "start_formatted": "08:15",
+      "end_formatted": "08:17",
+      "text": "and redesigning the whole process for reusability,"
+    },
+    {
+      "start": 498.1,
+      "end": 501.02,
+      "start_formatted": "08:18",
+      "end_formatted": "08:21",
+      "text": "they attacked the conventions, not the laws of nature."
+    },
+    {
+      "start": 501.2,
+      "end": 502.08,
+      "start_formatted": "08:21",
+      "end_formatted": "08:22",
+      "text": "And that's the target."
+    },
+    {
+      "start": 502.12,
+      "end": 503.18,
+      "start_formatted": "08:22",
+      "end_formatted": "08:23",
+      "text": "That brings up this idea"
+    },
+    {
+      "start": 503.18,
+      "end": 505.74,
+      "start_formatted": "08:23",
+      "end_formatted": "08:25",
+      "text": "of the Assumption to Principle Ratio, or APR."
+    },
+    {
+      "start": 505.92,
+      "end": 507.92,
+      "start_formatted": "08:25",
+      "end_formatted": "08:27",
+      "text": "Right, the APR is basically the percentage"
+    },
+    {
+      "start": 507.92,
+      "end": 510.14,
+      "start_formatted": "08:27",
+      "end_formatted": "08:30",
+      "text": "of an industry's model that's based on convention"
+    },
+    {
+      "start": 510.14,
+      "end": 511.66,
+      "start_formatted": "08:30",
+      "end_formatted": "08:31",
+      "text": "versus objective facts."
+    },
+    {
+      "start": 512.02,
+      "end": 513.08,
+      "start_formatted": "08:32",
+      "end_formatted": "08:33",
+      "text": "The higher that ratio,"
+    },
+    {
+      "start": 513.12,
+      "end": 514.86,
+      "start_formatted": "08:33",
+      "end_formatted": "08:34",
+      "text": "the more assumptions are driving the cost."
+    },
+    {
+      "start": 515.16,
+      "end": 517.34,
+      "start_formatted": "08:35",
+      "end_formatted": "08:37",
+      "text": "And the riper the industry is for disruption."
+    },
+    {
+      "start": 517.52,
+      "end": 520.4,
+      "start_formatted": "08:37",
+      "end_formatted": "08:40",
+      "text": "In aerospace, that ratio was just astronomical."
+    },
+    {
+      "start": 520.6,
+      "end": 522.52,
+      "start_formatted": "08:40",
+      "end_formatted": "08:42",
+      "text": "You see the exact same pattern with PESLA"
+    },
+    {
+      "start": 522.52,
+      "end": 523.78,
+      "start_formatted": "08:42",
+      "end_formatted": "08:43",
+      "text": "and the electric car battery."
+    },
+    {
+      "start": 524.34,
+      "end": 527.8,
+      "start_formatted": "08:44",
+      "end_formatted": "08:47",
+      "text": "For decades, the standard cost was set impossibly high,"
+    },
+    {
+      "start": 527.84,
+      "end": 530.18,
+      "start_formatted": "08:47",
+      "end_formatted": "08:50",
+      "text": "maybe $600 or $700 per kilowatt hour."
+    },
+    {
+      "start": 530.56,
+      "end": 532.16,
+      "start_formatted": "08:50",
+      "end_formatted": "08:52",
+      "text": "That cost ceiling was a convention."
+    },
+    {
+      "start": 532.16,
+      "end": 535.02,
+      "start_formatted": "08:52",
+      "end_formatted": "08:55",
+      "text": "It was imposed by legacy supply chains"
+    },
+    {
+      "start": 535.02,
+      "end": 536.72,
+      "start_formatted": "08:55",
+      "end_formatted": "08:56",
+      "text": "and old manufacturing methods."
+    },
+    {
+      "start": 536.72,
+      "end": 540.02,
+      "start_formatted": "08:56",
+      "end_formatted": "09:00",
+      "text": "So the FPT approach was to ask, what is the battery?"
+    },
+    {
+      "start": 540.58,
+      "end": 542.04,
+      "start_formatted": "09:00",
+      "end_formatted": "09:02",
+      "text": "Not what does the supplier charge,"
+    },
+    {
+      "start": 542.12,
+      "end": 543.66,
+      "start_formatted": "09:02",
+      "end_formatted": "09:03",
+      "text": "but what are the raw materials?"
+    },
+    {
+      "start": 544.08,
+      "end": 545.84,
+      "start_formatted": "09:04",
+      "end_formatted": "09:05",
+      "text": "And by reducing it to its core components,"
+    },
+    {
+      "start": 546.32,
+      "end": 549.08,
+      "start_formatted": "09:06",
+      "end_formatted": "09:09",
+      "text": "the raw lithium, nickel, cobalt, aluminum,"
+    },
+    {
+      "start": 549.42,
+      "end": 551.92,
+      "start_formatted": "09:09",
+      "end_formatted": "09:11",
+      "text": "the analysis showed the theoretical minimum material cost"
+    },
+    {
+      "start": 551.92,
+      "end": 553.94,
+      "start_formatted": "09:11",
+      "end_formatted": "09:13",
+      "text": "was only about $80 per kilowatt hour."
+    },
+    {
+      "start": 554.0,
+      "end": 554.4,
+      "start_formatted": "09:14",
+      "end_formatted": "09:14",
+      "text": "Wow."
+    },
+    {
+      "start": 554.96,
+      "end": 557.8,
+      "start_formatted": "09:14",
+      "end_formatted": "09:17",
+      "text": "That objective truth immediately redefined the boundary"
+    },
+    {
+      "start": 557.8,
+      "end": 558.6,
+      "start_formatted": "09:17",
+      "end_formatted": "09:18",
+      "text": "of what was possible."
+    },
+    {
+      "start": 558.86,
+      "end": 560.84,
+      "start_formatted": "09:18",
+      "end_formatted": "09:20",
+      "text": "They knew the problem wasn't chemistry, it was convention."
+    },
+    {
+      "start": 561.18,
+      "end": 563.34,
+      "start_formatted": "09:21",
+      "end_formatted": "09:23",
+      "text": "And they set a clear $80 target."
+    },
+    {
+      "start": 563.56,
+      "end": 565.24,
+      "start_formatted": "09:23",
+      "end_formatted": "09:25",
+      "text": "And this isn't just for heavy manufacturing."
+    },
+    {
+      "start": 565.24,
+      "end": 568.24,
+      "start_formatted": "09:25",
+      "end_formatted": "09:28",
+      "text": "The XeroDah example from Stockbrokerage in India is perfect."
+    },
+    {
+      "start": 568.72,
+      "end": 571.4,
+      "start_formatted": "09:28",
+      "end_formatted": "09:31",
+      "text": "Around 2010, that industry ran on some really"
+    },
+    {
+      "start": 571.4,
+      "end": 572.68,
+      "start_formatted": "09:31",
+      "end_formatted": "09:32",
+      "text": "fundamental assumptions."
+    },
+    {
+      "start": 573.06,
+      "end": 575.56,
+      "start_formatted": "09:33",
+      "end_formatted": "09:35",
+      "text": "The legacy model was built on three core conventions."
+    },
+    {
+      "start": 576.38,
+      "end": 579.5,
+      "start_formatted": "09:36",
+      "end_formatted": "09:39",
+      "text": "One, brokers need a physical high street presence."
+    },
+    {
+      "start": 579.8,
+      "end": 581.86,
+      "start_formatted": "09:39",
+      "end_formatted": "09:41",
+      "text": "Two, they have to use a high commission model,"
+    },
+    {
+      "start": 581.92,
+      "end": 583.28,
+      "start_formatted": "09:41",
+      "end_formatted": "09:43",
+      "text": "especially for active traders."
+    },
+    {
+      "start": 583.48,
+      "end": 586.14,
+      "start_formatted": "09:43",
+      "end_formatted": "09:46",
+      "text": "And three, trading platforms are expensive,"
+    },
+    {
+      "start": 586.32,
+      "end": 587.36,
+      "start_formatted": "09:46",
+      "end_formatted": "09:47",
+      "text": "complex infrastructure."
+    },
+    {
+      "start": 587.62,
+      "end": 589.6,
+      "start_formatted": "09:47",
+      "end_formatted": "09:49",
+      "text": "So XeroDah applied FPT."
+    },
+    {
+      "start": 589.86,
+      "end": 592.24,
+      "start_formatted": "09:49",
+      "end_formatted": "09:52",
+      "text": "They challenged the need for physical branches,"
+    },
+    {
+      "start": 592.24,
+      "end": 594.78,
+      "start_formatted": "09:52",
+      "end_formatted": "09:54",
+      "text": "realizing that for their target demographic,"
+    },
+    {
+      "start": 595.26,
+      "end": 599.06,
+      "start_formatted": "09:55",
+      "end_formatted": "09:59",
+      "text": "young tech savvy traders, it was just an unnecessary cost."
+    },
+    {
+      "start": 599.44,
+      "end": 601.14,
+      "start_formatted": "09:59",
+      "end_formatted": "10:01",
+      "text": "They challenged the commission model too."
+    },
+    {
+      "start": 601.4,
+      "end": 605.3,
+      "start_formatted": "10:01",
+      "end_formatted": "10:05",
+      "text": "They realized that volume enabled by near zero friction tech"
+    },
+    {
+      "start": 605.88,
+      "end": 607.6,
+      "start_formatted": "10:05",
+      "end_formatted": "10:07",
+      "text": "could completely replace high fees."
+    },
+    {
+      "start": 607.78,
+      "end": 610.04,
+      "start_formatted": "10:07",
+      "end_formatted": "10:10",
+      "text": "So they rebuilt their whole model based only"
+    },
+    {
+      "start": 610.04,
+      "end": 613.04,
+      "start_formatted": "10:10",
+      "end_formatted": "10:13",
+      "text": "on foundational principles, regulatory compliance,"
+    },
+    {
+      "start": 613.5,
+      "end": 615.72,
+      "start_formatted": "10:13",
+      "end_formatted": "10:15",
+      "text": "secure settlement, and fast execution."
+    },
+    {
+      "start": 615.86,
+      "end": 617.18,
+      "start_formatted": "10:15",
+      "end_formatted": "10:17",
+      "text": "And everything else was stripped away."
+    },
+    {
+      "start": 617.44,
+      "end": 619.2,
+      "start_formatted": "10:17",
+      "end_formatted": "10:19",
+      "text": "By eliminating the conventional costs,"
+    },
+    {
+      "start": 619.54,
+      "end": 621.78,
+      "start_formatted": "10:19",
+      "end_formatted": "10:21",
+      "text": "the branch network, expensive relationship managers,"
+    },
+    {
+      "start": 621.78,
+      "end": 625.76,
+      "start_formatted": "10:21",
+      "end_formatted": "10:25",
+      "text": "they achieved a phenomenal 67% profit margin per customer."
+    },
+    {
+      "start": 625.88,
+      "end": 626.72,
+      "start_formatted": "10:25",
+      "end_formatted": "10:26",
+      "text": "Not by charging more."
+    },
+    {
+      "start": 626.88,
+      "end": 627.42,
+      "start_formatted": "10:26",
+      "end_formatted": "10:27",
+      "text": "Not at all."
+    },
+    {
+      "start": 627.8,
+      "end": 629.74,
+      "start_formatted": "10:27",
+      "end_formatted": "10:29",
+      "text": "But by operating on an infrastructure built"
+    },
+    {
+      "start": 629.74,
+      "end": 631.58,
+      "start_formatted": "10:29",
+      "end_formatted": "10:31",
+      "text": "only upon irreducible costs."
+    },
+    {
+      "start": 631.88,
+      "end": 633.0,
+      "start_formatted": "10:31",
+      "end_formatted": "10:33",
+      "text": "That's the power of it."
+    },
+    {
+      "start": 633.18,
+      "end": 636.38,
+      "start_formatted": "10:33",
+      "end_formatted": "10:36",
+      "text": "It forces you to stop focusing on marginal gains"
+    },
+    {
+      "start": 636.38,
+      "end": 639.72,
+      "start_formatted": "10:36",
+      "end_formatted": "10:39",
+      "text": "inside the framework and start looking for radical cost"
+    },
+    {
+      "start": 639.72,
+      "end": 641.2,
+      "start_formatted": "10:39",
+      "end_formatted": "10:41",
+      "text": "elimination outside of it."
+    },
+    {
+      "start": 641.5,
+      "end": 643.62,
+      "start_formatted": "10:41",
+      "end_formatted": "10:43",
+      "text": "It feels revolutionary, but as you said,"
+    },
+    {
+      "start": 643.64,
+      "end": 645.62,
+      "start_formatted": "10:43",
+      "end_formatted": "10:45",
+      "text": "it has this deep historical blueprint."
+    },
+    {
+      "start": 646.1,
+      "end": 646.52,
+      "start_formatted": "10:46",
+      "end_formatted": "10:46",
+      "text": "Absolutely."
+    },
+    {
+      "start": 647.08,
+      "end": 649.3399999999999,
+      "start_formatted": "10:47",
+      "end_formatted": "10:49",
+      "text": "This rigor connects us directly back to Aristotle's"
+    },
+    {
+      "start": 649.92,
+      "end": 651.34,
+      "start_formatted": "10:49",
+      "end_formatted": "10:51",
+      "text": "pursuit of first philosophy."
+    },
+    {
+      "start": 652.14,
+      "end": 654.82,
+      "start_formatted": "10:52",
+      "end_formatted": "10:54",
+      "text": "His goal was to find the objective first principles"
+    },
+    {
+      "start": 654.82,
+      "end": 657.66,
+      "start_formatted": "10:54",
+      "end_formatted": "10:57",
+      "text": "of the world, the features that determine truth,"
+    },
+    {
+      "start": 658.04,
+      "end": 659.72,
+      "start_formatted": "10:58",
+      "end_formatted": "10:59",
+      "text": "independent of our own beliefs about them."
+    },
+    {
+      "start": 659.92,
+      "end": 661.88,
+      "start_formatted": "10:59",
+      "end_formatted": "11:01",
+      "text": "He didn't just accept common sense."
+    },
+    {
+      "start": 661.9,
+      "end": 663.64,
+      "start_formatted": "11:01",
+      "end_formatted": "11:03",
+      "text": "He used a method called dialectic."
+    },
+    {
+      "start": 663.96,
+      "end": 664.12,
+      "start_formatted": "11:03",
+      "end_formatted": "11:04",
+      "text": "Right."
+    },
+    {
+      "start": 664.3,
+      "end": 666.8,
+      "start_formatted": "11:04",
+      "end_formatted": "11:06",
+      "text": "It was a process of intense intellectual scrutiny."
+    },
+    {
+      "start": 667.28,
+      "end": 669.84,
+      "start_formatted": "11:07",
+      "end_formatted": "11:09",
+      "text": "Dialectic required finding conflicting arguments"
+    },
+    {
+      "start": 669.84,
+      "end": 672.68,
+      "start_formatted": "11:09",
+      "end_formatted": "11:12",
+      "text": "and crucially demanding a vigorous defense"
+    },
+    {
+      "start": 672.68,
+      "end": 675.62,
+      "start_formatted": "11:12",
+      "end_formatted": "11:15",
+      "text": "for the truth of common beliefs, the endoxa,"
+    },
+    {
+      "start": 675.7,
+      "end": 677.16,
+      "start_formatted": "11:15",
+      "end_formatted": "11:17",
+      "text": "rather than just accepting them."
+    },
+    {
+      "start": 677.28,
+      "end": 679.42,
+      "start_formatted": "11:17",
+      "end_formatted": "11:19",
+      "text": "It's like putting every conventional belief on trial."
+    },
+    {
+      "start": 679.44,
+      "end": 680.08,
+      "start_formatted": "11:19",
+      "end_formatted": "11:20",
+      "text": "It is."
+    },
+    {
+      "start": 680.08,
+      "end": 683.34,
+      "start_formatted": "11:20",
+      "end_formatted": "11:23",
+      "text": "And the core of FPT really echoes his primary goal,"
+    },
+    {
+      "start": 683.78,
+      "end": 685.92,
+      "start_formatted": "11:23",
+      "end_formatted": "11:25",
+      "text": "seeking the real essence of a thing,"
+    },
+    {
+      "start": 686.34,
+      "end": 688.86,
+      "start_formatted": "11:26",
+      "end_formatted": "11:28",
+      "text": "not its accidental features like the color of a car"
+    },
+    {
+      "start": 688.86,
+      "end": 690.3,
+      "start_formatted": "11:28",
+      "end_formatted": "11:30",
+      "text": "or the neighborhood of a brokerage."
+    },
+    {
+      "start": 690.4,
+      "end": 693.04,
+      "start_formatted": "11:30",
+      "end_formatted": "11:33",
+      "text": "But the property it must retain to exist in the first place."
+    },
+    {
+      "start": 693.36,
+      "end": 695.46,
+      "start_formatted": "11:33",
+      "end_formatted": "11:35",
+      "text": "That focus on defining true substance"
+    },
+    {
+      "start": 695.46,
+      "end": 697.9,
+      "start_formatted": "11:35",
+      "end_formatted": "11:37",
+      "text": "is the key to objective knowledge."
+    },
+    {
+      "start": 698.36,
+      "end": 701.7,
+      "start_formatted": "11:38",
+      "end_formatted": "11:41",
+      "text": "So when we ask, what is a rocket or what is a battery,"
+    },
+    {
+      "start": 702.2,
+      "end": 704.8,
+      "start_formatted": "11:42",
+      "end_formatted": "11:44",
+      "text": "we're asking what essential properties must remain"
+    },
+    {
+      "start": 704.8,
+      "end": 706.8,
+      "start_formatted": "11:44",
+      "end_formatted": "11:46",
+      "text": "for it to function as that thing."
+    },
+    {
+      "start": 707.06,
+      "end": 708.28,
+      "start_formatted": "11:47",
+      "end_formatted": "11:48",
+      "text": "The titanium is essential."
+    },
+    {
+      "start": 708.28,
+      "end": 711.52,
+      "start_formatted": "11:48",
+      "end_formatted": "11:51",
+      "text": "The $60 million supplier margin is incidental."
+    },
+    {
+      "start": 711.9,
+      "end": 712.24,
+      "start_formatted": "11:51",
+      "end_formatted": "11:52",
+      "text": "Precisely."
+    },
+    {
+      "start": 712.54,
+      "end": 714.76,
+      "start_formatted": "11:52",
+      "end_formatted": "11:54",
+      "text": "But let's bring this back to the practical application"
+    },
+    {
+      "start": 714.76,
+      "end": 715.94,
+      "start_formatted": "11:54",
+      "end_formatted": "11:55",
+      "text": "for you, the listener."
+    },
+    {
+      "start": 716.16,
+      "end": 718.34,
+      "start_formatted": "11:56",
+      "end_formatted": "11:58",
+      "text": "How do we manage that risk we talked about,"
+    },
+    {
+      "start": 718.42,
+      "end": 719.9,
+      "start_formatted": "11:58",
+      "end_formatted": "11:59",
+      "text": "the risk of analysis paralysis,"
+    },
+    {
+      "start": 720.04,
+      "end": 722.02,
+      "start_formatted": "12:00",
+      "end_formatted": "12:02",
+      "text": "where you just break down assumptions forever"
+    },
+    {
+      "start": 722.02,
+      "end": 722.8,
+      "start_formatted": "12:02",
+      "end_formatted": "12:02",
+      "text": "without acting?"
+    },
+    {
+      "start": 723.04,
+      "end": 725.24,
+      "start_formatted": "12:03",
+      "end_formatted": "12:05",
+      "text": "That is the necessary limitation."
+    },
+    {
+      "start": 726.04,
+      "end": 728.18,
+      "start_formatted": "12:06",
+      "end_formatted": "12:08",
+      "text": "FPT is a tool for better decisions,"
+    },
+    {
+      "start": 728.44,
+      "end": 729.9,
+      "start_formatted": "12:08",
+      "end_formatted": "12:09",
+      "text": "not a substitute for action."
+    },
+    {
+      "start": 730.24,
+      "end": 733.04,
+      "start_formatted": "12:10",
+      "end_formatted": "12:13",
+      "text": "And the sources offer very clear stopping rules."
+    },
+    {
+      "start": 733.18,
+      "end": 734.98,
+      "start_formatted": "12:13",
+      "end_formatted": "12:14",
+      "text": "Okay, so when do you stop the analysis?"
+    },
+    {
+      "start": 734.98,
+      "end": 738.28,
+      "start_formatted": "12:14",
+      "end_formatted": "12:18",
+      "text": "You stop when you hit one of two immovable constraints,"
+    },
+    {
+      "start": 738.88,
+      "end": 739.92,
+      "start_formatted": "12:18",
+      "end_formatted": "12:19",
+      "text": "physics or economics?"
+    },
+    {
+      "start": 740.08,
+      "end": 741.06,
+      "start_formatted": "12:20",
+      "end_formatted": "12:21",
+      "text": "Physics or economics."
+    },
+    {
+      "start": 741.42,
+      "end": 742.9,
+      "start_formatted": "12:21",
+      "end_formatted": "12:22",
+      "text": "If the constraint is irreducible"
+    },
+    {
+      "start": 742.9,
+      "end": 745.06,
+      "start_formatted": "12:22",
+      "end_formatted": "12:25",
+      "text": "because of the immutable laws of the universe,"
+    },
+    {
+      "start": 745.4,
+      "end": 747.14,
+      "start_formatted": "12:25",
+      "end_formatted": "12:27",
+      "text": "the speed of light, the strength of a material,"
+    },
+    {
+      "start": 747.38,
+      "end": 749.58,
+      "start_formatted": "12:27",
+      "end_formatted": "12:29",
+      "text": "thermodynamics, the reduction is complete."
+    },
+    {
+      "start": 749.88,
+      "end": 750.98,
+      "start_formatted": "12:29",
+      "end_formatted": "12:30",
+      "text": "That's your objective principle."
+    },
+    {
+      "start": 751.04,
+      "end": 751.86,
+      "start_formatted": "12:31",
+      "end_formatted": "12:31",
+      "text": "And economics."
+    },
+    {
+      "start": 752.32,
+      "end": 755.02,
+      "start_formatted": "12:32",
+      "end_formatted": "12:35",
+      "text": "You also stop if the economic cost"
+    },
+    {
+      "start": 755.02,
+      "end": 756.4,
+      "start_formatted": "12:35",
+      "end_formatted": "12:36",
+      "text": "of challenging the constraint"
+    },
+    {
+      "start": 756.4,
+      "end": 759.4,
+      "start_formatted": "12:36",
+      "end_formatted": "12:39",
+      "text": "or maybe the political cost of implementing the change"
+    },
+    {
+      "start": 759.4,
+      "end": 761.28,
+      "start_formatted": "12:39",
+      "end_formatted": "12:41",
+      "text": "outweighs the potential reward."
+    },
+    {
+      "start": 761.98,
+      "end": 766.34,
+      "start_formatted": "12:41",
+      "end_formatted": "12:46",
+      "text": "FPT has to serve innovation, not just academic curiosity."
+    },
+    {
+      "start": 766.62,
+      "end": 767.46,
+      "start_formatted": "12:46",
+      "end_formatted": "12:47",
+      "text": "So let's distill this."
+    },
+    {
+      "start": 767.72,
+      "end": 769.94,
+      "start_formatted": "12:47",
+      "end_formatted": "12:49",
+      "text": "What does this whole process mean for you right now?"
+    },
+    {
+      "start": 769.98,
+      "end": 771.62,
+      "start_formatted": "12:49",
+      "end_formatted": "12:51",
+      "text": "Let's do three powerful takeaways."
+    },
+    {
+      "start": 771.86,
+      "end": 773.9,
+      "start_formatted": "12:51",
+      "end_formatted": "12:53",
+      "text": "Okay, first, focus on the essence."
+    },
+    {
+      "start": 774.42,
+      "end": 776.58,
+      "start_formatted": "12:54",
+      "end_formatted": "12:56",
+      "text": "FPT requires you to constantly answer"
+    },
+    {
+      "start": 776.58,
+      "end": 778.56,
+      "start_formatted": "12:56",
+      "end_formatted": "12:58",
+      "text": "that fundamental what is it question."
+    },
+    {
+      "start": 779.18,
+      "end": 780.88,
+      "start_formatted": "12:59",
+      "end_formatted": "13:00",
+      "text": "Strip away all the layers of convention"
+    },
+    {
+      "start": 780.88,
+      "end": 783.42,
+      "start_formatted": "13:00",
+      "end_formatted": "13:03",
+      "text": "and identify only the properties essential"
+    },
+    {
+      "start": 783.42,
+      "end": 784.54,
+      "start_formatted": "13:03",
+      "end_formatted": "13:04",
+      "text": "for that thing's existence."
+    },
+    {
+      "start": 784.8,
+      "end": 788.24,
+      "start_formatted": "13:04",
+      "end_formatted": "13:08",
+      "text": "Second, you now know where to hunt for massive opportunity."
+    },
+    {
+      "start": 788.24,
+      "end": 791.28,
+      "start_formatted": "13:08",
+      "end_formatted": "13:11",
+      "text": "True disruption is found by analyzing that gap"
+    },
+    {
+      "start": 791.28,
+      "end": 793.1,
+      "start_formatted": "13:11",
+      "end_formatted": "13:13",
+      "text": "between the theoretical minimum cost"
+    },
+    {
+      "start": 793.1,
+      "end": 794.92,
+      "start_formatted": "13:13",
+      "end_formatted": "13:14",
+      "text": "and the current industry cost."
+    },
+    {
+      "start": 795.16,
+      "end": 797.22,
+      "start_formatted": "13:15",
+      "end_formatted": "13:17",
+      "text": "Right, if the assumption to principle ratio,"
+    },
+    {
+      "start": 797.32,
+      "end": 799.94,
+      "start_formatted": "13:17",
+      "end_formatted": "13:19",
+      "text": "that amount of conventional baggage is high in your field,"
+    },
+    {
+      "start": 800.32,
+      "end": 801.4,
+      "start_formatted": "13:20",
+      "end_formatted": "13:21",
+      "text": "you're sitting on an industry"
+    },
+    {
+      "start": 801.4,
+      "end": 803.44,
+      "start_formatted": "13:21",
+      "end_formatted": "13:23",
+      "text": "that is fundamentally right for disruption."
+    },
+    {
+      "start": 803.58,
+      "end": 804.52,
+      "start_formatted": "13:23",
+      "end_formatted": "13:24",
+      "text": "And the third takeaway."
+    },
+    {
+      "start": 804.78,
+      "end": 807.88,
+      "start_formatted": "13:24",
+      "end_formatted": "13:27",
+      "text": "Third, recognize that FPT is a profound mental shift."
+    },
+    {
+      "start": 808.32,
+      "end": 811.36,
+      "start_formatted": "13:28",
+      "end_formatted": "13:31",
+      "text": "It demands continuous rigor and above all, courage."
+    },
+    {
+      "start": 811.54,
+      "end": 812.92,
+      "start_formatted": "13:31",
+      "end_formatted": "13:32",
+      "text": "You have to have the courage to ignore"
+    },
+    {
+      "start": 812.92,
+      "end": 814.12,
+      "start_formatted": "13:32",
+      "end_formatted": "13:34",
+      "text": "how things are usually done."
+    },
+    {
+      "start": 814.22,
+      "end": 814.86,
+      "start_formatted": "13:34",
+      "end_formatted": "13:34",
+      "text": "I like that."
+    },
+    {
+      "start": 814.9,
+      "end": 817.1,
+      "start_formatted": "13:34",
+      "end_formatted": "13:37",
+      "text": "In a world where most people just think by analogy."
+    },
+    {
+      "start": 817.1,
+      "end": 820.3,
+      "start_formatted": "13:37",
+      "end_formatted": "13:40",
+      "text": "Those who commit to reasoning from first principles"
+    },
+    {
+      "start": 820.3,
+      "end": 824.3,
+      "start_formatted": "13:40",
+      "end_formatted": "13:44",
+      "text": "possess the unique power to reshape reality itself."
+    },
+    {
+      "start": 824.58,
+      "end": 826.52,
+      "start_formatted": "13:44",
+      "end_formatted": "13:46",
+      "text": "So here's the challenge for you to take"
+    },
+    {
+      "start": 826.52,
+      "end": 828.66,
+      "start_formatted": "13:46",
+      "end_formatted": "13:48",
+      "text": "into your professional or your personal life this week."
+    },
+    {
+      "start": 829.24,
+      "end": 831.08,
+      "start_formatted": "13:49",
+      "end_formatted": "13:51",
+      "text": "What cherished expensive assumption"
+    },
+    {
+      "start": 831.08,
+      "end": 833.44,
+      "start_formatted": "13:51",
+      "end_formatted": "13:53",
+      "text": "in your daily processes or your industry one"
+    },
+    {
+      "start": 833.44,
+      "end": 835.3,
+      "start_formatted": "13:53",
+      "end_formatted": "13:55",
+      "text": "that everyone just accepts as a given"
+    },
+    {
+      "start": 835.3,
+      "end": 837.2,
+      "start_formatted": "13:55",
+      "end_formatted": "13:57",
+      "text": "if you broke it down to its raw components"
+    },
+    {
+      "start": 837.2,
+      "end": 839.48,
+      "start_formatted": "13:57",
+      "end_formatted": "13:59",
+      "text": "is actually just waiting to be melted down"
+    },
+    {
+      "start": 839.48,
+      "end": 841.8,
+      "start_formatted": "13:59",
+      "end_formatted": "14:01",
+      "text": "and rebuilt into something fundamentally superior."
+    },
+    {
+      "start": 842.32,
+      "end": 844.02,
+      "start_formatted": "14:02",
+      "end_formatted": "14:04",
+      "text": "Start asking why until the answer"
+    },
+    {
+      "start": 844.02,
+      "end": 845.64,
+      "start_formatted": "14:04",
+      "end_formatted": "14:05",
+      "text": "is either physics or economics."
+    }
+  ],
+  "chapters": [
+    {
+      "start": 0,
+      "start_formatted": "00:00",
+      "title": "I want you to anchor yourself in two numbers right now",
+      "text_preview": "I want you to anchor yourself in two numbers right now. They really define the strategic challenge of our time. The first number is $65 million.",
+      "number": 1
+    }
+  ],
+  "word_count": 2400
+}

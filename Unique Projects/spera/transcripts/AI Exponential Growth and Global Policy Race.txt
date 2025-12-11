@@ -1,0 +1,290 @@
+=== CHAPTERS ===
+
+[00:00] The pace of AI development feels less like a steady jog and...
+
+
+=== FULL TRANSCRIPT ===
+
+The pace of AI development feels less like a steady jog and more like a, I don't know, a rocket launch. It really does. If you, like us, feel like you're constantly scrambling to keep up, you are not wrong. Welcome to the Deep Dive. Today, we've taken the comprehensive 2024 and 2025 AI index reports, plus a thick stack of global regulatory documents, and we've distilled them. And our mission today is pretty simple, right? Yeah, to give you a clear, high-level map of this volatile landscape, we're tracking three major forces. The staggering velocity of AI capability growth. The serious documented challenges those advances are creating. And finally, the concrete global policy and technical solutions that are, frankly, racing to catch up. OK, let's unpack this. We have to start with velocity because the sheer speed is the foundation of every other problem and solution we're going to talk about. It really is. The biggest headline we pulled from those documents was about the shift in who is actually driving this rapid development. It's a clear power consolidation. If you look at the research output just from 2023, industry produced 51 notable machine learning models. 51. And academia. Academia, which, you know, historically drove fundamental research, produced only 15. So the capital and the raw compute required to train these frontier models. Yeah. It's all centralized now. Almost entirely in the private sector, yes. And when you look at the compute required for this, the numbers just become truly dizzying. They do. The sources clearly show that the training compute needed for the most notable AI models is doubling approximately every five months. Doubling every five months. Just think about that pace. I mean, if your rent or your salary doubled that fast, the world would fundamentally change in a year. This is an exponential trend that utterly dwarfs older metrics like Moore's law. Which means the capability floor is constantly rising. And critically, AI is achieving benchmarks that were previously strictly human domains. We're not talking about Go or chess anymore. No, not at all. We're talking about high stakes abstract reasoning. What's fascinating here is exactly where AI is conquering these traditional human benchmarks. So these are the things we thought were SACE, the things that made us uniquely human. For years, yeah. Tasks involving complex mathematical and abstract reasoning were considered strongholds for human expertise. But that barrier is breaking down fast. So give us the concrete scorecard. Where did the machine finally win? The documents pinpoint a few key conquests. In high level mathematics, the data is just astonishing. OpenAI's 03 mini model, which came out in January 2025, achieved 97.9% accuracy on the challenging math data set. 97.9% and the human baseline is what? The human baseline is 90%. So it's officially surpassed us. That's competition level math proficiency. So we have an AI that can essentially pass advanced math exams better than the average top student. What about reasoning and knowledge application? Well, beyond CureMath, we saw major advances in visual and conceptual reasoning. In 2024, AI systems finally match the human baseline on visual common sense reasoning or VCR. And VCR is. That's about understanding subtle relationships and images, right? Not just identifying objects. Exactly. And for abstract pattern recognition, OpenAI's 03 model got a 75.7% on the previously difficult ARC-AGI benchmark. And this proficiency is translating directly into high stakes fields like medicine. Absolutely. Which is where mistakes have immediate life altering consequences. Clinical large language models are improving at a breathtaking pace. OK, so what are the numbers there? Take the MedQA benchmark. It's essentially the equivalent of a clinical licensing exam. In 2024, OpenAI's 01 model achieved a state of the art 96.0% accuracy on it. 96%. Yes. And what makes that data point so compelling is that represents a stunning 28.4% point improvement since just late 2022. And just over a year. Yeah. This signals that MedQA, a key benchmark for clinical knowledge, may soon be saturated. We just need a harder test to even measure progress now. Which means we're going to need even harder challenges to track real capability. But here's the thing. The models aren't just getting better, are they? They're getting smarter and much, much more efficient. That's the perfect transition. The trend used to be scaling up. Just throw more parameters at the problem. Now the goal is scaling down without losing performance. So tell us about that size reduction. That was a huge headline. It was. The reports highlight the smallest model capable of surpassing 60% on the comprehensive MMLU benchmark. In 2022, that model was Google's Paul M, which had a massive 540 billion parameters. 540 billion. OK. Just two years later in 2024, that same threshold was met by Microsoft's Phi 3 Mini. It has just 3.8 billion parameters. That's a 142 fold reduction in model size. In two years. That isn't just a fun statistic. No, it's a huge shift in capability accessibility. Right. It means powerful, highly capable AI is now accessible outside of just five hyperscale labs. It changes the security calculus, the distribution of power, and frankly, who can afford to innovate? And that accessibility pushes us directly toward the urgent challenges these capabilities are creating. Precisely. But this lightning fast progress, as you said, it always comes with a wake of serious trouble. Let's pivot now to the urgent challenges, because the acceleration of capability has been mirrored by an explosion in risk. It really has. According to the AI Incidence Database, the number of reported AI-related incidents hit a record high of 233 in 2024 alone. And that's a... what was the percentage increase? A 56.4% increase over 2023. And we have to remember that's based only on reported incidents. The real number is likely much higher. A 56% increase in failures in a single year, even as models are getting demonstrably better at math and medicine. What's going on there? That dichotomy is the core of the problem. We lack standardized tools to even measure safety consistently. We know the risks are multiplying. But we lack standardized responsible AI or RAI benchmarks. So the developers OpenAI, Google, Anthropic, they're all testing against different internal standards. Largely, yes. They're using proprietary benchmarks. So if a model fails a safety test in one lab, we can't systematically compare that risk to a similar model from a competing lab. Which makes systematic risk comparison almost impossible. Exactly. And that's critical because these models are still highly vulnerable. They struggle acutely with factuality, what we all call hallucination. And they are highly susceptible to sophisticated adversarial attacks. You mean red teaming. Yes. Clever red teaming prompts that can get them to bypass their own safety protocols. What's the real world danger of these bypasses? What can happen? Well, the models can be manipulated into revealing sensitive data. For example, leaking what we call PII, personally identifiable information like phone numbers or private details they might have inadvertently stored from their training data. Or just generating harmful content. Beyond safety risks is a fundamental looming challenge to the model's fuel source data. We're seeing what the sources call a shrinking data commons. That's right. For years, models benefited from massive unrestricted web scraping. But the internet is getting wise to this. The reports show many major domains implemented protocols to curb data scraping. So what's the effect of that? The proportion of restricted tokens in the massive C4 data set jumped drastically. It went from around 5-7% to somewhere between 20-33%. So the well is starting to run dry. This isn't just an abstract problem. It's a signal that the fundamental resource models need is becoming scarce. Which is why that next hurdle model collapse is so alarming. Explain that for us. Model collapse is what happens when models have to train purely on synthetic or AI generated data for repeated cycles. It creates an echo chamber. And the result is a loss of diversity. A severe loss of diversity and ultimately degraded output quality. The models literally forget what reality looks like. Now the good news is that newer research suggests that if you carefully layer synthetic data on top of real human generated data, you can mitigate the degradation. But the pressure to find new high quality human data is immense. The technical challenges are huge, but the immediate societal and political risks. They remain front and center. Especially with major global elections underway. Oh absolutely. Deepfakes are now a tool of political conflict. We've seen concrete examples like the use of contentious AI generated audio clips during Slovakia's 2023 election. Where the authenticity was immediately questioned and weaponized. Exactly. They're easy to generate and notoriously hard to detect reliably. And what's worse, the documents note that many popular detectors perform significantly worse when analyzing deepfakes of certain racial subgroups. And the risk isn't just external manipulation. There's the inherent bias found in the commercial models themselves. Researchers for instance found a significant political bias in chat GPT. A measurable leaning toward Democrats in the US and the Labour Party in the UK. So even seemingly neutral tools carry the biases from their training data. They do. And this all rolls up into this crucial ethical problem documented in the reports called the liars dividend. It's a concept that should genuinely worry everyone. It really should. Because deepfake technology exists and is widely known, individuals, especially public figures, can now deny genuine, verifiable evidence by falsely claiming it was AI generated. It erodes public trust in objective reality. It makes accountability nearly impossible to enforce. It's a truly corrosive problem for democracy. Okay, let's shift gears now. Let's talk about how the world is trying to govern this. Section 3. How are we trying to manage this and what positive applications are emerging despite the risks? Here's where it gets really interesting. It is. We are seeing a rapid acceleration of international coordination. People are recognizing that technical breakthroughs don't respect borders. So after that first AI safety summit in 2023, things started moving. Very quickly. In 2024, AI safety institutes were launched or pledged across the globe in the U.S., the U.K., Japan, France, Germany, Italy, Singapore, South Korea, Australia, Canada, and the EU. That is massive global coordination happening at speed. But how are these legislative efforts shaping up? Are they all converging on a single philosophy? Not exactly. Generally, the sources suggest a growing trend toward restrictive legislation focused on mitigating large-scale harm. The EU AI Act is the most famous example. Right. And it explicitly prohibits what it calls unacceptable risk systems. Yes. Things like behavioral manipulators. And it mandates stringent transparency for high-risk applications and generative AI. So how does that compare to the U.S. approach? I know harmonization is a big challenge right now. That's the core difference the G7 noted. The U.S. has focused on specific sector-targeted acts. For instance, the Artificial Intelligence and Biosecurity Risk Assessment Act, which looks at the threat of AI developing harmful agents. So things like bioweapons. Exactly. Or another one is the Jobs of the Future Act, which mandates studying AI's direct impact on occupations. So let me get this straight. The EU is prescriptive and broad-setting ground rules for all AI systems. Right. While the U.S. is more targeted and sector-specific, focusing on immediate threats and workforce impacts. Exactly. And the G7 report explicitly stated that these two differing philosophies, they're likely to challenge global harmonization efforts for years to come. It's going to be messy. It's a messy global rollout, for sure. But it's critical that we look at the immense positive applications, especially in high-stakes science and medicine. The whole story isn't about stopping the bad. It's also about boosting the good. Absolutely. AI is dramatically accelerating scientific discovery. This is where that compute power really shines. Google DeepMind's Genome Project, for example, used AI to discover 2.2 million new crystal structures. 2.2 million. I mean, that's a game-changer for material science, potentially unlocking new superconductors or batteries that human researchers simply overlooked. And in life-critical fields like weather forecasting, time is literally measured in lives saved. That's a perfect example. Models like GraphCast and GenCast now provide highly accurate 15-day forecasts in minutes rather than the hours needed by traditional supercomputer simulations. Which is vital for disaster response. And climate resilience planning, where speed is everything. And in healthcare, AI is moving from being a novelty to a necessity. We've seen an exponential increase in AI-enabled medical devices approved by the FDA. And critically, AI is also being deployed to integrate complex factors that affect treatment outcomes, like social determinants of health or SDOH. So that means things like a patient's housing situation, or transport or support systems. Exactly. In oncology, for example, AI tools are considering those factors to create personalized, feasible treatment plans. This is actively working toward improving health equity, not just faster diagnoses. So if we pull back, we are in a tight race. We have unprecedented capability acceleration on one track. Leading to massive societal upheaval and risk. And on the other, a scrambling effort to implement responsible governance and harness the beneficial outcomes. The stakes could not be higher. This raises an important question, you know. Given that AI is now outperforming humans on high-level coding, math, and clinical knowledge benchmarks, yet still struggles with reliable planning and social reasoning. Things like PlanBench. What fundamentally human skill beyond technical ability must society prioritize and cultivate in future education and workforce development to ensure we guide, rather than simply deploy, this powerful technology. It's not about being a better calculator than the machine. Not anymore. It's about mastering those uniquely human skills. Knowing what to calculate next and why it matters to the collective good.
+
+
+=== TIMESTAMPED SEGMENTS ===
+
+[00:00] The pace of AI development feels less like a steady jog and more like a, I don't know, a rocket launch.
+[00:05] It really does.
+[00:06] If you, like us, feel like you're constantly scrambling to keep up, you are not wrong.
+[00:12] Welcome to the Deep Dive.
+[00:14] Today, we've taken the comprehensive 2024 and 2025 AI index reports, plus a thick stack of global regulatory documents, and we've distilled them.
+[00:24] And our mission today is pretty simple, right?
+[00:25] Yeah, to give you a clear, high-level map of this volatile landscape, we're tracking three major forces.
+[00:33] The staggering velocity of AI capability growth.
+[00:36] The serious documented challenges those advances are creating.
+[00:39] And finally, the concrete global policy and technical solutions that are, frankly, racing to catch up.
+[00:45] OK, let's unpack this.
+[00:46] We have to start with velocity because the sheer speed is the foundation of every other problem and solution we're going to talk about.
+[00:52] It really is.
+[00:53] The biggest headline we pulled from those documents was about the shift in who is actually driving this rapid development.
+[00:59] It's a clear power consolidation.
+[01:01] If you look at the research output just from 2023, industry produced 51 notable machine learning models.
+[01:08] 51. And academia.
+[01:10] Academia, which, you know, historically drove fundamental research, produced only 15.
+[01:15] So the capital and the raw compute required to train these frontier models.
+[01:19] Yeah.
+[01:19] It's all centralized now.
+[01:21] Almost entirely in the private sector, yes.
+[01:23] And when you look at the compute required for this, the numbers just become truly dizzying.
+[01:28] They do.
+[01:29] The sources clearly show that the training compute needed for the most notable AI models is doubling approximately every five months.
+[01:37] Doubling every five months.
+[01:38] Just think about that pace.
+[01:40] I mean, if your rent or your salary doubled that fast, the world would fundamentally change in a year.
+[01:44] This is an exponential trend that utterly dwarfs older metrics like Moore's law.
+[01:49] Which means the capability floor is constantly rising.
+[01:52] 
+[01:52] And critically, AI is achieving benchmarks that were previously strictly human domains.
+[01:57] We're not talking about Go or chess anymore.
+[01:59] No, not at all.
+[02:00] We're talking about high stakes abstract reasoning.
+[02:03] What's fascinating here is exactly where AI is conquering these traditional human benchmarks.
+[02:08] So these are the things we thought were SACE, the things that made us uniquely human.
+[02:11] For years, yeah.
+[02:13] Tasks involving complex mathematical and abstract reasoning were considered strongholds for human expertise.
+[02:19] But that barrier is breaking down fast.
+[02:22] So give us the concrete scorecard.
+[02:23] Where did the machine finally win?
+[02:25] The documents pinpoint a few key conquests.
+[02:29] In high level mathematics, the data is just astonishing.
+[02:32] OpenAI's 03 mini model, which came out in January 2025, achieved 97.9% accuracy on the challenging math data set.
+[02:41] 97.9% and the human baseline is what?
+[02:43] The human baseline is 90%.
+[02:45] So it's officially surpassed us.
+[02:46] That's competition level math proficiency.
+[02:48] So we have an AI that can essentially pass advanced math exams better than the average top student.
+[02:55] What about reasoning and knowledge application?
+[02:58] Well, beyond CureMath, we saw major advances in visual and conceptual reasoning.
+[03:03] In 2024, AI systems finally match the human baseline on visual common sense reasoning or VCR.
+[03:09] And VCR is.
+[03:11] That's about understanding subtle relationships and images, right?
+[03:14] Not just identifying objects.
+[03:16] Exactly.
+[03:16] And for abstract pattern recognition, OpenAI's 03 model got a 75.7% on the previously difficult ARC-AGI benchmark.
+[03:25] And this proficiency is translating directly into high stakes fields like medicine.
+[03:29] Absolutely.
+[03:30] Which is where mistakes have immediate life altering consequences.
+[03:33] Clinical large language models are improving at a breathtaking pace.
+[03:37] OK, so what are the numbers there?
+[03:38] Take the MedQA benchmark.
+[03:40] It's essentially the equivalent of a clinical licensing exam.
+[03:44] In 2024, OpenAI's 01 model achieved a state of the art 96.0% accuracy on it.
+[03:51] 96%.
+[03:51] Yes.
+[03:52] And what makes that data point so compelling is that represents a stunning 28.4% point improvement since just late 2022.
+[03:59] And just over a year.
+[04:00] Yeah.
+[04:01] This signals that MedQA, a key benchmark for clinical knowledge, may soon be saturated.
+[04:05] We just need a harder test to even measure progress now.
+[04:08] Which means we're going to need even harder challenges to track real capability.
+[04:12] But here's the thing.
+[04:14] The models aren't just getting better, are they?
+[04:16] They're getting smarter and much, much more efficient.
+[04:19] That's the perfect transition.
+[04:20] The trend used to be scaling up.
+[04:22] Just throw more parameters at the problem.
+[04:23] Now the goal is scaling down without losing performance.
+[04:26] So tell us about that size reduction.
+[04:28] That was a huge headline.
+[04:29] It was.
+[04:30] The reports highlight the smallest model capable of surpassing 60% on the comprehensive MMLU benchmark.
+[04:36] In 2022, that model was Google's Paul M, which had a massive 540 billion parameters.
+[04:44] 540 billion.
+[04:45] OK.
+[04:46] Just two years later in 2024, that same threshold was met by Microsoft's Phi 3 Mini.
+[04:51] It has just 3.8 billion parameters.
+[04:54] That's a 142 fold reduction in model size.
+[04:56] In two years.
+[04:57] That isn't just a fun statistic.
+[04:59] No, it's a huge shift in capability accessibility.
+[05:01] Right.
+[05:02] It means powerful, highly capable AI is now accessible outside of just five hyperscale labs.
+[05:08] It changes the security calculus, the distribution of power, and frankly, who can afford to innovate?
+[05:13] And that accessibility pushes us directly toward the urgent challenges these capabilities are creating.
+[05:18] Precisely.
+[05:19] But this lightning fast progress, as you said, it always comes with a wake of serious trouble.
+[05:24] Let's pivot now to the urgent challenges, because the acceleration of capability has been mirrored by an explosion in risk.
+[05:31] It really has.
+[05:32] According to the AI Incidence Database, the number of reported AI-related incidents hit a record high of 233 in 2024 alone.
+[05:41] And that's a... what was the percentage increase?
+[05:43] A 56.4% increase over 2023.
+[05:46] And we have to remember that's based only on reported incidents.
+[05:49] The real number is likely much higher.
+[05:51] A 56% increase in failures in a single year, even as models are getting demonstrably better at math and medicine.
+[05:57] What's going on there?
+[05:58] That dichotomy is the core of the problem.
+[06:00] We lack standardized tools to even measure safety consistently.
+[06:04] We know the risks are multiplying.
+[06:05] But we lack standardized responsible AI or RAI benchmarks.
+[06:10] So the developers OpenAI, Google, Anthropic, they're all testing against different internal standards.
+[06:15] Largely, yes.
+[06:16] They're using proprietary benchmarks.
+[06:18] So if a model fails a safety test in one lab, we can't systematically compare that risk to a similar model from a competing lab.
+[06:27] Which makes systematic risk comparison almost impossible.
+[06:29] Exactly.
+[06:30] And that's critical because these models are still highly vulnerable.
+[06:34] They struggle acutely with factuality, what we all call hallucination.
+[06:39] And they are highly susceptible to sophisticated adversarial attacks.
+[06:43] You mean red teaming.
+[06:44] Yes.
+[06:45] Clever red teaming prompts that can get them to bypass their own safety protocols.
+[06:49] What's the real world danger of these bypasses?
+[06:51] What can happen?
+[06:52] Well, the models can be manipulated into revealing sensitive data.
+[06:55] For example, leaking what we call PII, personally identifiable information like phone numbers or private details they might have inadvertently stored from their training data.
+[07:05] Or just generating harmful content.
+[07:08] Beyond safety risks is a fundamental looming challenge to the model's fuel source data.
+[07:13] We're seeing what the sources call a shrinking data commons.
+[07:15] That's right.
+[07:16] For years, models benefited from massive unrestricted web scraping.
+[07:20] But the internet is getting wise to this.
+[07:23] The reports show many major domains implemented protocols to curb data scraping.
+[07:29] So what's the effect of that?
+[07:30] The proportion of restricted tokens in the massive C4 data set jumped drastically.
+[07:35] It went from around 5-7% to somewhere between 20-33%.
+[07:39] So the well is starting to run dry.
+[07:40] This isn't just an abstract problem.
+[07:42] It's a signal that the fundamental resource models need is becoming scarce.
+[07:47] Which is why that next hurdle model collapse is so alarming.
+[07:50] Explain that for us.
+[07:51] Model collapse is what happens when models have to train purely on synthetic or AI generated data
+[07:57] for repeated cycles.
+[07:58] It creates an echo chamber.
+[08:00] And the result is a loss of diversity.
+[08:02] A severe loss of diversity and ultimately degraded output quality.
+[08:06] The models literally forget what reality looks like.
+[08:09] Now the good news is that newer research suggests that if you carefully layer synthetic data on top
+[08:13] of real human generated data, you can mitigate the degradation.
+[08:17] But the pressure to find new high quality human data is immense.
+[08:21] The technical challenges are huge, but the immediate societal and political risks.
+[08:26] They remain front and center.
+[08:28] Especially with major global elections underway.
+[08:31] Oh absolutely.
+[08:32] Deepfakes are now a tool of political conflict.
+[08:35] We've seen concrete examples like the use of contentious AI generated audio clips during
+[08:39] Slovakia's 2023 election.
+[08:41] Where the authenticity was immediately questioned and weaponized.
+[08:45] Exactly.
+[08:45] They're easy to generate and notoriously hard to detect reliably.
+[08:49] And what's worse, the documents note that many popular detectors perform significantly
+[08:54] worse when analyzing deepfakes of certain racial subgroups.
+[08:57] And the risk isn't just external manipulation.
+[09:00] There's the inherent bias found in the commercial models themselves.
+[09:03] Researchers for instance found a significant political bias in chat GPT.
+[09:07] A measurable leaning toward Democrats in the US and the Labour Party in the UK.
+[09:12] So even seemingly neutral tools carry the biases from their training data.
+[09:16] They do.
+[09:17] And this all rolls up into this crucial ethical problem documented in the reports called the
+[09:23] liars dividend.
+[09:24] It's a concept that should genuinely worry everyone.
+[09:26] It really should.
+[09:27] Because deepfake technology exists and is widely known,
+[09:31] individuals, especially public figures, can now deny genuine,
+[09:35] verifiable evidence by falsely claiming it was AI generated.
+[09:39] It erodes public trust in objective reality.
+[09:42] It makes accountability nearly impossible to enforce.
+[09:45] It's a truly corrosive problem for democracy.
+[09:48] Okay, let's shift gears now.
+[09:50] Let's talk about how the world is trying to govern this.
+[09:53] Section 3.
+[09:53] How are we trying to manage this and what positive applications are emerging despite the risks?
+[09:59] Here's where it gets really interesting.
+[10:00] It is.
+[10:01] We are seeing a rapid acceleration of international coordination.
+[10:04] People are recognizing that technical breakthroughs don't respect borders.
+[10:08] So after that first AI safety summit in 2023, things started moving.
+[10:12] Very quickly.
+[10:12] In 2024, AI safety institutes were launched or pledged across the globe in the U.S.,
+[10:18] the U.K., Japan, France, Germany, Italy, Singapore, South Korea,
+[10:22] Australia, Canada, and the EU.
+[10:24] That is massive global coordination happening at speed.
+[10:27] But how are these legislative efforts shaping up?
+[10:30] Are they all converging on a single philosophy?
+[10:32] Not exactly.
+[10:33] Generally, the sources suggest a growing trend toward restrictive legislation
+[10:37] focused on mitigating large-scale harm.
+[10:40] The EU AI Act is the most famous example.
+[10:43] Right.
+[10:43] And it explicitly prohibits what it calls unacceptable risk systems.
+[10:47] Yes.
+[10:47] Things like behavioral manipulators.
+[10:50] And it mandates stringent transparency for high-risk applications and generative AI.
+[10:55] So how does that compare to the U.S. approach?
+[10:58] I know harmonization is a big challenge right now.
+[11:00] That's the core difference the G7 noted.
+[11:03] The U.S. has focused on specific sector-targeted acts.
+[11:06] For instance, the Artificial Intelligence and Biosecurity Risk Assessment Act,
+[11:10] which looks at the threat of AI developing harmful agents.
+[11:14] So things like bioweapons.
+[11:15] Exactly.
+[11:16] Or another one is the Jobs of the Future Act,
+[11:18] which mandates studying AI's direct impact on occupations.
+[11:22] So let me get this straight.
+[11:23] The EU is prescriptive and broad-setting ground rules for all AI systems.
+[11:27] Right.
+[11:27] While the U.S. is more targeted and sector-specific,
+[11:30] focusing on immediate threats and workforce impacts.
+[11:33] Exactly.
+[11:33] And the G7 report explicitly stated that these two differing philosophies,
+[11:40] they're likely to challenge global harmonization efforts for years to come.
+[11:44] It's going to be messy.
+[11:45] It's a messy global rollout, for sure.
+[11:48] But it's critical that we look at the immense positive applications,
+[11:51] especially in high-stakes science and medicine.
+[11:54] The whole story isn't about stopping the bad.
+[11:56] It's also about boosting the good.
+[11:58] Absolutely.
+[11:59] AI is dramatically accelerating scientific discovery.
+[12:02] This is where that compute power really shines.
+[12:06] Google DeepMind's Genome Project, for example,
+[12:08] used AI to discover 2.2 million new crystal structures.
+[12:12] 2.2 million.
+[12:13] I mean, that's a game-changer for material science,
+[12:16] potentially unlocking new superconductors or batteries
+[12:18] that human researchers simply overlooked.
+[12:21] And in life-critical fields like weather forecasting,
+[12:24] time is literally measured in lives saved.
+[12:26] That's a perfect example.
+[12:27] Models like GraphCast and GenCast now provide highly accurate
+[12:31] 15-day forecasts in minutes rather than the hours needed
+[12:34] by traditional supercomputer simulations.
+[12:36] Which is vital for disaster response.
+[12:38] And climate resilience planning, where speed is everything.
+[12:41] And in healthcare, AI is moving from being a novelty to a necessity.
+[12:46] We've seen an exponential increase in AI-enabled medical devices
+[12:50] approved by the FDA.
+[12:51] And critically, AI is also being deployed to integrate complex factors
+[12:55] that affect treatment outcomes, like social determinants of health or SDOH.
+[12:59] So that means things like a patient's housing situation,
+[13:02] or transport or support systems.
+[13:05] Exactly.
+[13:05] In oncology, for example, AI tools are considering those factors
+[13:08] to create personalized, feasible treatment plans.
+[13:11] This is actively working toward improving health equity,
+[13:14] not just faster diagnoses.
+[13:16] So if we pull back, we are in a tight race.
+[13:19] We have unprecedented capability acceleration on one track.
+[13:22] Leading to massive societal upheaval and risk.
+[13:25] And on the other, a scrambling effort to implement responsible governance
+[13:29] and harness the beneficial outcomes.
+[13:31] The stakes could not be higher.
+[13:33] This raises an important question, you know.
+[13:35] Given that AI is now outperforming humans on high-level coding,
+[13:38] math, and clinical knowledge benchmarks,
+[13:40] yet still struggles with reliable planning and social reasoning.
+[13:43] Things like PlanBench.
+[13:45] What fundamentally human skill beyond technical ability
+[13:48] must society prioritize and cultivate in future education
+[13:52] and workforce development to ensure we guide,
+[13:55] rather than simply deploy, this powerful technology.
+[13:59] It's not about being a better calculator than the machine.
+[14:01] Not anymore.
+[14:02] It's about mastering those uniquely human skills.
+[14:05] Knowing what to calculate next and why it matters to the collective good.

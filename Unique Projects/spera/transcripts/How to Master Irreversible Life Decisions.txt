@@ -1,0 +1,387 @@
+=== CHAPTERS ===
+
+[00:00] OK, let's unpack this
+
+
+=== FULL TRANSCRIPT ===
+
+OK, let's unpack this. Think about the biggest decision you're facing right now. Maybe it's a career shift, a huge investment, maybe a commitment that changes your whole life. When the pressure is on, what's the advice we always hear? Trust your gut. Be decisive. We celebrate that quick flash judgment. But here's the pension we need to explore. What if the most important choices, the ones that last for years, are the ones your gut is least equipped to handle? That is the absolute center of our deep dive today. Our mission here is to understand the craft of making what we'll call farsighted choices. We're talking about decisions whose consequences might not be felt for a decade or maybe even a century. We're pulling from Steven Johnson's work in Farsighted, some executive frameworks from Amazon. And then we're going to ground it all in some fascinating experimental data on how time pressure just completely warps our sense of risk. So you have these two forces pulling against each other. On one side, you've got the slow, deliberate, heavy lifting kind of analysis, what people call system two thinking. And on the other, you have those automatic system one flash judgments that are so, so celebrated in business culture. Johnson's argument is that making a truly hard decision is this strangely underappreciated skill. And we almost always make the same mistake. We apply the wrong speed to the wrong problem. Exactly. We live in a world that just valorizes speed. But speed is only useful if the decision is reversible. And if we connect this to the bigger picture, the goal isn't to find some perfect, infallible algorithm for making choices. That doesn't exist. The goal is to get a set of tools that keeps us from making what Johnson calls stupid choices, those catastrophic long-term blunders that are born from rushing and just having a bad process. And step one is just classification. Which brings us right to this beautifully simple framework from Jeff Bezos at Amazon. And to get it, I just want you to visualize walking into a building, maybe your own office, and seeing that every single door is labeled either type one or type two. And that distinction is just so powerful because it immediately tells you the speed and the resources, the sheer amount of brainpower you should use before you even start looking at the data. It's a triage tool. Let's start with the easy ones then. Type two decisions, the two way doors. Right. The definition is simple. They are low consequence. And this is the key. They're reversible. If you walk through that door, you make the decision. And you realize you don't like what's on the other side. You can just turn around and walk back out. Minimal recoverable damage. And the advice Bezos gave on these is so clear. Make them fast. Push the authority down to junior teams. And I love this part, except that you only need about 70% of the information you wish you had. Yes. Because for these reversible decisions, the cost of being slow, of waiting for that 100% certainty, is so much higher than the risk of being slightly wrong. If you're wrong, you just correct it. You pivot. But big organizations struggle with this. Oh, it's a monumental challenge. They get into this bureaucratic habit of applying these heavyweight consensus driven processes to every single decision, even the type two ones. And the result is what Bezos called diminished invention. They're treating a small recoverable problem like it's a global catastrophe. And they just grind to a halt. OK, but then we get to the other door. And the stakes here get a lot higher. These are the type one decisions. The one way doors. Exactly. These are the high consequence, irreversible decisions. Once you walk through this door, that's it. The landscape has changed forever. There is no going back to the way things were. And these demand a totally different approach. Slow, careful, deliberate. Bezos even joked that his job was to be the chief slow down officer for these big type one choices. What's really interesting to me, though, is that even with this rigid framework, Bezos said that for the truly unprecedented type one choices, things that have never been done before, your gut, your intuition still plays a huge role. It's not just a spreadsheet problem. Absolutely. Think about the decision to green light Amazon Prime. Bezos has said that at the beginning, there wasn't a single person with a financial background who supported it. Every single spreadsheet showed it would be a complete disaster for their profits. That decision couldn't be made just analytically. It was made with heart and a guiding principle. Customer obsession. Customer obsession. But, and this is the critical distinction, that reliance on gut only works after you've done the slow, painstaking work. Which leads us to the next question. What is that slow work? So, OK, we've identified a problem as a type one, one way door decision. What now? This is where Stephen Johnson's three steps come in. Yeah, this is the full spectrum process that helps you override those destructive snap judgments from system one. It all starts with step one, mapping. This is the divergence phase. I find the analogy he uses of being a cartographer so helpful here. A farsighted decision maker doesn't start with an answer they want to prove. They act like a map maker. They're trying to see the terrain for what it actually is, not what they want it to be. The goal of mapping is pure expansion. You're just trying to broaden your view. You take an inventory of every force at play, financial, cultural, political, whatever. You sketch out what you know, but crucially, you actively hunt for your blind spots. You chart all the potential paths, even the ones that seem really unlikely. You have to resist that mental gravity that pulls you toward what Johnson calls narrow-band interpretations. And this demands that you go out and find people who disagree with you to challenge your assumptions. Johnson uses this brilliant historical example, the decision in the 1800s to fill in Manhattan's Collect Pond. Yes. On the surface, it looked like a type two decision. Fill in a pond, get more real estate, but it was a catastrophic type one choice. They didn't map the terrain properly. They filled this deep spring-fed pond with contaminated garbage. They failed to account for the fact that you can't just pave over a natural water source. And the result, the area became a swamp. The land kept sinking, causing structural problems in buildings for, well, for the next century. It's a perfect example of a failure to map the situation as it truly was. So once you've mapped the field and the divergence phase is done, you move on to step two, predicting. You have to get a better-than-chance understanding of where all these paths might actually lead you. Right, this is where you simulate the future. It's not just wishful thinking. You use tools like war games, scenario planning. But for anyone listening for a personal or a professional choice, the most powerful and accessible technique is probably the premortem, which was popularized by Gary Klein. I love the premortem. It's just such a direct attack on our cognitive biases, like overconfidence and confirmation bias. Instead of asking what might go wrong, you completely flip the script. You do. You imagine it's a year from now, the decision was made, and it failed, spectacularly. Then you work backward and explain in detail why it failed. What was the flaw in our thinking? What external shock did we not see coming? It forces you to actually engage with uncertainty instead of ignoring it. And these kinds of simulations are critical for huge government decisions. I'm thinking about the planning for the US raid on Abbottabad. Precisely. They couldn't know exactly what they'd find, so they used extensive modeling and red teams to define the uncertainties, like a helicopter failing or an unexpected response from the enemy. They assigned probabilities to those risks. And it reduced the emotional fear of the unknown by defining it, which allowed them to make a choice based on calculated odds, not on blind hope. Okay, so after all that expansion and forecasting, we finally get to step three, deciding the convergence phase. This is where you narrow the options, and as Johnson says, you start keeping score. And when we think about scoring, we usually think about maximizing value, the biggest potential win. But for these big type one divisions, the much smarter approach is often to focus on minimizing harm. Why is that a better default for irreversible choices? Because maximizing value usually relies on a lot of optimistic assumptions working out. Minimizing harm, on the other hand, forces you to look at something we instinctively want to ignore, the highly unlikely catastrophe. If there's a 1% chance of an outcome that would bankrupt your company or destroy your reputation forever, that path should just be eliminated instantly. Doesn't matter what the potential upside is, it's about building resilience. So the final choice might still have some art to it, but the process has forced you to pick a path that's more resilient, one that has a lower chance of total catastrophic failure. Johnson also says that if you have two paths with similar risk, pick the one that you can modify or adapt later on. The whole point is that hard choices demand you override that first quick snap judgment. You keep your mind open and you use this map, predict, decide framework, to bring discipline to the process. That slow methodical analysis is key, but now we can shift to the hard data, the psychological science, that explains why rushing is so dangerous, especially for type one decisions involving potential losses. Right, we're grounding this in those dual process models from Daniel Kahneman. System one is fast, intuitive, emotional. System two is slow, effortful, and deliberate. Researchers wanted to test how time pressure affects our risk profile when we make financial choices. So they ran an experiment, right, with over 1,700 people comparing choices made under a tight time limit, less than seven seconds, versus people who were forced to wait and delay their response. Yes, and the findings were incredible. They didn't just confirm that rushing changes our decisions. They went right to the heart of prospect theory to an idea called the reflection effect. Okay, wait, let's define that really quickly. What's the reflection effect in simple terms? It's the observation that we're generally risk averse when we're dealing with potential gains, but we become risk seeking when we're faced with potential losses. So if I offer you a guaranteed $100 versus a coin flip for $200 or nothing, most people take the guaranteed money, risk aversion. But if you face a guaranteed $100 loss versus a coin flip for a $200 loss or nothing, most people, they choose the coin flip. They gamble to avoid the pain. That makes perfect sense. We hate losing way more than we enjoy winning. So how did time pressure change that? The data showed that time pressure massively increased this reflection effect. It pushed people toward that more instinctive system one behavior. So for decisions about gains, time pressure made people even more risk averse. They were even less willing to gamble. They just grabbed the sure thing. But the crucial and honestly kind of terrifying finding was on the other side, on the lost side. Absolutely. The effect was stronger and more robust in the loss domain across all four experiments they ran. For decisions involving losses, time pressure led to a significant increase in risk taking. Your automatic intuitive response when you're facing a potential loss is to gamble more recklessly than you would if you had time to sit back and think it through. This is the scientific proof for why we have to slow down on type one decisions. The very situations where you can least afford to be reckless, high consequence, irreversible negative outcomes are the exact same situations where time pressure makes us most reckless. It pushes us toward a desperate gamble. And there was another key finding. The study noted that time pressure increased what they call measurement noise, which just means people gave inconsistent erratic answers. Forcing a time delay was an extremely effective way to reduce that noise and get higher quality, more consistent choices. So when the stakes are high and losses are on the table, which by definition is what most type one decisions are. Slowing down isn't just a nice idea. It's a necessity confirmed by science. Slowness protects you from that primal urge to gamble your way out of trouble. Exactly right. So we've covered Bezos' framework for classification, Johnson's three-step process for execution, and it's all grounded in data showing that slowness protects us from disastrous risk taking when losses are looming. The goal of all this is to instill discipline. Okay, let's pull it all together. Here are three concrete takeaways for you to apply to the next big decision you face. First, classify your door first. Before you even touch a spreadsheet, just ask those two simple questions. What are the consequences and is it reversible? That binary choice tells you your speed. Treat a type two with 70% info and get it done. Treat a type one like a crisis that demands your full, deliberate attention. Second, slow down for losses. If your decision involves potential losses, financial, relational, reputational, whatever, you have to actively fight the urge to rush. The experimental data is just so clear on this. Time pressure makes us reckless in the loss domain. So build in a mandatory delay. Require a cooling off period before you commit. And third, map your blind spots. For those irreversible one-way door choices, you have to invest heavily in that divergence phase, the mapping stage. Actively seek out people who disagree with you. Define every uncertainty you can find and force yourself to confront the worst case scenario with a premortem. You're not optimizing for the best possible outcome. You're protecting yourself from the highly unlikely catastrophe. And that brings us to the final thought. We know Bezos launched Amazon Prime, even when the data told him not to. He relied on his gut. But that gut feeling wasn't an impulse. It was an intuition that had been trained by years of deep system two thinking about his industry. The highest craft of decision-making isn't just trusting your gut. It's training your intuition by refusing to rely on it too soon. When you consistently force your system two to see the situation clearly, to map and to predict, then your gut instinct when you finally need it for those truly unprecedented choices becomes an instrument of real wisdom, not just a random gamble.
+
+
+=== TIMESTAMPED SEGMENTS ===
+
+[00:00] OK, let's unpack this.
+[00:01] Think about the biggest decision you're facing right now.
+[00:04] Maybe it's a career shift, a huge investment, maybe
+[00:07] a commitment that changes your whole life.
+[00:09] When the pressure is on, what's the advice we always hear?
+[00:12] Trust your gut.
+[00:13] Be decisive.
+[00:14] We celebrate that quick flash judgment.
+[00:17] But here's the pension we need to explore.
+[00:19] What if the most important choices,
+[00:22] the ones that last for years, are the ones your gut is least
+[00:25] equipped to handle?
+[00:26] That is the absolute center of our deep dive today.
+[00:30] Our mission here is to understand
+[00:32] the craft of making what we'll call farsighted choices.
+[00:35] We're talking about decisions whose consequences might not
+[00:38] be felt for a decade or maybe even a century.
+[00:41] We're pulling from Steven Johnson's work in Farsighted,
+[00:44] some executive frameworks from Amazon.
+[00:45] And then we're going to ground it all in some fascinating
+[00:48] experimental data on how time pressure just completely
+[00:51] warps our sense of risk.
+[00:52] So you have these two forces pulling against each other.
+[00:54] On one side, you've got the slow, deliberate, heavy lifting
+[00:58] kind of analysis, what people call system two thinking.
+[01:01] And on the other, you have those automatic system one flash
+[01:05] judgments that are so, so celebrated in business culture.
+[01:09] Johnson's argument is that making a truly hard decision
+[01:12] is this strangely underappreciated skill.
+[01:14] And we almost always make the same mistake.
+[01:17] We apply the wrong speed to the wrong problem.
+[01:20] Exactly.
+[01:20] We live in a world that just valorizes speed.
+[01:22] But speed is only useful if the decision is reversible.
+[01:25] And if we connect this to the bigger picture,
+[01:27] the goal isn't to find some perfect, infallible algorithm
+[01:30] for making choices.
+[01:31] That doesn't exist.
+[01:32] The goal is to get a set of tools
+[01:33] that keeps us from making what Johnson calls stupid choices,
+[01:37] those catastrophic long-term blunders that
+[01:39] are born from rushing and just having a bad process.
+[01:41] And step one is just classification.
+[01:44] Which brings us right to this beautifully simple framework
+[01:46] from Jeff Bezos at Amazon.
+[01:48] And to get it, I just want you to visualize
+[01:50] walking into a building, maybe your own office,
+[01:52] and seeing that every single door is labeled either type one
+[01:55] or type two.
+[01:57] And that distinction is just so powerful
+[01:59] because it immediately tells you the speed and the resources,
+[02:03] the sheer amount of brainpower you
+[02:05] should use before you even start looking at the data.
+[02:07] It's a triage tool.
+[02:09] Let's start with the easy ones then.
+[02:10] Type two decisions, the two way doors.
+[02:12] Right.
+[02:13] The definition is simple.
+[02:14] They are low consequence.
+[02:15] And this is the key.
+[02:16] They're reversible.
+[02:18] If you walk through that door, you make the decision.
+[02:20] And you realize you don't like what's on the other side.
+[02:22] You can just turn around and walk back out.
+[02:25] Minimal recoverable damage.
+[02:27] And the advice Bezos gave on these is so clear.
+[02:29] Make them fast.
+[02:31] Push the authority down to junior teams.
+[02:33] And I love this part, except that you only
+[02:35] need about 70% of the information you wish you had.
+[02:38] Yes.
+[02:39] Because for these reversible decisions,
+[02:42] the cost of being slow, of waiting for that 100% certainty,
+[02:46] is so much higher than the risk of being slightly wrong.
+[02:49] If you're wrong, you just correct it.
+[02:51] You pivot.
+[02:52] But big organizations struggle with this.
+[02:54] Oh, it's a monumental challenge.
+[02:56] They get into this bureaucratic habit
+[02:58] of applying these heavyweight consensus driven processes
+[03:01] to every single decision, even the type two ones.
+[03:04] And the result is what Bezos called diminished invention.
+[03:07] They're treating a small recoverable problem
+[03:10] like it's a global catastrophe.
+[03:11] And they just grind to a halt.
+[03:13] OK, but then we get to the other door.
+[03:15] And the stakes here get a lot higher.
+[03:17] These are the type one decisions.
+[03:18] The one way doors.
+[03:20] Exactly.
+[03:20] These are the high consequence, irreversible decisions.
+[03:22] Once you walk through this door, that's it.
+[03:24] The landscape has changed forever.
+[03:26] There is no going back to the way things were.
+[03:28] And these demand a totally different approach.
+[03:30] Slow, careful, deliberate.
+[03:33] Bezos even joked that his job was
+[03:34] to be the chief slow down officer for these big type one
+[03:37] choices.
+[03:37] What's really interesting to me, though,
+[03:38] is that even with this rigid framework,
+[03:41] Bezos said that for the truly unprecedented type one choices,
+[03:44] things that have never been done before, your gut,
+[03:47] your intuition still plays a huge role.
+[03:50] It's not just a spreadsheet problem.
+[03:52] Absolutely.
+[03:53] Think about the decision to green light Amazon Prime.
+[03:56] Bezos has said that at the beginning,
+[03:58] there wasn't a single person with a financial background
+[04:01] who supported it.
+[04:02] Every single spreadsheet showed it
+[04:04] would be a complete disaster for their profits.
+[04:07] That decision couldn't be made just analytically.
+[04:09] It was made with heart and a guiding principle.
+[04:12] Customer obsession.
+[04:12] Customer obsession.
+[04:14] But, and this is the critical distinction,
+[04:16] that reliance on gut only works after you've
+[04:19] done the slow, painstaking work.
+[04:21] Which leads us to the next question.
+[04:23] What is that slow work?
+[04:24] So, OK, we've identified a problem
+[04:26] as a type one, one way door decision.
+[04:28] What now?
+[04:29] This is where Stephen Johnson's three steps come in.
+[04:31] Yeah, this is the full spectrum process
+[04:33] that helps you override those destructive snap judgments
+[04:37] from system one.
+[04:38] It all starts with step one, mapping.
+[04:40] This is the divergence phase.
+[04:42] I find the analogy he uses of being a cartographer
+[04:44] so helpful here.
+[04:45] A farsighted decision maker doesn't start
+[04:48] with an answer they want to prove.
+[04:49] They act like a map maker.
+[04:51] They're trying to see the terrain for what it actually is,
+[04:53] not what they want it to be.
+[04:55] The goal of mapping is pure expansion.
+[04:57] You're just trying to broaden your view.
+[04:59] You take an inventory of every force at play,
+[05:01] financial, cultural, political, whatever.
+[05:03] You sketch out what you know,
+[05:05] but crucially, you actively hunt for your blind spots.
+[05:08] You chart all the potential paths,
+[05:10] even the ones that seem really unlikely.
+[05:13] You have to resist that mental gravity
+[05:15] that pulls you toward what Johnson calls
+[05:17] narrow-band interpretations.
+[05:19] And this demands that you go out and find people
+[05:21] who disagree with you to challenge your assumptions.
+[05:24] Johnson uses this brilliant historical example,
+[05:26] the decision in the 1800s
+[05:29] to fill in Manhattan's Collect Pond.
+[05:31] Yes.
+[05:31] On the surface, it looked like a type two decision.
+[05:34] Fill in a pond, get more real estate,
+[05:36] but it was a catastrophic type one choice.
+[05:38] They didn't map the terrain properly.
+[05:40] They filled this deep spring-fed pond
+[05:42] with contaminated garbage.
+[05:44] They failed to account for the fact
+[05:46] that you can't just pave over a natural water source.
+[05:48] And the result, the area became a swamp.
+[05:51] The land kept sinking,
+[05:52] causing structural problems in buildings
+[05:54] for, well, for the next century.
+[05:56] It's a perfect example of a failure
+[05:58] to map the situation as it truly was.
+[06:00] So once you've mapped the field
+[06:02] and the divergence phase is done,
+[06:03] you move on to step two, predicting.
+[06:06] You have to get a better-than-chance understanding
+[06:08] of where all these paths might actually lead you.
+[06:11] Right, this is where you simulate the future.
+[06:13] It's not just wishful thinking.
+[06:15] You use tools like war games, scenario planning.
+[06:18] But for anyone listening for a personal
+[06:19] or a professional choice,
+[06:21] the most powerful and accessible technique
+[06:23] is probably the premortem,
+[06:25] which was popularized by Gary Klein.
+[06:27] I love the premortem.
+[06:28] It's just such a direct attack on our cognitive biases,
+[06:31] like overconfidence and confirmation bias.
+[06:34] Instead of asking what might go wrong,
+[06:36] you completely flip the script.
+[06:38] You do.
+[06:39] You imagine it's a year from now,
+[06:40] the decision was made, and it failed, spectacularly.
+[06:45] Then you work backward and explain in detail why it failed.
+[06:49] What was the flaw in our thinking?
+[06:50] What external shock did we not see coming?
+[06:53] It forces you to actually engage with uncertainty
+[06:55] instead of ignoring it.
+[06:57] And these kinds of simulations are critical
+[06:58] for huge government decisions.
+[07:00] I'm thinking about the planning
+[07:01] for the US raid on Abbottabad.
+[07:03] Precisely.
+[07:03] They couldn't know exactly what they'd find,
+[07:05] so they used extensive modeling and red teams
+[07:08] to define the uncertainties,
+[07:09] like a helicopter failing
+[07:11] or an unexpected response from the enemy.
+[07:13] They assigned probabilities to those risks.
+[07:16] And it reduced the emotional fear of the unknown
+[07:18] by defining it, which allowed them to make a choice
+[07:21] based on calculated odds, not on blind hope.
+[07:24] Okay, so after all that expansion and forecasting,
+[07:26] we finally get to step three,
+[07:27] deciding the convergence phase.
+[07:30] This is where you narrow the options,
+[07:31] and as Johnson says, you start keeping score.
+[07:34] And when we think about scoring,
+[07:35] we usually think about maximizing value,
+[07:37] the biggest potential win.
+[07:38] But for these big type one divisions,
+[07:41] the much smarter approach is often to focus
+[07:43] on minimizing harm.
+[07:44] Why is that a better default for irreversible choices?
+[07:48] Because maximizing value usually relies
+[07:50] on a lot of optimistic assumptions working out.
+[07:53] Minimizing harm, on the other hand,
+[07:56] forces you to look at something
+[07:57] we instinctively want to ignore,
+[07:59] the highly unlikely catastrophe.
+[08:01] If there's a 1% chance of an outcome
+[08:03] that would bankrupt your company
+[08:05] or destroy your reputation forever,
+[08:06] that path should just be eliminated instantly.
+[08:09] Doesn't matter what the potential upside is,
+[08:11] it's about building resilience.
+[08:13] So the final choice might still have some art to it,
+[08:15] but the process has forced you to pick a path
+[08:18] that's more resilient,
+[08:19] one that has a lower chance of total catastrophic failure.
+[08:23] Johnson also says that if you have two paths
+[08:25] with similar risk,
+[08:26] pick the one that you can modify or adapt later on.
+[08:29] The whole point is that hard choices
+[08:30] demand you override that first quick snap judgment.
+[08:34] You keep your mind open and you use this map,
+[08:37] predict, decide framework,
+[08:38] to bring discipline to the process.
+[08:40] That slow methodical analysis is key,
+[08:43] but now we can shift to the hard data,
+[08:45] the psychological science,
+[08:46] that explains why rushing is so dangerous,
+[08:48] especially for type one decisions involving potential losses.
+[08:52] Right, we're grounding this in those dual process models
+[08:54] from Daniel Kahneman.
+[08:56] System one is fast, intuitive, emotional.
+[08:59] System two is slow, effortful, and deliberate.
+[09:03] Researchers wanted to test how time pressure
+[09:05] affects our risk profile when we make financial choices.
+[09:08] So they ran an experiment, right,
+[09:10] with over 1,700 people comparing choices
+[09:13] made under a tight time limit, less than seven seconds,
+[09:17] versus people who were forced to wait
+[09:18] and delay their response.
+[09:20] Yes, and the findings were incredible.
+[09:21] They didn't just confirm that rushing changes our decisions.
+[09:25] They went right to the heart of prospect theory
+[09:27] to an idea called the reflection effect.
+[09:29] Okay, wait, let's define that really quickly.
+[09:30] What's the reflection effect in simple terms?
+[09:33] It's the observation that we're generally risk averse
+[09:36] when we're dealing with potential gains,
+[09:38] but we become risk seeking
+[09:39] when we're faced with potential losses.
+[09:42] So if I offer you a guaranteed $100 versus a coin flip
+[09:45] for $200 or nothing,
+[09:48] most people take the guaranteed money, risk aversion.
+[09:51] But if you face a guaranteed $100 loss
+[09:54] versus a coin flip for a $200 loss or nothing,
+[09:57] most people, they choose the coin flip.
+[09:59] They gamble to avoid the pain.
+[10:01] That makes perfect sense.
+[10:02] We hate losing way more than we enjoy winning.
+[10:05] So how did time pressure change that?
+[10:07] The data showed that time pressure
+[10:09] massively increased this reflection effect.
+[10:11] It pushed people toward that more
+[10:13] instinctive system one behavior.
+[10:15] So for decisions about gains,
+[10:17] time pressure made people even more risk averse.
+[10:20] They were even less willing to gamble.
+[10:21] They just grabbed the sure thing.
+[10:23] But the crucial and honestly kind of terrifying finding
+[10:25] was on the other side, on the lost side.
+[10:28] Absolutely.
+[10:29] The effect was stronger and more robust in the loss domain
+[10:33] across all four experiments they ran.
+[10:36] For decisions involving losses,
+[10:38] time pressure led to a significant increase in risk taking.
+[10:41] Your automatic intuitive response
+[10:43] when you're facing a potential loss
+[10:45] is to gamble more recklessly
+[10:48] than you would if you had time to sit back
+[10:50] and think it through.
+[10:51] This is the scientific proof
+[10:52] for why we have to slow down on type one decisions.
+[10:55] The very situations where you can least afford
+[10:57] to be reckless, high consequence,
+[10:59] irreversible negative outcomes
+[11:01] are the exact same situations
+[11:03] where time pressure makes us most reckless.
+[11:06] It pushes us toward a desperate gamble.
+[11:08] And there was another key finding.
+[11:09] The study noted that time pressure
+[11:11] increased what they call measurement noise,
+[11:13] which just means people gave inconsistent erratic answers.
+[11:16] Forcing a time delay was an extremely effective way
+[11:18] to reduce that noise and get higher quality,
+[11:20] more consistent choices.
+[11:22] So when the stakes are high and losses are on the table,
+[11:25] which by definition is what most type one decisions are.
+[11:28] Slowing down isn't just a nice idea.
+[11:30] It's a necessity confirmed by science.
+[11:33] Slowness protects you from that primal urge
+[11:36] to gamble your way out of trouble.
+[11:38] Exactly right.
+[11:38] So we've covered Bezos' framework for classification,
+[11:42] Johnson's three-step process for execution,
+[11:44] and it's all grounded in data
+[11:45] showing that slowness protects us
+[11:47] from disastrous risk taking when losses are looming.
+[11:51] The goal of all this is to instill discipline.
+[11:53] Okay, let's pull it all together.
+[11:54] Here are three concrete takeaways
+[11:56] for you to apply to the next big decision you face.
+[11:59] First, classify your door first.
+[12:01] Before you even touch a spreadsheet,
+[12:03] just ask those two simple questions.
+[12:05] What are the consequences and is it reversible?
+[12:08] That binary choice tells you your speed.
+[12:10] Treat a type two with 70% info and get it done.
+[12:13] Treat a type one like a crisis
+[12:14] that demands your full, deliberate attention.
+[12:17] Second, slow down for losses.
+[12:19] If your decision involves potential losses,
+[12:22] financial, relational, reputational, whatever,
+[12:24] you have to actively fight the urge to rush.
+[12:27] The experimental data is just so clear on this.
+[12:29] Time pressure makes us reckless in the loss domain.
+[12:31] So build in a mandatory delay.
+[12:33] Require a cooling off period before you commit.
+[12:36] And third, map your blind spots.
+[12:38] For those irreversible one-way door choices,
+[12:41] you have to invest heavily in that divergence phase,
+[12:44] the mapping stage.
+[12:45] Actively seek out people who disagree with you.
+[12:48] Define every uncertainty you can find
+[12:49] and force yourself to confront the worst case scenario
+[12:52] with a premortem.
+[12:53] You're not optimizing for the best possible outcome.
+[12:56] You're protecting yourself
+[12:56] from the highly unlikely catastrophe.
+[12:59] And that brings us to the final thought.
+[13:01] We know Bezos launched Amazon Prime,
+[13:03] even when the data told him not to.
+[13:05] He relied on his gut.
+[13:07] But that gut feeling wasn't an impulse.
+[13:09] It was an intuition that had been trained
+[13:11] by years of deep system two thinking about his industry.
+[13:15] The highest craft of decision-making
+[13:16] isn't just trusting your gut.
+[13:18] It's training your intuition
+[13:19] by refusing to rely on it too soon.
+[13:21] When you consistently force your system two
+[13:23] to see the situation clearly, to map and to predict,
+[13:26] then your gut instinct when you finally need it
+[13:28] for those truly unprecedented choices
+[13:30] becomes an instrument of real wisdom,
+[13:32] not just a random gamble.

@@ -1,0 +1,1268 @@
+1
+00:00:00,000 --> 00:00:01,760
+All right, let's unpack this.
+
+2
+00:00:02,399 --> 00:00:08,419
+We are diving deep into institutional finance today, and we are skipping right past the
+
+3
+00:00:08,419 --> 00:00:11,259
+entry-level stuff about simply diversifying your assets.
+
+4
+00:00:11,519 --> 00:00:17,199
+The biggest pools of capital, we're talking massive pension funds, endowments, they've
+
+5
+00:00:17,199 --> 00:00:17,800
+already moved on.
+
+6
+00:00:17,879 --> 00:00:18,559
+They really have.
+
+7
+00:00:18,879 --> 00:00:21,859
+The sources you've given us, they highlight this cutting-edge shift.
+
+8
+00:00:22,320 --> 00:00:24,800
+It's no longer just about what assets you hold.
+
+9
+00:00:24,879 --> 00:00:29,160
+It's about what risk you own and how you precisely budget for it.
+
+10
+00:00:29,160 --> 00:00:34,039
+We're going to be exploring the sophisticated methodologies that move way beyond basic asset
+
+11
+00:00:34,039 --> 00:00:40,060
+allocation, things like the risk budgeting approach and the comprehensive risk allocation
+
+12
+00:00:40,060 --> 00:00:40,560
+framework.
+
+13
+00:00:41,020 --> 00:00:45,520
+And our mission here is to figure out how these giants manage the truly complex, the
+
+14
+00:00:45,520 --> 00:00:49,060
+illiquid parts of their portfolios, private equity, infrastructure.
+
+15
+00:00:49,340 --> 00:00:50,200
+Really tricky stuff.
+
+16
+00:00:50,560 --> 00:00:50,920
+Exactly.
+
+17
+00:00:50,979 --> 00:00:56,000
+And why they're focusing less on chasing returns and much more on building financial robustness,
+
+18
+00:00:56,060 --> 00:00:57,679
+on ensuring capital preservation.
+
+19
+00:00:58,320 --> 00:01:02,320
+We want to find those the surprising facts that show why these complex methods are just
+
+20
+00:01:02,320 --> 00:01:03,979
+objectively better than the old ones.
+
+21
+00:01:04,000 --> 00:01:08,019
+Well, we have to start with the fundamental realization that, you know, that drove this
+
+22
+00:01:08,019 --> 00:01:08,459
+change.
+
+23
+00:01:09,340 --> 00:01:16,879
+The major economic crises of the past generation, they profoundly exposed just how fragile traditional
+
+24
+00:01:16,879 --> 00:01:18,079
+asset management was.
+
+25
+00:01:18,120 --> 00:01:18,840
+Oh, absolutely.
+
+26
+00:01:18,939 --> 00:01:24,480
+When the world melts down, relying on uncertain return forecasts, which are, I mean, they're
+
+27
+00:01:24,689 --> 00:01:25,790
+to the older models.
+
+28
+00:01:26,129 --> 00:01:27,629
+That's a recipe for disaster.
+
+29
+00:01:27,930 --> 00:01:30,049
+So the market effectively forced a migration.
+
+30
+00:01:30,590 --> 00:01:34,370
+Risk management had to become the absolute center of the investment process.
+
+31
+00:01:34,409 --> 00:01:38,489
+You had to prioritize models that just didn't require you to guess what returns would be
+
+32
+00:01:38,489 --> 00:01:39,069
+next year.
+
+33
+00:01:39,450 --> 00:01:43,250
+And that's where the theory of risk budgeting or RB really found its footing.
+
+34
+00:01:43,730 --> 00:01:46,370
+Everyone knows the concept of an equal weight portfolio, right?
+
+35
+00:01:46,370 --> 00:01:48,349
+Where every asset gets the same dollar amount.
+
+36
+00:01:48,849 --> 00:01:48,849
+
+
+37
+00:01:49,090 --> 00:01:53,390
+RB is a generalization of the equal risk contribution or ERC portfolio.
+
+38
+00:01:53,510 --> 00:01:54,310
+Which means it's...
+
+39
+00:01:54,310 --> 00:02:00,010
+In an ERC, every asset contributes the same amount of risk to the total portfolio volatility.
+
+40
+00:02:00,030 --> 00:02:01,230
+OK, the same amount of risk.
+
+41
+00:02:01,329 --> 00:02:07,609
+But in the more general risk budgeting approach, the manager defines a specific budget of risk
+
+42
+00:02:07,609 --> 00:02:08,469
+for each component.
+
+43
+00:02:08,770 --> 00:02:13,310
+So maybe the budget for emerging market debt is 10% of total risk and the budget for stable
+
+44
+00:02:13,310 --> 00:02:15,129
+infrastructure is 5%.
+
+45
+00:02:15,129 --> 00:02:19,129
+The portfolio is then built so the actual risk contribution matches that defined budget.
+
+46
+00:02:19,569 --> 00:02:23,090
+And here's where it gets really interesting because this just blows up the major failure
+
+47
+00:02:23,090 --> 00:02:24,710
+of the older gold standard.
+
+48
+00:02:25,430 --> 00:02:27,449
+Mean Variance Optimization, MVO.
+
+49
+00:02:27,969 --> 00:02:32,610
+If RB works by defining risk contribution, what was MVO doing wrong?
+
+50
+00:02:33,050 --> 00:02:37,250
+MVO, for all its theoretical elegance, is practically brittle.
+
+51
+00:02:37,550 --> 00:02:38,990
+It operates beautifully on a whiteboard.
+
+52
+00:02:39,129 --> 00:02:44,710
+But when you implement it in the real world, its tendency is to maximize the effects of
+
+53
+00:02:44,710 --> 00:02:46,030
+errors in your input assumptions.
+
+54
+00:02:46,289 --> 00:02:49,889
+Think of it like trying to perfectly hit a tiny dartboard from a mile away.
+
+55
+00:02:49,889 --> 00:02:54,969
+If your return forecasts are even slightly off, and they always are, MVO pushes the portfolio
+
+56
+00:02:54,969 --> 00:02:57,930
+weights into these wild, extreme, and inefficient corners.
+
+57
+00:02:58,169 --> 00:02:59,969
+Wait, so MVO is?
+
+58
+00:03:00,289 --> 00:03:03,310
+It's theoretically optimal, but in practice it's just brittle.
+
+59
+00:03:04,189 --> 00:03:09,469
+It sounds like we're punishing ourselves for trying to be a little too precise when our
+
+60
+00:03:09,469 --> 00:03:11,590
+inputs are just fundamentally unreliable.
+
+61
+00:03:11,629 --> 00:03:12,530
+That's the trade-off.
+
+62
+00:03:12,689 --> 00:03:13,250
+Precisely.
+
+63
+00:03:13,370 --> 00:03:17,650
+So the quest for the perfect allocation actually leads to massive instability.
+
+64
+00:03:17,810 --> 00:03:18,330
+That's it.
+
+65
+00:03:18,330 --> 00:03:21,310
+RB portfolios are just significantly more robust.
+
+66
+00:03:21,789 --> 00:03:24,969
+They're far less sensitive to those changes in input parameters.
+
+67
+00:03:25,289 --> 00:03:28,789
+And that stability is actually a huge operational win, right?
+
+68
+00:03:28,830 --> 00:03:31,069
+It translates directly into much lower turnover.
+
+69
+00:03:31,270 --> 00:03:35,270
+So you're not paying transaction costs and chasing performance every time the market
+
+70
+00:03:35,270 --> 00:03:35,849
+data wiggles.
+
+71
+00:03:36,009 --> 00:03:36,430
+Exactly.
+
+72
+00:03:36,509 --> 00:03:41,669
+It's a construction method that values consistency and real-world stability over trying to nail
+
+73
+00:03:41,669 --> 00:03:42,810
+an uncertain forecast.
+
+74
+00:03:43,210 --> 00:03:45,810
+And the math, it backs this up so elegantly.
+
+75
+00:03:45,870 --> 00:03:47,569
+You don't even need a complicated formula.
+
+76
+00:03:47,569 --> 00:03:48,289
+Not at all.
+
+77
+00:03:48,590 --> 00:03:53,129
+When academics look at this, they found that the volatility of an RB portfolio is mathematically
+
+78
+00:03:53,129 --> 00:03:58,349
+guaranteed to be safely nestled somewhere between the absolute lowest possible risk
+
+79
+00:03:58,349 --> 00:04:02,569
+portfolio, the minimum variance one, and the simple equally weighted approach.
+
+80
+00:04:02,830 --> 00:04:07,490
+So you get the benefit of optimization without the inherent fragility of the MVO system.
+
+81
+00:04:07,530 --> 00:04:07,949
+That's it.
+
+82
+00:04:08,110 --> 00:04:09,830
+That's powerful proof of concept.
+
+83
+00:04:10,430 --> 00:04:15,810
+But the applications go far beyond typical stock and bond portfolios.
+
+84
+00:04:15,810 --> 00:04:21,050
+You highlighted a pretty surprising use in sovereign bond indexation.
+
+85
+00:04:21,529 --> 00:04:25,350
+This is a fantastic illustration of the need for risk-based thinking.
+
+86
+00:04:26,310 --> 00:04:28,550
+Traditional sovereign bond indexes are weighted by debt.
+
+87
+00:04:28,870 --> 00:04:30,389
+What's the massive paradox here?
+
+88
+00:04:30,810 --> 00:04:34,490
+You end up giving the highest index weightings to the most indebted country.
+
+89
+00:04:34,910 --> 00:04:35,230
+Exactly.
+
+90
+00:04:35,689 --> 00:04:37,930
+Regardless of their capacity to actually service that debt.
+
+91
+00:04:37,990 --> 00:04:40,410
+So you're rewarding poor fiscal management.
+
+92
+00:04:40,610 --> 00:04:44,970
+If you're a passive investor tracking that index, you are effectively taking on the most
+
+93
+00:04:44,970 --> 00:04:46,509
+exposure to the weakest hands.
+
+94
+00:04:46,689 --> 00:04:48,230
+You are indexing to the highest risk.
+
+95
+00:04:48,250 --> 00:04:54,009
+And that creates an inherent ongoing risk of index collapse if one of those highly weighted,
+
+96
+00:04:54,009 --> 00:04:56,269
+heavily indebted nations just hits a wall.
+
+97
+00:04:56,269 --> 00:04:59,230
+The risk budgeting solution completely sidesteps this.
+
+98
+00:04:59,509 --> 00:05:03,750
+Instead of basing the budget on the country's liability, its debt, you base the risk budget
+
+99
+00:05:03,750 --> 00:05:06,129
+on a more stable metric like its GDP.
+
+100
+00:05:06,370 --> 00:05:11,089
+So the stability of the economy rather than the amount it owes, that becomes the anchor
+
+101
+00:05:11,089 --> 00:05:12,370
+of your risk exposure.
+
+102
+00:05:12,649 --> 00:05:14,569
+It's a complete philosophical reversal.
+
+103
+00:05:14,569 --> 00:05:20,250
+So risk budgeting handles the relative risk contribution of portfolio components brilliantly.
+
+104
+00:05:21,029 --> 00:05:24,850
+But let's zoom out a bit to the entire portfolio construction process.
+
+105
+00:05:25,430 --> 00:05:30,250
+We're now talking about the full shift from asset allocation or AA to the risk allocation
+
+106
+00:05:30,250 --> 00:05:31,829
+framework, RAF.
+
+107
+00:05:32,350 --> 00:05:36,009
+Why is traditional AA obsolete for these large institutions?
+
+108
+00:05:36,629 --> 00:05:40,949
+Traditional asset allocation, simply sorting investments into these broad categories like
+
+109
+00:05:40,949 --> 00:05:42,769
+fixed income, equity, commodities.
+
+110
+00:05:43,269 --> 00:05:45,829
+It creates what we call a false sense of security.
+
+111
+00:05:45,829 --> 00:05:46,910
+A false sense of security.
+
+112
+00:05:47,370 --> 00:05:53,290
+When markets are calm, those buckets, they look diverse, but they mask common underlying
+
+113
+00:05:53,290 --> 00:05:55,589
+risk factors that all pop up when stress hits.
+
+114
+00:05:55,930 --> 00:05:59,850
+Like 2008, when everything correlated to one, you thought that high yield bonds were fixed
+
+115
+00:05:59,850 --> 00:06:03,689
+income, but when the economy contracted, they behaved exactly like equities.
+
+116
+00:06:03,889 --> 00:06:04,829
+Exactly like equities.
+
+117
+00:06:04,829 --> 00:06:05,170
+Yes.
+
+118
+00:06:05,250 --> 00:06:07,170
+Because they share the same credit risk exposure.
+
+119
+00:06:07,850 --> 00:06:12,089
+And the risk allocation framework acknowledges this systemic reality.
+
+120
+00:06:12,870 --> 00:06:16,290
+It shifts the focus from what asset you own to what risk you own.
+
+121
+00:06:16,870 --> 00:06:21,769
+It requires the manager to explicitly consider how investments contribute to or mitigate
+
+122
+00:06:21,769 --> 00:06:27,470
+risks like equity beta exposure, foreign currency fluctuations, or exposure to illiquidity.
+
+123
+00:06:27,870 --> 00:06:32,930
+So once you're operating under this RAF, how do institutions determine their policy goals
+
+124
+00:06:32,930 --> 00:06:33,870
+and measure success?
+
+125
+00:06:34,029 --> 00:06:36,310
+I mean, how do they avoid moving the goalposts?
+
+126
+00:06:36,310 --> 00:06:39,529
+The standard for success is raised significantly.
+
+127
+00:06:40,149 --> 00:06:45,589
+Policy goals have to be compared to a volatility equivalent simple stock bond portfolio.
+
+128
+00:06:45,750 --> 00:06:45,910
+OK.
+
+129
+00:06:45,910 --> 00:06:46,449
+What does that mean?
+
+130
+00:06:46,750 --> 00:06:52,089
+It means if your complicated, highly researched strategy has, say, a 10% expected volatility,
+
+131
+00:06:52,470 --> 00:06:56,209
+the objective is to add return over and above what you could have earned simply by investing
+
+132
+00:06:56,209 --> 00:07:00,269
+in a basic two asset stock bond portfolio that also has 10% volatility.
+
+133
+00:07:00,490 --> 00:07:02,449
+That forces massive transparency.
+
+134
+00:07:02,529 --> 00:07:04,529
+You can't just claim success because you made money.
+
+135
+00:07:04,529 --> 00:07:09,230
+You have to prove you added genuine alpha, not just compensated beta risk that was easily
+
+136
+00:07:09,230 --> 00:07:10,329
+achievable somewhere else.
+
+137
+00:07:10,750 --> 00:07:14,949
+And that framework requires dynamic monitoring to catch changes fast.
+
+138
+00:07:15,589 --> 00:07:20,230
+To spot spikes in risk sooner than conventional methods, they use this really interesting
+
+139
+00:07:20,230 --> 00:07:23,769
+solution called exponential weighting on historical data.
+
+140
+00:07:24,250 --> 00:07:26,029
+That's a fascinating technical detail.
+
+141
+00:07:26,350 --> 00:07:31,790
+Can you break down that system for us, the 24 monthly points with a 12-month half-life?
+
+142
+00:07:32,290 --> 00:07:32,629
+Sure.
+
+143
+00:07:33,189 --> 00:07:38,029
+Conventional methods treat data points from, say, 20 months ago and last month equally.
+
+144
+00:07:38,370 --> 00:07:39,649
+That's just slow to react.
+
+145
+00:07:40,269 --> 00:07:40,269
+
+
+146
+00:07:40,350 --> 00:07:41,889
+Existential weighting is like driving a car.
+
+147
+00:07:42,250 --> 00:07:42,410
+Yeah.
+
+148
+00:07:42,410 --> 00:07:45,709
+You care far more about the pothole you hit three seconds ago than the one you hit five
+
+149
+00:07:45,709 --> 00:07:46,269
+minutes ago.
+
+150
+00:07:46,750 --> 00:07:51,069
+The 12-month half-life means that data from a year ago is weighted only half as much as
+
+151
+00:07:51,069 --> 00:07:52,009
+the most recent data.
+
+152
+00:07:52,410 --> 00:07:55,610
+So it accelerates the decay of old information's relevance.
+
+153
+00:07:55,709 --> 00:07:59,449
+It lets the system capture current risk and volatility spikes much sooner.
+
+154
+00:08:00,209 --> 00:08:05,050
+If a manager starts quietly taking on more risk, this system flags that change in volatility
+
+155
+00:08:05,050 --> 00:08:06,050
+almost immediately.
+
+156
+00:08:06,509 --> 00:08:11,170
+And this focus on agility, on precise risk measurement, it becomes exponentially more
+
+157
+00:08:11,170 --> 00:08:15,970
+vital when we step into these complex illiquid asset classes where valuations aren't so
+
+158
+00:08:15,970 --> 00:08:16,470
+transparent.
+
+159
+00:08:16,889 --> 00:08:21,689
+Let's look at private equity, specifically the secondary market, which is now a massive
+
+160
+00:08:21,689 --> 00:08:22,769
+institutional segment.
+
+161
+00:08:22,769 --> 00:08:29,870
+We see three distinct structural strategies that really showcase a clear risk-return tradeoff.
+
+162
+00:08:30,189 --> 00:08:33,090
+It's a beautiful masterclass in customizing risk exposure.
+
+163
+00:08:33,570 --> 00:08:35,889
+At the top of the risk curve, you have traditional secondaries.
+
+164
+00:08:35,950 --> 00:08:40,110
+They are simply buying old fund stakes, taking full equity risk.
+
+165
+00:08:40,309 --> 00:08:43,230
+They have the highest potential return but also the highest volatility.
+
+166
+00:08:43,990 --> 00:08:46,450
+They're just fully exposed to the economic cycle.
+
+167
+00:08:46,690 --> 00:08:51,909
+Then we move down the curve to preferred capital strategies, which are becoming much more common.
+
+168
+00:08:51,909 --> 00:08:56,129
+How does that preferred equity structure actually mitigate the risk?
+
+169
+00:08:56,389 --> 00:08:59,690
+They trade some of that massive upside for explicit downside protection.
+
+170
+00:09:00,129 --> 00:09:03,049
+They use a preferred equity layer that gets paid out ahead of the general partners.
+
+171
+00:09:03,049 --> 00:09:03,529
+I see.
+
+172
+00:09:03,649 --> 00:09:10,950
+They aim for returns in the mid-teens, say, an IRR of 1.4x to 1.5x, but with significantly
+
+173
+00:09:10,950 --> 00:09:12,850
+lower volatility than traditional equity.
+
+174
+00:09:13,490 --> 00:09:17,789
+Their due diligence, it focuses heavily on metrics like low leverage and stable performance
+
+175
+00:09:17,789 --> 00:09:19,350
+in the underlying portfolio companies.
+
+176
+00:09:19,450 --> 00:09:21,529
+They need confidence in the quality of the cash flow.
+
+177
+00:09:21,529 --> 00:09:25,590
+Okay, so they sacrifice a little potential alpha for structural safety.
+
+178
+00:09:26,190 --> 00:09:31,850
+But at the absolute bottom of the risk spectrum, you have debt financing strategies in the
+
+179
+00:09:31,850 --> 00:09:32,669
+secondary market.
+
+180
+00:09:33,210 --> 00:09:38,509
+You call this the lowest risk structure, but aren't they just trade in market risk for
+
+181
+00:09:38,509 --> 00:09:39,070
+credit risk?
+
+182
+00:09:39,190 --> 00:09:43,789
+That's a great critical question, but their structure is designed to mitigate that credit
+
+183
+00:09:43,789 --> 00:09:45,149
+risk so aggressively.
+
+184
+00:09:45,750 --> 00:09:49,049
+These debt providers are focused solely on capital repayment.
+
+185
+00:09:49,689 --> 00:09:55,590
+They secure their investment with extreme downside protection tools like financial covenants
+
+186
+00:09:55,590 --> 00:10:00,629
+and demanding a very high asset cover, something like 5.0x asset cover.
+
+187
+00:10:00,929 --> 00:10:01,529
+Five times.
+
+188
+00:10:01,610 --> 00:10:02,350
+Yeah, five times.
+
+189
+00:10:02,690 --> 00:10:06,529
+So that level of safety essentially means repayment is guaranteed regardless of whether
+
+190
+00:10:06,529 --> 00:10:09,110
+the portfolio companies hit their growth targets or not.
+
+191
+00:10:09,269 --> 00:10:09,750
+Precisely.
+
+192
+00:10:09,909 --> 00:10:11,649
+They've effectively ring-fenced their capital.
+
+193
+00:10:11,929 --> 00:10:13,889
+The cost of this certainty is the lowest return.
+
+194
+00:10:13,889 --> 00:10:19,149
+They're targeting only a small multiple, maybe 1.1x with virtually no expected volatility.
+
+195
+00:10:19,330 --> 00:10:20,149
+It's a perfect spectrum.
+
+196
+00:10:20,450 --> 00:10:25,690
+It shows that institutional investors are using these complex structures to buy precisely
+
+197
+00:10:25,690 --> 00:10:30,409
+the risk profile they need, whether it's full equity exposure or pure capital preservation.
+
+198
+00:10:30,769 --> 00:10:35,409
+Okay, let's pivot to infrastructure and clean energy infrastructure, CEI.
+
+199
+00:10:35,649 --> 00:10:38,590
+These are long-term utility-like assets.
+
+200
+00:10:39,250 --> 00:10:42,990
+What are the unique risks here and the corresponding mitigation solutions?
+
+201
+00:10:43,950 --> 00:10:49,070
+For traditional regulated infrastructure, the primary risk is, well, regulatory risk.
+
+202
+00:10:49,409 --> 00:10:54,049
+Since the regulator sets the allowable return on equity, the utility's profitability is
+
+203
+00:10:54,049 --> 00:10:55,389
+tied to that third-party decision.
+
+204
+00:10:56,129 --> 00:11:00,190
+The mitigation solution is largely qualitative and surprisingly relationship-driven.
+
+205
+00:11:00,830 --> 00:11:05,330
+You foster a strong long-term relationship with the regulator by consistently demonstrating
+
+206
+00:11:05,330 --> 00:11:08,950
+maximized operational efficiency and superb service quality.
+
+207
+00:11:09,429 --> 00:11:11,450
+You want to be the least objectionable partner possible.
+
+208
+00:11:11,629 --> 00:11:12,570
+That makes perfect sense.
+
+209
+00:11:12,570 --> 00:11:16,389
+You manage the risk by managing the relationship, proving you're a good corporate citizen.
+
+210
+00:11:16,590 --> 00:11:20,070
+What about assets where usage volume is the risk, like a toll road?
+
+211
+00:11:20,409 --> 00:11:22,129
+That's pure volume or patronage risk.
+
+212
+00:11:22,929 --> 00:11:25,990
+And here, the mitigation is fiercely quantitative.
+
+213
+00:11:26,690 --> 00:11:30,830
+On acquisition, managers have to conduct robust sensitivity analysis.
+
+214
+00:11:31,710 --> 00:11:37,149
+The key detail here is that the analysis must allow for downside scenarios that are larger
+
+215
+00:11:37,149 --> 00:11:38,850
+than have historically been experienced.
+
+216
+00:11:38,889 --> 00:11:40,330
+You can't just rely on the past.
+
+217
+00:11:40,330 --> 00:11:46,149
+You cannot rely on the past 20 years of traffic data to predict the next big economic shock.
+
+218
+00:11:46,429 --> 00:11:48,990
+That echoes the philosophical point we're saving for the end.
+
+219
+00:11:49,450 --> 00:11:51,889
+Now, what about CEI, solar, wind?
+
+220
+00:11:52,210 --> 00:11:54,909
+Their risk is whether the sun shines or the wind blows.
+
+221
+00:11:55,269 --> 00:11:56,549
+That is production risk, yeah.
+
+222
+00:11:56,809 --> 00:12:01,090
+And wind power is notably more volatile than solar PV, which is relatively predictable.
+
+223
+00:12:01,629 --> 00:12:05,110
+To mitigate this, managers use extremely conservative planning assumptions.
+
+224
+00:12:05,409 --> 00:12:09,889
+Instead of assuming the P50 mean output, the expected average, they use the P90 production level.
+
+225
+00:12:09,889 --> 00:12:11,029
+The P90 level.
+
+226
+00:12:11,190 --> 00:12:15,289
+So that means they only assume a level of output that is 90% likely to be exceeded.
+
+227
+00:12:15,490 --> 00:12:17,090
+They're dramatically under-promising.
+
+228
+00:12:17,289 --> 00:12:17,669
+Exactly.
+
+229
+00:12:17,990 --> 00:12:21,970
+This drastically reduces the revenue assumption in the model, building in a huge buffer.
+
+230
+00:12:22,429 --> 00:12:25,789
+But the most important capital protection, it comes from the dual revenue stream.
+
+231
+00:12:26,070 --> 00:12:32,610
+Even if policy incentives like renewable energy credits or RECs are completely abolished,
+
+232
+00:12:32,889 --> 00:12:39,570
+an extreme adverse scenario, the ongoing revenues from the actual energy sales still provide
+
+233
+00:12:39,570 --> 00:12:41,070
+substantial capital protection.
+
+234
+00:12:41,149 --> 00:12:43,090
+They underwrite the invested capital.
+
+235
+00:12:43,549 --> 00:12:47,110
+The ability to sell electrons guarantees a floor under the investment.
+
+236
+00:12:47,490 --> 00:12:51,350
+We've covered market risk, we've covered asset risk, but let's look internally.
+
+237
+00:12:51,830 --> 00:12:57,070
+For large investors, a manager's operational failure, I mean, internal fraud, conflicts
+
+238
+00:12:57,070 --> 00:13:00,350
+of interest, that can be just as catastrophic as a market crash.
+
+239
+00:13:00,830 --> 00:13:05,029
+How do LPs protect themselves from the risk inherent in the people managing the money?
+
+240
+00:13:05,350 --> 00:13:08,769
+This is where rigorous operational due diligence or ODD comes in.
+
+241
+00:13:08,769 --> 00:13:13,529
+LPs use ODD to mitigate risks related to valuation practices, potential conflicts of interest,
+
+242
+00:13:13,549 --> 00:13:13,990
+for instance.
+
+243
+00:13:14,070 --> 00:13:18,289
+If a manager has a private undisclosed stake in a portfolio company, they are investing
+
+244
+00:13:18,289 --> 00:13:19,169
+client money into.
+
+245
+00:13:19,190 --> 00:13:19,850
+Oh, wow.
+
+246
+00:13:19,990 --> 00:13:24,110
+And crucial compliance issues like trading on material on public information, MMPI.
+
+247
+00:13:24,350 --> 00:13:28,629
+So ODD is essentially due diligence on the manager's character in their process, not
+
+248
+00:13:28,629 --> 00:13:30,029
+just their investment track record.
+
+249
+00:13:30,610 --> 00:13:35,950
+You need to know that the firm running your money has the internal integrity and the controls
+
+250
+00:13:35,950 --> 00:13:38,529
+to handle massive amounts of capital ethically.
+
+251
+00:13:38,529 --> 00:13:41,210
+It requires deep, structured investigation.
+
+252
+00:13:41,789 --> 00:13:46,269
+That includes a comprehensive background check covering the criminal, litigation, regulatory,
+
+253
+00:13:46,450 --> 00:13:48,250
+and media history of all key personnel.
+
+254
+00:13:49,029 --> 00:13:53,870
+The firm's entire organizational structure becomes as important as its portfolio construction
+
+255
+00:13:53,870 --> 00:13:54,350
+strategy.
+
+256
+00:13:54,610 --> 00:13:56,049
+Okay, switching gears to measurement.
+
+257
+00:13:56,730 --> 00:14:01,450
+With all these complex, bespoke strategies in private markets, comparing performance
+
+258
+00:14:01,450 --> 00:14:04,950
+across managers must be a statistical nightmare without a standard.
+
+259
+00:14:05,970 --> 00:14:07,009
+Standardization is absolutely critical.
+
+260
+00:14:07,090 --> 00:14:07,289
+Yeah.
+
+261
+00:14:07,289 --> 00:14:10,809
+And GIPs, the Global Investment Performance Standards, is the solution.
+
+262
+00:14:11,309 --> 00:14:16,690
+GPS provides rigorous guidelines specifically to ensure equitable and commensurate comparisons.
+
+263
+00:14:17,009 --> 00:14:19,090
+What are the key rules GIPs mandates?
+
+264
+00:14:19,250 --> 00:14:21,470
+Crucially, returns must be calculated net of fees.
+
+265
+00:14:21,950 --> 00:14:26,429
+And because the internal rate of return, the IRR, can be easily manipulated or misunderstood,
+
+266
+00:14:27,090 --> 00:14:31,830
+GIPs demands performance be presented using both IRR and the essential cash flow multiples.
+
+267
+00:14:32,169 --> 00:14:32,750
+Like DPI.
+
+268
+00:14:32,970 --> 00:14:33,409
+Exactly.
+
+269
+00:14:33,409 --> 00:14:40,190
+DPI, which is Distributions to Paid in Capital, TVPI, Total Value to Paid in, and RVPI, Residual
+
+270
+00:14:40,190 --> 00:14:40,629
+Value.
+
+271
+00:14:41,350 --> 00:14:45,750
+You need to know how much cash has actually been returned to you, which is what DPI tells
+
+272
+00:14:45,750 --> 00:14:48,070
+you, not just some theoretical rate of return.
+
+273
+00:14:48,309 --> 00:14:53,009
+And valuations must be on a fair value basis, which eliminates the old tricks of managers
+
+274
+00:14:53,009 --> 00:14:55,009
+holding assets that cost for way too long.
+
+275
+00:14:55,350 --> 00:14:55,830
+Precisely.
+
+276
+00:14:55,889 --> 00:14:57,610
+It forces honesty and comparability.
+
+277
+00:14:57,730 --> 00:15:02,990
+We've spent this entire deep dive discussing sophisticated quantitative models, frameworks,
+
+278
+00:15:02,990 --> 00:15:04,370
+due diligence processes.
+
+279
+00:15:04,870 --> 00:15:06,289
+We've been incredibly analytical.
+
+280
+00:15:06,350 --> 00:15:11,149
+But let's just step back for a final philosophical observation about the limitations of all of
+
+281
+00:15:11,149 --> 00:15:11,750
+these solutions.
+
+282
+00:15:12,190 --> 00:15:15,429
+This is, for me, the most profound lesson from the source material.
+
+283
+00:15:16,029 --> 00:15:20,470
+It's an acknowledgement that models, the CAPM, MVO, value at risk, or even the exponential
+
+284
+00:15:20,470 --> 00:15:23,929
+weighting we talked about, are merely abstractions removed from reality.
+
+285
+00:15:23,990 --> 00:15:24,809
+Just abstractions.
+
+286
+00:15:24,929 --> 00:15:26,490
+They're useful directional tools.
+
+287
+00:15:26,490 --> 00:15:28,029
+They help test conclusions.
+
+288
+00:15:28,629 --> 00:15:32,649
+But they are inherently structurally flawed because they rely on past data.
+
+289
+00:15:33,110 --> 00:15:35,929
+They cannot possibly account for never before seen events.
+
+290
+00:15:36,370 --> 00:15:39,970
+They give us a clear view of the road behind us, but no guarantee about the road ahead.
+
+291
+00:15:40,409 --> 00:15:43,190
+So true risk of management, therefore, must be forward looking.
+
+292
+00:15:43,409 --> 00:15:45,269
+It requires qualitative theory.
+
+293
+00:15:45,690 --> 00:15:51,549
+It requires the imagination to conceive of how the world may sentimentally change, like
+
+294
+00:15:51,549 --> 00:15:56,690
+a global pandemic or a new financial structure, and then taking proactive action accordingly
+
+295
+00:15:56,690 --> 00:15:58,990
+without waiting for the model to register a change.
+
+296
+00:15:59,389 --> 00:16:01,330
+So what does this all mean for you, our listener?
+
+297
+00:16:01,549 --> 00:16:05,850
+We've seen institutional finance move from simple asset buckets to these highly defined
+
+298
+00:16:05,850 --> 00:16:07,750
+actively managed risk budgets.
+
+299
+00:16:08,610 --> 00:16:12,789
+And it's driven by the absolute necessity of robustness when dealing with complex illiquid
+
+300
+00:16:12,789 --> 00:16:13,330
+assets.
+
+301
+00:16:13,789 --> 00:16:18,169
+We cover the theoretical stability of risk budgeting, the need for the risk allocation
+
+302
+00:16:18,169 --> 00:16:23,950
+framework to expose hidden risks like equity beta, and the practical downside protections
+
+303
+00:16:23,950 --> 00:16:28,870
+employed everywhere from secondary private equity funds to the conservative P90 output
+
+304
+00:16:28,870 --> 00:16:30,070
+assumptions in a solar farm.
+
+305
+00:16:30,429 --> 00:16:33,110
+And we end on that powerful grounding realization.
+
+306
+00:16:33,769 --> 00:16:38,049
+The core message here is not to trust the math, but to trust your judgment.
+
+307
+00:16:38,769 --> 00:16:43,190
+The sources state, reliance on models and extrapolation of the past into the future
+
+308
+00:16:43,190 --> 00:16:44,710
+is not risk management.
+
+309
+00:16:45,269 --> 00:16:50,370
+Understanding the limitations of past patterns and taking action accordingly, that is risk
+
+310
+00:16:50,370 --> 00:16:50,870
+management.
+
+311
+00:16:51,129 --> 00:16:52,529
+That is the ultimate challenge.
+
+312
+00:16:53,069 --> 00:16:56,970
+If you manage a complex portfolio, or even if you're just making large life decisions,
+
+313
+00:16:57,669 --> 00:17:02,429
+where are you relying too heavily on the predictable patterns of the past instead of actively using
+
+314
+00:17:02,429 --> 00:17:04,910
+your imagination to prepare for an unprecedented future?
+
+315
+00:17:05,609 --> 00:17:08,269
+Something critical for you to mull over until our next deep dive.
+
+316
+00:17:08,509 --> 00:17:09,769
+Thanks for guiding us through all this.
+
+317
+00:17:09,970 --> 00:17:10,450
+Always a pleasure.
+

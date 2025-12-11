@@ -1,0 +1,552 @@
+1
+00:00:00,000 --> 00:00:05,080
+All right, so Stanford's big annual AI index report just dropped, and it's pretty much
+
+2
+00:00:05,080 --> 00:00:07,620
+our best look at where we stand with artificial intelligence.
+
+3
+00:00:08,220 --> 00:00:11,460
+The 2024 edition really paints a picture of two things happening at once.
+
+4
+00:00:11,900 --> 00:00:16,359
+AI is moving forward at a dizzying speed, but it's also creating some really serious
+
+5
+00:00:16,359 --> 00:00:17,000
+new problems.
+
+6
+00:00:17,239 --> 00:00:19,539
+So let's dive in and break down what that actually means.
+
+7
+00:00:20,399 --> 00:00:24,480
+Okay, let's just kick things off with one number from the report that really jumps out.
+
+8
+00:00:24,480 --> 00:00:30,739
+Since 2013, the number of recorded AI incidents, we're talking about things like deep fakes,
+
+9
+00:00:31,039 --> 00:00:33,140
+big privacy breaches, major accidents.
+
+10
+00:00:33,640 --> 00:00:36,399
+That number has grown by more than 20 times.
+
+11
+00:00:36,880 --> 00:00:38,439
+That is not a small jump, you guys.
+
+12
+00:00:38,560 --> 00:00:40,179
+That is an absolute explosion.
+
+13
+00:00:41,200 --> 00:00:45,899
+And that number, it really gets to the core of this entire report.
+
+14
+00:00:46,500 --> 00:00:52,320
+AI is just developing so incredibly fast that we're all struggling to keep up with the
+
+15
+00:00:52,320 --> 00:00:52,840
+consequences.
+
+16
+00:00:53,680 --> 00:00:58,320
+The story of AI in 2024 is kind of like two stories happening at the same time.
+
+17
+00:00:58,799 --> 00:01:04,260
+On one hand, you have these incredible, unprecedented breakthroughs, and on the other, you have these
+
+18
+00:01:04,260 --> 00:01:07,099
+unprecedented risks popping up right alongside them.
+
+19
+00:01:07,780 --> 00:01:10,480
+So first up, let's talk about the speed.
+
+20
+00:01:10,680 --> 00:01:14,760
+I mean, the sheer pace of AI development right now is, it's just mind boggling.
+
+21
+00:01:15,000 --> 00:01:17,239
+It's really unlike anything we've ever seen before.
+
+22
+00:01:18,060 --> 00:01:20,500
+And look, this isn't just a gut feeling, right?
+
+23
+00:01:20,500 --> 00:01:22,700
+The data absolutely backs this up.
+
+24
+00:01:23,099 --> 00:01:26,000
+What we're looking at here is the raw output from the research community.
+
+25
+00:01:26,579 --> 00:01:30,180
+The number of papers getting published at AI conferences has more than doubled since
+
+26
+00:01:30,180 --> 00:01:30,680
+2010.
+
+27
+00:01:31,000 --> 00:01:33,920
+And just in the last year, it jumped over 30%.
+
+28
+00:01:33,920 --> 00:01:37,340
+The engine of AI innovation is just firing on all cylinders.
+
+29
+00:01:38,260 --> 00:01:42,719
+And all that research, it's leading to some truly wild new abilities.
+
+30
+00:01:43,200 --> 00:01:48,099
+We're talking stuff that honestly would have sounded like straight up science fiction just
+
+31
+00:01:48,099 --> 00:01:49,340
+a couple of years ago.
+
+32
+00:01:50,180 --> 00:01:54,219
+So a huge reason for this leap is something called multimodal AI.
+
+33
+00:01:54,719 --> 00:01:55,719
+Now what does that mean?
+
+34
+00:01:56,620 --> 00:01:59,959
+Well in simple terms, AI isn't just a one-trick pony anymore.
+
+35
+00:02:00,519 --> 00:02:02,680
+It's not just about text or just about images.
+
+36
+00:02:03,599 --> 00:02:08,180
+Now the heavy hitters can see, read, and listen all at the same time.
+
+37
+00:02:08,639 --> 00:02:11,900
+And that combination is unlocking some incredible new skills.
+
+38
+00:02:12,680 --> 00:02:14,419
+For example, check this out.
+
+39
+00:02:14,599 --> 00:02:16,419
+There's this model called MV Dream.
+
+40
+00:02:16,419 --> 00:02:22,120
+You can just type in a few words, like a bulldog wearing a black pirate hat, and boom, it spits
+
+41
+00:02:22,120 --> 00:02:23,539
+out a whole 3D model.
+
+42
+00:02:24,099 --> 00:02:26,060
+We're not just talking about flat images anymore.
+
+43
+00:02:26,400 --> 00:02:31,379
+This is AI creating entire virtual objects from scratch, just from a little bit of text.
+
+44
+00:02:32,180 --> 00:02:34,060
+But it's not just about creating stuff.
+
+45
+00:02:34,319 --> 00:02:36,520
+It's also about understanding it.
+
+46
+00:02:36,659 --> 00:02:38,639
+Take Meta's Segments Anything model.
+
+47
+00:02:38,960 --> 00:02:44,159
+It can look at a busy, complicated photo, and with this almost superhuman accuracy,
+
+48
+00:02:44,159 --> 00:02:46,699
+it can pick out every single object.
+
+49
+00:02:47,080 --> 00:02:50,939
+It knows that's the emu, that's its beak, that's the backpack, that's the person's
+
+50
+00:02:50,939 --> 00:02:51,960
+hand on the bottle.
+
+51
+00:02:52,139 --> 00:02:52,960
+It's incredible.
+
+52
+00:02:53,719 --> 00:02:55,919
+And this is where it gets really serious.
+
+53
+00:02:56,240 --> 00:02:56,939
+In a good way.
+
+54
+00:02:57,520 --> 00:03:01,060
+These new abilities have some profound, potentially life-saving uses.
+
+55
+00:03:01,599 --> 00:03:07,219
+A new model, Panda, can look at CT scans and find early signs of pancreatic cancer, which
+
+56
+00:03:07,219 --> 00:03:10,580
+is notoriously hard for even human doctors to spot.
+
+57
+00:03:11,000 --> 00:03:12,900
+So this isn't just a cool tech demo.
+
+58
+00:03:12,900 --> 00:03:17,900
+This could be a huge leap forward for science, and it could literally save lives.
+
+59
+00:03:18,900 --> 00:03:21,740
+Okay, so we've seen the amazing side of the coin.
+
+60
+00:03:22,000 --> 00:03:25,620
+But all this incredible progress has a flip side.
+
+61
+00:03:26,060 --> 00:03:31,340
+The report also points a huge spotlight on some deep, pretty worrying cracks that are
+
+62
+00:03:31,340 --> 00:03:34,240
+starting to show up in the very foundation of this tech.
+
+63
+00:03:35,000 --> 00:03:38,759
+And that leads us to this kind of weird, but super important question.
+
+64
+00:03:39,240 --> 00:03:41,879
+You know how AI is creating so much stuff online now?
+
+65
+00:03:41,879 --> 00:03:45,520
+Well, what happens when it starts training on its own creations?
+
+66
+00:03:46,000 --> 00:03:47,800
+Is it kind of eating its own tail?
+
+67
+00:03:48,560 --> 00:03:51,539
+This is a real thing, and it has a name.
+
+68
+00:03:51,900 --> 00:03:52,800
+Model collapse.
+
+69
+00:03:53,240 --> 00:03:57,060
+The best way to think about it is like making a photocopy of a photocopy.
+
+70
+00:03:57,479 --> 00:04:01,159
+You know how each new copy gets a little fuzzier, a little more degraded?
+
+71
+00:04:01,460 --> 00:04:02,979
+That's basically what's happening here.
+
+72
+00:04:03,280 --> 00:04:08,879
+When AI models are trained on other AI-generated data, they can start to lose touch with reality,
+
+73
+00:04:08,879 --> 00:04:12,340
+getting, well, blander and less accurate over time.
+
+74
+00:04:12,960 --> 00:04:15,259
+And you can literally see it happening right here.
+
+75
+00:04:15,460 --> 00:04:19,019
+So on the left, you've got the numbers from the original model trained on real stuff.
+
+76
+00:04:19,300 --> 00:04:23,139
+But watch what happens as it gets retrained on its own output, over and over.
+
+77
+00:04:23,500 --> 00:04:25,240
+All the variety just disappears.
+
+78
+00:04:25,839 --> 00:04:30,040
+By the time you get to the 20th generation, it's just this washed-out, repetitive mess,
+
+79
+00:04:30,339 --> 00:04:31,779
+a poor imitation of the original.
+
+80
+00:04:32,540 --> 00:04:34,699
+And you know what makes this whole thing even trinkier?
+
+81
+00:04:35,160 --> 00:04:37,220
+A serious lack of transparency.
+
+82
+00:04:38,020 --> 00:04:43,699
+This chart, it basically shows that most of the big-name AI models are closed source.
+
+83
+00:04:44,160 --> 00:04:47,180
+That means we have no idea what data they were trained on.
+
+84
+00:04:47,620 --> 00:04:52,019
+So how are researchers supposed to spot problems like model collapse if they can't even look
+
+85
+00:04:52,019 --> 00:04:52,560
+under the hood?
+
+86
+00:04:53,500 --> 00:04:56,500
+So okay, these technical problems are a big deal.
+
+87
+00:04:56,800 --> 00:04:58,500
+But the report doesn't stop there.
+
+88
+00:04:58,740 --> 00:04:59,540
+It goes deeper.
+
+89
+00:04:59,779 --> 00:05:04,319
+And it looks at how AI is already having a direct and sometimes pretty troubling impact
+
+90
+00:05:04,319 --> 00:05:06,240
+on all of us, on our society.
+
+91
+00:05:06,819 --> 00:05:08,759
+Let's talk about safety for a second.
+
+92
+00:05:09,220 --> 00:05:13,259
+We usually think of AI safety as just, you know, blocking it from answering obviously
+
+93
+00:05:13,259 --> 00:05:14,060
+bad questions.
+
+94
+00:05:14,420 --> 00:05:16,720
+But it turns out it's way more complicated than that.
+
+95
+00:05:17,319 --> 00:05:21,360
+Researchers found that you can feed a model a really long, gibberish prompt, and it can
+
+96
+00:05:21,360 --> 00:05:24,439
+actually trick the AI into bypassing its own safety filters.
+
+97
+00:05:24,959 --> 00:05:28,300
+It's a pretty stark reminder that these things don't really understand what they're doing
+
+98
+00:05:28,300 --> 00:05:29,220
+like a person does.
+
+99
+00:05:30,060 --> 00:05:34,040
+And that lack of real understanding can have some pretty dangerous results.
+
+100
+00:05:34,279 --> 00:05:35,100
+I mean, look at this.
+
+101
+00:05:35,100 --> 00:05:40,379
+When researchers asked leading chatbots about medicine and race, the models often just repeated
+
+102
+00:05:40,379 --> 00:05:45,500
+old debunked myths, like false ideas about skin thickness differences between races.
+
+103
+00:05:46,139 --> 00:05:50,579
+It's a perfect and frankly scary example of how biases in the training data can lead
+
+104
+00:05:50,579 --> 00:05:53,199
+to the AI spitting out harmful misinformation.
+
+105
+00:05:54,079 --> 00:05:55,860
+And this bias isn't just about facts.
+
+106
+00:05:55,899 --> 00:05:56,920
+It's cultural, too.
+
+107
+00:05:57,300 --> 00:05:57,959
+Check this out.
+
+108
+00:05:58,100 --> 00:06:02,759
+When an LLM was asked to pick between a good democracy and a strong economy, it overwhelmingly
+
+109
+00:06:02,759 --> 00:06:03,639
+chose democracy.
+
+110
+00:06:03,639 --> 00:06:06,899
+Now that lines up pretty well with opinions in the US and Europe.
+
+111
+00:06:07,259 --> 00:06:10,660
+But it doesn't match what people in many other parts of the world would say.
+
+112
+00:06:11,040 --> 00:06:14,699
+It just goes to show how these models are soaking up the cultural values of the people
+
+113
+00:06:14,699 --> 00:06:15,319
+who build them.
+
+114
+00:06:15,519 --> 00:06:19,319
+And that has huge implications for technology that's supposed to be for everyone all over
+
+115
+00:06:19,319 --> 00:06:19,639
+the globe.
+
+116
+00:06:20,899 --> 00:06:23,379
+So, with all of that, where do we go from here?
+
+117
+00:06:23,879 --> 00:06:29,959
+The report really paints a complicated, nuanced picture of what our future with AI looks like.
+
+118
+00:06:30,680 --> 00:06:35,680
+When you boil it all down, the 2024 AI index is telling us that AI isn't just one thing.
+
+119
+00:06:36,040 --> 00:06:37,000
+It's really two.
+
+120
+00:06:37,339 --> 00:06:40,360
+It's this amazing engine for progress and discovery.
+
+121
+00:06:40,740 --> 00:06:42,920
+And at the exact same time, it's a mirror.
+
+122
+00:06:43,300 --> 00:06:47,899
+A mirror that reflects all of our own biases, our weaknesses, and our societal flaws right
+
+123
+00:06:47,899 --> 00:06:48,720
+back in our faces.
+
+124
+00:06:49,540 --> 00:06:54,740
+And this two-sided nature of AI is forcing a much-needed global conversation about, you
+
+125
+00:06:54,740 --> 00:06:56,519
+know, how do we make sure these things are safe?
+
+126
+00:06:56,899 --> 00:06:57,920
+How do we trust them?
+
+127
+00:06:58,439 --> 00:07:03,220
+The report really highlights this growing demand for more transparency, for more responsibility,
+
+128
+00:07:03,620 --> 00:07:04,300
+from everyone.
+
+129
+00:07:04,800 --> 00:07:06,100
+Policymakers, the public.
+
+130
+00:07:06,600 --> 00:07:08,680
+We're all starting to ask for more accountability.
+
+131
+00:07:09,480 --> 00:07:11,839
+And that really brings us to the big takeaway here.
+
+132
+00:07:12,420 --> 00:07:14,800
+The tech itself, it's not good or bad.
+
+133
+00:07:15,199 --> 00:07:15,879
+It's a tool.
+
+134
+00:07:16,279 --> 00:07:17,019
+It's a reflection.
+
+135
+00:07:17,860 --> 00:07:22,180
+So, the ultimate question this report leaves us with isn't, will AI be good or bad?
+
+136
+00:07:22,779 --> 00:07:24,639
+The real question is, will we be?
+
+137
+00:07:25,139 --> 00:07:29,519
+It all comes down to the choices we make, the values we build into these systems, and
+
+138
+00:07:29,519 --> 00:07:31,240
+the kind of future we decide to create with it.
+

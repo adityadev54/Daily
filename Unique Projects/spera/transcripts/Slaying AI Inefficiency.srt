@@ -1,0 +1,240 @@
+1
+00:00:00,000 --> 00:00:05,580
+You know, in the world of artificial intelligence, there's this massive, hidden dragon that every
+
+2
+00:00:05,580 --> 00:00:11,199
+researcher, every company is desperately trying to slay. And it's not a lack of data or a shortage
+
+3
+00:00:11,199 --> 00:00:17,379
+of brilliant minds. No, it's something way more fundamental than that. So what is this dragon?
+
+4
+00:00:17,879 --> 00:00:22,039
+What's the one thing that's really holding back the next wave of AI breakthroughs? You know,
+
+5
+00:00:22,059 --> 00:00:26,399
+the stuff that could cure diseases or help solve climate change? Believe it or not,
+
+6
+00:00:26,399 --> 00:00:32,100
+The answer is kind of simple, almost mundane, really. It's inefficiency. The sheer amount of time
+
+7
+00:00:32,100 --> 00:00:37,159
+and computational power it takes to teach an AI model anything, it's just staggering. It's like
+
+8
+00:00:37,159 --> 00:00:41,759
+we're building these incredible superhighways, but forcing our AI to learn how to drive stuck in first
+
+9
+00:00:41,759 --> 00:00:48,299
+gear. So we keep throwing all this amazing hardware at the problem, but what if the problem isn't the
+
+10
+00:00:48,299 --> 00:00:53,299
+engine? What if it's the map we're using? The real breakthrough, it turns out, isn't just about
+
+11
+00:00:53,299 --> 00:00:58,920
+training harder, it's about training smarter. And that brings us to this whole quest for something
+
+12
+00:00:58,920 --> 00:01:04,000
+called optimization. I want you to think about it like this. Training an AI is like trying to find
+
+13
+00:01:04,000 --> 00:01:09,359
+the absolute lowest point in a massive, complicated mountain range, but you have to do it in a super
+
+14
+00:01:09,359 --> 00:01:14,340
+thick fog. So for years, the standard way we've done this is with something called first order
+
+15
+00:01:14,340 --> 00:01:19,780
+optimization. Okay, so you're in that foggy valley, you can't see a thing. All you can do is feel the
+
+16
+00:01:20,599 --> 00:01:26,739
+right where you're standing. So you take a small step downhill, feel the slope again, take another
+
+17
+00:01:26,739 --> 00:01:33,480
+step. It works eventually, but it's this slow plotting process. You might end up zigzagging down
+
+18
+00:01:33,480 --> 00:01:39,120
+a gentle slope for hours, and you'd completely miss a much steeper, way faster path that was just a
+
+19
+00:01:39,120 --> 00:01:45,439
+few feet away. But what if the fog lifted just a little? That's what second order optimization is
+
+20
+00:01:45,439 --> 00:01:50,280
+like. Instead of just feeling the slope right under your feet, you can now see the curvature of
+
+21
+00:01:50,280 --> 00:01:55,280
+the valley around you. You don't just see which way is down, you see how quickly it goes down.
+
+22
+00:01:55,620 --> 00:02:00,019
+You can see the whole shape of the terrain, which means you can aim directly for the bottom.
+
+23
+00:02:00,519 --> 00:02:06,280
+It is a total game changer. And you can literally see the difference here. On the left, first order
+
+24
+00:02:06,280 --> 00:02:11,199
+optimization sees the world in a straight line. It's looking at each piece of the puzzle on its own.
+
+25
+00:02:11,199 --> 00:02:16,800
+But over on the right, second order sees the whole picture, every single connection, every
+
+26
+00:02:16,800 --> 00:02:22,199
+relationship. It's the difference between looking at one single paving stone versus seeing the entire
+
+27
+00:02:22,199 --> 00:02:28,919
+map. Now, for a long, long time, being able to see that full map was just way too computationally
+
+28
+00:02:28,919 --> 00:02:33,819
+expensive. It was a beautiful idea in theory that just couldn't work in the real world with the
+
+29
+00:02:33,819 --> 00:02:40,099
+enormous AI models we use today. Until a new algorithm came along, one with a, well, a pretty
+
+30
+00:02:40,099 --> 00:02:47,400
+memorable name, to slay this dragon of inefficiency. It's called Shampoo. And its whole purpose is right
+
+31
+00:02:47,400 --> 00:02:53,460
+there in what its creators said. Shampoo was designed to bridge the gap. It finds this really
+
+32
+00:02:53,460 --> 00:02:58,860
+clever way to approximate that full map, all that second order information, but without the crippling
+
+33
+00:02:58,860 --> 00:03:04,020
+computational cost. It makes the power of seeing the whole terrain accessible for the very first
+
+34
+00:03:04,020 --> 00:03:09,139
+time at a massive scale. So how does it pull this off? Well, it's kind of like a brilliant
+
+35
+00:03:09,139 --> 00:03:14,240
+orchestra conductor. You've got the main GPU musicians playing the main melody, that's the AI
+
+36
+00:03:14,240 --> 00:03:19,199
+training, but Shampoo notices the CPU percussion section is just sitting there not doing much.
+
+37
+00:03:19,580 --> 00:03:23,840
+So it hands them a totally different piece of music, those complex map making calculations,
+
+38
+00:03:24,099 --> 00:03:28,759
+and tells them to play it at the same time. Nothing stops, nobody has to wait. It's just a
+
+39
+00:03:28,759 --> 00:03:39,120
+symphony of efficiency, using every part of the computer in perfect harmony. And all of this
+
+40
+00:03:39,120 --> 00:03:43,620
+speed up. We're not talking about a theoretical improvement here. This is about getting results
+
+41
+00:03:43,620 --> 00:03:48,580
+way faster. Researchers applied Shampoo to some of the largest, most complex models out there.
+
+42
+00:03:48,860 --> 00:03:53,479
+You know, models for machine translation, language understanding, ad prediction, and the results?
+
+43
+00:03:53,960 --> 00:04:00,259
+They were dramatic. And the results are just stunning. I mean, look at this. For a standard
+
+44
+00:04:00,259 --> 00:04:04,819
+transformer model, the kind that powers things like Google Translate, they didn't just shave off a
+
+45
+00:04:04,819 --> 00:04:10,919
+few minutes, they cut the training time nearly in half. And for the really big models, they saved
+
+46
+00:04:10,919 --> 00:04:18,139
+over 17 hours. That's not just an improvement, that's a revolution. Let that sink in. What this
+
+47
+00:04:18,139 --> 00:04:23,019
+means is that for some of the biggest, most important AI tasks in the world, we can now get
+
+48
+00:04:23,019 --> 00:04:27,699
+to the answer almost twice as fast. Just imagine what that does to the speed of discovery.
+
+49
+00:04:28,459 --> 00:04:34,600
+So this is way more than just a faster algorithm. This is about unlocking the future. When you can
+
+50
+00:04:34,600 --> 00:04:39,740
+dramatically reduce the time it takes to experiment and to innovate, you fundamentally change what's
+
+51
+00:04:39,740 --> 00:04:45,860
+even possible. So as we're emerging from that foggy valley, and we've got this much clearer map in
+
+52
+00:04:45,860 --> 00:04:51,379
+our hands, what are the key landmarks we should remember from this journey? Okay, first, remember
+
+53
+00:04:51,379 --> 00:04:56,360
+that one of AI's biggest dragons is just simple inefficiency, the time and the cost of training.
+
+54
+00:04:56,839 --> 00:05:01,680
+Second, the solution isn't always just more power. It's smarter methods like second order optimization
+
+55
+00:05:01,680 --> 00:05:06,120
+that give us a bird's eye view of the problem. And third, and this is the most important part,
+
+56
+00:05:06,540 --> 00:05:11,339
+making training faster means we accelerate the entire cycle of innovation, from a new idea
+
+57
+00:05:11,339 --> 00:05:17,139
+to a real breakthrough. Because this isn't just about faster computers. It's about faster cures.
+
+58
+00:05:17,480 --> 00:05:22,399
+It's about getting to a cancer treatment or a climate solution or a scientific discovery in half
+
+59
+00:05:22,399 --> 00:05:28,100
+the time. The real question isn't how much faster the AI can learn. It's how much faster we can build
+
+60
+00:05:28,100 --> 00:05:29,420
+a better world for everyone.
+

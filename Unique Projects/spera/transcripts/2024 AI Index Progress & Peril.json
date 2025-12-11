@@ -1,0 +1,984 @@
+{
+  "language": "en",
+  "duration_seconds": 451.24,
+  "duration_formatted": "07:31",
+  "full_transcript": "All right, so Stanford's big annual AI index report just dropped, and it's pretty much our best look at where we stand with artificial intelligence. The 2024 edition really paints a picture of two things happening at once. AI is moving forward at a dizzying speed, but it's also creating some really serious new problems. So let's dive in and break down what that actually means. Okay, let's just kick things off with one number from the report that really jumps out. Since 2013, the number of recorded AI incidents, we're talking about things like deep fakes, big privacy breaches, major accidents. That number has grown by more than 20 times. That is not a small jump, you guys. That is an absolute explosion. And that number, it really gets to the core of this entire report. AI is just developing so incredibly fast that we're all struggling to keep up with the consequences. The story of AI in 2024 is kind of like two stories happening at the same time. On one hand, you have these incredible, unprecedented breakthroughs, and on the other, you have these unprecedented risks popping up right alongside them. So first up, let's talk about the speed. I mean, the sheer pace of AI development right now is, it's just mind boggling. It's really unlike anything we've ever seen before. And look, this isn't just a gut feeling, right? The data absolutely backs this up. What we're looking at here is the raw output from the research community. The number of papers getting published at AI conferences has more than doubled since 2010. And just in the last year, it jumped over 30%. The engine of AI innovation is just firing on all cylinders. And all that research, it's leading to some truly wild new abilities. We're talking stuff that honestly would have sounded like straight up science fiction just a couple of years ago. So a huge reason for this leap is something called multimodal AI. Now what does that mean? Well in simple terms, AI isn't just a one-trick pony anymore. It's not just about text or just about images. Now the heavy hitters can see, read, and listen all at the same time. And that combination is unlocking some incredible new skills. For example, check this out. There's this model called MV Dream. You can just type in a few words, like a bulldog wearing a black pirate hat, and boom, it spits out a whole 3D model. We're not just talking about flat images anymore. This is AI creating entire virtual objects from scratch, just from a little bit of text. But it's not just about creating stuff. It's also about understanding it. Take Meta's Segments Anything model. It can look at a busy, complicated photo, and with this almost superhuman accuracy, it can pick out every single object. It knows that's the emu, that's its beak, that's the backpack, that's the person's hand on the bottle. It's incredible. And this is where it gets really serious. In a good way. These new abilities have some profound, potentially life-saving uses. A new model, Panda, can look at CT scans and find early signs of pancreatic cancer, which is notoriously hard for even human doctors to spot. So this isn't just a cool tech demo. This could be a huge leap forward for science, and it could literally save lives. Okay, so we've seen the amazing side of the coin. But all this incredible progress has a flip side. The report also points a huge spotlight on some deep, pretty worrying cracks that are starting to show up in the very foundation of this tech. And that leads us to this kind of weird, but super important question. You know how AI is creating so much stuff online now? Well, what happens when it starts training on its own creations? Is it kind of eating its own tail? This is a real thing, and it has a name. Model collapse. The best way to think about it is like making a photocopy of a photocopy. You know how each new copy gets a little fuzzier, a little more degraded? That's basically what's happening here. When AI models are trained on other AI-generated data, they can start to lose touch with reality, getting, well, blander and less accurate over time. And you can literally see it happening right here. So on the left, you've got the numbers from the original model trained on real stuff. But watch what happens as it gets retrained on its own output, over and over. All the variety just disappears. By the time you get to the 20th generation, it's just this washed-out, repetitive mess, a poor imitation of the original. And you know what makes this whole thing even trinkier? A serious lack of transparency. This chart, it basically shows that most of the big-name AI models are closed source. That means we have no idea what data they were trained on. So how are researchers supposed to spot problems like model collapse if they can't even look under the hood? So okay, these technical problems are a big deal. But the report doesn't stop there. It goes deeper. And it looks at how AI is already having a direct and sometimes pretty troubling impact on all of us, on our society. Let's talk about safety for a second. We usually think of AI safety as just, you know, blocking it from answering obviously bad questions. But it turns out it's way more complicated than that. Researchers found that you can feed a model a really long, gibberish prompt, and it can actually trick the AI into bypassing its own safety filters. It's a pretty stark reminder that these things don't really understand what they're doing like a person does. And that lack of real understanding can have some pretty dangerous results. I mean, look at this. When researchers asked leading chatbots about medicine and race, the models often just repeated old debunked myths, like false ideas about skin thickness differences between races. It's a perfect and frankly scary example of how biases in the training data can lead to the AI spitting out harmful misinformation. And this bias isn't just about facts. It's cultural, too. Check this out. When an LLM was asked to pick between a good democracy and a strong economy, it overwhelmingly chose democracy. Now that lines up pretty well with opinions in the US and Europe. But it doesn't match what people in many other parts of the world would say. It just goes to show how these models are soaking up the cultural values of the people who build them. And that has huge implications for technology that's supposed to be for everyone all over the globe. So, with all of that, where do we go from here? The report really paints a complicated, nuanced picture of what our future with AI looks like. When you boil it all down, the 2024 AI index is telling us that AI isn't just one thing. It's really two. It's this amazing engine for progress and discovery. And at the exact same time, it's a mirror. A mirror that reflects all of our own biases, our weaknesses, and our societal flaws right back in our faces. And this two-sided nature of AI is forcing a much-needed global conversation about, you know, how do we make sure these things are safe? How do we trust them? The report really highlights this growing demand for more transparency, for more responsibility, from everyone. Policymakers, the public. We're all starting to ask for more accountability. And that really brings us to the big takeaway here. The tech itself, it's not good or bad. It's a tool. It's a reflection. So, the ultimate question this report leaves us with isn't, will AI be good or bad? The real question is, will we be? It all comes down to the choices we make, the values we build into these systems, and the kind of future we decide to create with it.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.08,
+      "start_formatted": "00:00",
+      "end_formatted": "00:05",
+      "text": "All right, so Stanford's big annual AI index report just dropped, and it's pretty much"
+    },
+    {
+      "start": 5.08,
+      "end": 7.62,
+      "start_formatted": "00:05",
+      "end_formatted": "00:07",
+      "text": "our best look at where we stand with artificial intelligence."
+    },
+    {
+      "start": 8.22,
+      "end": 11.46,
+      "start_formatted": "00:08",
+      "end_formatted": "00:11",
+      "text": "The 2024 edition really paints a picture of two things happening at once."
+    },
+    {
+      "start": 11.9,
+      "end": 16.36,
+      "start_formatted": "00:11",
+      "end_formatted": "00:16",
+      "text": "AI is moving forward at a dizzying speed, but it's also creating some really serious"
+    },
+    {
+      "start": 16.36,
+      "end": 17.0,
+      "start_formatted": "00:16",
+      "end_formatted": "00:17",
+      "text": "new problems."
+    },
+    {
+      "start": 17.24,
+      "end": 19.54,
+      "start_formatted": "00:17",
+      "end_formatted": "00:19",
+      "text": "So let's dive in and break down what that actually means."
+    },
+    {
+      "start": 20.4,
+      "end": 24.48,
+      "start_formatted": "00:20",
+      "end_formatted": "00:24",
+      "text": "Okay, let's just kick things off with one number from the report that really jumps out."
+    },
+    {
+      "start": 24.48,
+      "end": 30.74,
+      "start_formatted": "00:24",
+      "end_formatted": "00:30",
+      "text": "Since 2013, the number of recorded AI incidents, we're talking about things like deep fakes,"
+    },
+    {
+      "start": 31.04,
+      "end": 33.14,
+      "start_formatted": "00:31",
+      "end_formatted": "00:33",
+      "text": "big privacy breaches, major accidents."
+    },
+    {
+      "start": 33.64,
+      "end": 36.4,
+      "start_formatted": "00:33",
+      "end_formatted": "00:36",
+      "text": "That number has grown by more than 20 times."
+    },
+    {
+      "start": 36.88,
+      "end": 38.44,
+      "start_formatted": "00:36",
+      "end_formatted": "00:38",
+      "text": "That is not a small jump, you guys."
+    },
+    {
+      "start": 38.56,
+      "end": 40.18,
+      "start_formatted": "00:38",
+      "end_formatted": "00:40",
+      "text": "That is an absolute explosion."
+    },
+    {
+      "start": 41.2,
+      "end": 45.9,
+      "start_formatted": "00:41",
+      "end_formatted": "00:45",
+      "text": "And that number, it really gets to the core of this entire report."
+    },
+    {
+      "start": 46.5,
+      "end": 52.32,
+      "start_formatted": "00:46",
+      "end_formatted": "00:52",
+      "text": "AI is just developing so incredibly fast that we're all struggling to keep up with the"
+    },
+    {
+      "start": 52.32,
+      "end": 52.84,
+      "start_formatted": "00:52",
+      "end_formatted": "00:52",
+      "text": "consequences."
+    },
+    {
+      "start": 53.68000000000001,
+      "end": 58.32,
+      "start_formatted": "00:53",
+      "end_formatted": "00:58",
+      "text": "The story of AI in 2024 is kind of like two stories happening at the same time."
+    },
+    {
+      "start": 58.8,
+      "end": 64.26,
+      "start_formatted": "00:58",
+      "end_formatted": "01:04",
+      "text": "On one hand, you have these incredible, unprecedented breakthroughs, and on the other, you have these"
+    },
+    {
+      "start": 64.26,
+      "end": 67.1,
+      "start_formatted": "01:04",
+      "end_formatted": "01:07",
+      "text": "unprecedented risks popping up right alongside them."
+    },
+    {
+      "start": 67.78,
+      "end": 70.48,
+      "start_formatted": "01:07",
+      "end_formatted": "01:10",
+      "text": "So first up, let's talk about the speed."
+    },
+    {
+      "start": 70.68,
+      "end": 74.76,
+      "start_formatted": "01:10",
+      "end_formatted": "01:14",
+      "text": "I mean, the sheer pace of AI development right now is, it's just mind boggling."
+    },
+    {
+      "start": 75.0,
+      "end": 77.24,
+      "start_formatted": "01:15",
+      "end_formatted": "01:17",
+      "text": "It's really unlike anything we've ever seen before."
+    },
+    {
+      "start": 78.06,
+      "end": 80.5,
+      "start_formatted": "01:18",
+      "end_formatted": "01:20",
+      "text": "And look, this isn't just a gut feeling, right?"
+    },
+    {
+      "start": 80.5,
+      "end": 82.7,
+      "start_formatted": "01:20",
+      "end_formatted": "01:22",
+      "text": "The data absolutely backs this up."
+    },
+    {
+      "start": 83.1,
+      "end": 86.0,
+      "start_formatted": "01:23",
+      "end_formatted": "01:26",
+      "text": "What we're looking at here is the raw output from the research community."
+    },
+    {
+      "start": 86.58,
+      "end": 90.18,
+      "start_formatted": "01:26",
+      "end_formatted": "01:30",
+      "text": "The number of papers getting published at AI conferences has more than doubled since"
+    },
+    {
+      "start": 90.18,
+      "end": 90.68,
+      "start_formatted": "01:30",
+      "end_formatted": "01:30",
+      "text": "2010."
+    },
+    {
+      "start": 91.0,
+      "end": 93.92,
+      "start_formatted": "01:31",
+      "end_formatted": "01:33",
+      "text": "And just in the last year, it jumped over 30%."
+    },
+    {
+      "start": 93.92,
+      "end": 97.34,
+      "start_formatted": "01:33",
+      "end_formatted": "01:37",
+      "text": "The engine of AI innovation is just firing on all cylinders."
+    },
+    {
+      "start": 98.26,
+      "end": 102.72,
+      "start_formatted": "01:38",
+      "end_formatted": "01:42",
+      "text": "And all that research, it's leading to some truly wild new abilities."
+    },
+    {
+      "start": 103.2,
+      "end": 108.1,
+      "start_formatted": "01:43",
+      "end_formatted": "01:48",
+      "text": "We're talking stuff that honestly would have sounded like straight up science fiction just"
+    },
+    {
+      "start": 108.1,
+      "end": 109.34,
+      "start_formatted": "01:48",
+      "end_formatted": "01:49",
+      "text": "a couple of years ago."
+    },
+    {
+      "start": 110.18,
+      "end": 114.22,
+      "start_formatted": "01:50",
+      "end_formatted": "01:54",
+      "text": "So a huge reason for this leap is something called multimodal AI."
+    },
+    {
+      "start": 114.72,
+      "end": 115.72,
+      "start_formatted": "01:54",
+      "end_formatted": "01:55",
+      "text": "Now what does that mean?"
+    },
+    {
+      "start": 116.62,
+      "end": 119.96,
+      "start_formatted": "01:56",
+      "end_formatted": "01:59",
+      "text": "Well in simple terms, AI isn't just a one-trick pony anymore."
+    },
+    {
+      "start": 120.52,
+      "end": 122.68,
+      "start_formatted": "02:00",
+      "end_formatted": "02:02",
+      "text": "It's not just about text or just about images."
+    },
+    {
+      "start": 123.6,
+      "end": 128.18,
+      "start_formatted": "02:03",
+      "end_formatted": "02:08",
+      "text": "Now the heavy hitters can see, read, and listen all at the same time."
+    },
+    {
+      "start": 128.64,
+      "end": 131.9,
+      "start_formatted": "02:08",
+      "end_formatted": "02:11",
+      "text": "And that combination is unlocking some incredible new skills."
+    },
+    {
+      "start": 132.68,
+      "end": 134.42,
+      "start_formatted": "02:12",
+      "end_formatted": "02:14",
+      "text": "For example, check this out."
+    },
+    {
+      "start": 134.6,
+      "end": 136.42,
+      "start_formatted": "02:14",
+      "end_formatted": "02:16",
+      "text": "There's this model called MV Dream."
+    },
+    {
+      "start": 136.42,
+      "end": 142.12,
+      "start_formatted": "02:16",
+      "end_formatted": "02:22",
+      "text": "You can just type in a few words, like a bulldog wearing a black pirate hat, and boom, it spits"
+    },
+    {
+      "start": 142.12,
+      "end": 143.54,
+      "start_formatted": "02:22",
+      "end_formatted": "02:23",
+      "text": "out a whole 3D model."
+    },
+    {
+      "start": 144.1,
+      "end": 146.06,
+      "start_formatted": "02:24",
+      "end_formatted": "02:26",
+      "text": "We're not just talking about flat images anymore."
+    },
+    {
+      "start": 146.4,
+      "end": 151.38,
+      "start_formatted": "02:26",
+      "end_formatted": "02:31",
+      "text": "This is AI creating entire virtual objects from scratch, just from a little bit of text."
+    },
+    {
+      "start": 152.18,
+      "end": 154.06,
+      "start_formatted": "02:32",
+      "end_formatted": "02:34",
+      "text": "But it's not just about creating stuff."
+    },
+    {
+      "start": 154.32,
+      "end": 156.52,
+      "start_formatted": "02:34",
+      "end_formatted": "02:36",
+      "text": "It's also about understanding it."
+    },
+    {
+      "start": 156.66,
+      "end": 158.64,
+      "start_formatted": "02:36",
+      "end_formatted": "02:38",
+      "text": "Take Meta's Segments Anything model."
+    },
+    {
+      "start": 158.96,
+      "end": 164.16,
+      "start_formatted": "02:38",
+      "end_formatted": "02:44",
+      "text": "It can look at a busy, complicated photo, and with this almost superhuman accuracy,"
+    },
+    {
+      "start": 164.16,
+      "end": 166.7,
+      "start_formatted": "02:44",
+      "end_formatted": "02:46",
+      "text": "it can pick out every single object."
+    },
+    {
+      "start": 167.08,
+      "end": 170.94,
+      "start_formatted": "02:47",
+      "end_formatted": "02:50",
+      "text": "It knows that's the emu, that's its beak, that's the backpack, that's the person's"
+    },
+    {
+      "start": 170.94,
+      "end": 171.96,
+      "start_formatted": "02:50",
+      "end_formatted": "02:51",
+      "text": "hand on the bottle."
+    },
+    {
+      "start": 172.14,
+      "end": 172.96,
+      "start_formatted": "02:52",
+      "end_formatted": "02:52",
+      "text": "It's incredible."
+    },
+    {
+      "start": 173.72,
+      "end": 175.92,
+      "start_formatted": "02:53",
+      "end_formatted": "02:55",
+      "text": "And this is where it gets really serious."
+    },
+    {
+      "start": 176.24,
+      "end": 176.94,
+      "start_formatted": "02:56",
+      "end_formatted": "02:56",
+      "text": "In a good way."
+    },
+    {
+      "start": 177.52,
+      "end": 181.06,
+      "start_formatted": "02:57",
+      "end_formatted": "03:01",
+      "text": "These new abilities have some profound, potentially life-saving uses."
+    },
+    {
+      "start": 181.6,
+      "end": 187.22,
+      "start_formatted": "03:01",
+      "end_formatted": "03:07",
+      "text": "A new model, Panda, can look at CT scans and find early signs of pancreatic cancer, which"
+    },
+    {
+      "start": 187.22,
+      "end": 190.58,
+      "start_formatted": "03:07",
+      "end_formatted": "03:10",
+      "text": "is notoriously hard for even human doctors to spot."
+    },
+    {
+      "start": 191.0,
+      "end": 192.9,
+      "start_formatted": "03:11",
+      "end_formatted": "03:12",
+      "text": "So this isn't just a cool tech demo."
+    },
+    {
+      "start": 192.9,
+      "end": 197.9,
+      "start_formatted": "03:12",
+      "end_formatted": "03:17",
+      "text": "This could be a huge leap forward for science, and it could literally save lives."
+    },
+    {
+      "start": 198.9,
+      "end": 201.74,
+      "start_formatted": "03:18",
+      "end_formatted": "03:21",
+      "text": "Okay, so we've seen the amazing side of the coin."
+    },
+    {
+      "start": 202.0,
+      "end": 205.62,
+      "start_formatted": "03:22",
+      "end_formatted": "03:25",
+      "text": "But all this incredible progress has a flip side."
+    },
+    {
+      "start": 206.06,
+      "end": 211.34,
+      "start_formatted": "03:26",
+      "end_formatted": "03:31",
+      "text": "The report also points a huge spotlight on some deep, pretty worrying cracks that are"
+    },
+    {
+      "start": 211.34,
+      "end": 214.24,
+      "start_formatted": "03:31",
+      "end_formatted": "03:34",
+      "text": "starting to show up in the very foundation of this tech."
+    },
+    {
+      "start": 215.0,
+      "end": 218.76,
+      "start_formatted": "03:35",
+      "end_formatted": "03:38",
+      "text": "And that leads us to this kind of weird, but super important question."
+    },
+    {
+      "start": 219.24,
+      "end": 221.88,
+      "start_formatted": "03:39",
+      "end_formatted": "03:41",
+      "text": "You know how AI is creating so much stuff online now?"
+    },
+    {
+      "start": 221.88,
+      "end": 225.52,
+      "start_formatted": "03:41",
+      "end_formatted": "03:45",
+      "text": "Well, what happens when it starts training on its own creations?"
+    },
+    {
+      "start": 226.0,
+      "end": 227.8,
+      "start_formatted": "03:46",
+      "end_formatted": "03:47",
+      "text": "Is it kind of eating its own tail?"
+    },
+    {
+      "start": 228.56,
+      "end": 231.54,
+      "start_formatted": "03:48",
+      "end_formatted": "03:51",
+      "text": "This is a real thing, and it has a name."
+    },
+    {
+      "start": 231.9,
+      "end": 232.8,
+      "start_formatted": "03:51",
+      "end_formatted": "03:52",
+      "text": "Model collapse."
+    },
+    {
+      "start": 233.24,
+      "end": 237.06,
+      "start_formatted": "03:53",
+      "end_formatted": "03:57",
+      "text": "The best way to think about it is like making a photocopy of a photocopy."
+    },
+    {
+      "start": 237.48,
+      "end": 241.16,
+      "start_formatted": "03:57",
+      "end_formatted": "04:01",
+      "text": "You know how each new copy gets a little fuzzier, a little more degraded?"
+    },
+    {
+      "start": 241.46,
+      "end": 242.98,
+      "start_formatted": "04:01",
+      "end_formatted": "04:02",
+      "text": "That's basically what's happening here."
+    },
+    {
+      "start": 243.28,
+      "end": 248.88,
+      "start_formatted": "04:03",
+      "end_formatted": "04:08",
+      "text": "When AI models are trained on other AI-generated data, they can start to lose touch with reality,"
+    },
+    {
+      "start": 248.88,
+      "end": 252.34,
+      "start_formatted": "04:08",
+      "end_formatted": "04:12",
+      "text": "getting, well, blander and less accurate over time."
+    },
+    {
+      "start": 252.96,
+      "end": 255.26,
+      "start_formatted": "04:12",
+      "end_formatted": "04:15",
+      "text": "And you can literally see it happening right here."
+    },
+    {
+      "start": 255.46,
+      "end": 259.02,
+      "start_formatted": "04:15",
+      "end_formatted": "04:19",
+      "text": "So on the left, you've got the numbers from the original model trained on real stuff."
+    },
+    {
+      "start": 259.3,
+      "end": 263.14,
+      "start_formatted": "04:19",
+      "end_formatted": "04:23",
+      "text": "But watch what happens as it gets retrained on its own output, over and over."
+    },
+    {
+      "start": 263.5,
+      "end": 265.24,
+      "start_formatted": "04:23",
+      "end_formatted": "04:25",
+      "text": "All the variety just disappears."
+    },
+    {
+      "start": 265.84,
+      "end": 270.04,
+      "start_formatted": "04:25",
+      "end_formatted": "04:30",
+      "text": "By the time you get to the 20th generation, it's just this washed-out, repetitive mess,"
+    },
+    {
+      "start": 270.34,
+      "end": 271.78,
+      "start_formatted": "04:30",
+      "end_formatted": "04:31",
+      "text": "a poor imitation of the original."
+    },
+    {
+      "start": 272.54,
+      "end": 274.7,
+      "start_formatted": "04:32",
+      "end_formatted": "04:34",
+      "text": "And you know what makes this whole thing even trinkier?"
+    },
+    {
+      "start": 275.16,
+      "end": 277.22,
+      "start_formatted": "04:35",
+      "end_formatted": "04:37",
+      "text": "A serious lack of transparency."
+    },
+    {
+      "start": 278.02000000000004,
+      "end": 283.7,
+      "start_formatted": "04:38",
+      "end_formatted": "04:43",
+      "text": "This chart, it basically shows that most of the big-name AI models are closed source."
+    },
+    {
+      "start": 284.16,
+      "end": 287.18,
+      "start_formatted": "04:44",
+      "end_formatted": "04:47",
+      "text": "That means we have no idea what data they were trained on."
+    },
+    {
+      "start": 287.62,
+      "end": 292.02,
+      "start_formatted": "04:47",
+      "end_formatted": "04:52",
+      "text": "So how are researchers supposed to spot problems like model collapse if they can't even look"
+    },
+    {
+      "start": 292.02,
+      "end": 292.56,
+      "start_formatted": "04:52",
+      "end_formatted": "04:52",
+      "text": "under the hood?"
+    },
+    {
+      "start": 293.5,
+      "end": 296.5,
+      "start_formatted": "04:53",
+      "end_formatted": "04:56",
+      "text": "So okay, these technical problems are a big deal."
+    },
+    {
+      "start": 296.8,
+      "end": 298.5,
+      "start_formatted": "04:56",
+      "end_formatted": "04:58",
+      "text": "But the report doesn't stop there."
+    },
+    {
+      "start": 298.74,
+      "end": 299.54,
+      "start_formatted": "04:58",
+      "end_formatted": "04:59",
+      "text": "It goes deeper."
+    },
+    {
+      "start": 299.78,
+      "end": 304.32,
+      "start_formatted": "04:59",
+      "end_formatted": "05:04",
+      "text": "And it looks at how AI is already having a direct and sometimes pretty troubling impact"
+    },
+    {
+      "start": 304.32,
+      "end": 306.24,
+      "start_formatted": "05:04",
+      "end_formatted": "05:06",
+      "text": "on all of us, on our society."
+    },
+    {
+      "start": 306.82,
+      "end": 308.76,
+      "start_formatted": "05:06",
+      "end_formatted": "05:08",
+      "text": "Let's talk about safety for a second."
+    },
+    {
+      "start": 309.22,
+      "end": 313.26,
+      "start_formatted": "05:09",
+      "end_formatted": "05:13",
+      "text": "We usually think of AI safety as just, you know, blocking it from answering obviously"
+    },
+    {
+      "start": 313.26,
+      "end": 314.06,
+      "start_formatted": "05:13",
+      "end_formatted": "05:14",
+      "text": "bad questions."
+    },
+    {
+      "start": 314.42,
+      "end": 316.72,
+      "start_formatted": "05:14",
+      "end_formatted": "05:16",
+      "text": "But it turns out it's way more complicated than that."
+    },
+    {
+      "start": 317.32,
+      "end": 321.36,
+      "start_formatted": "05:17",
+      "end_formatted": "05:21",
+      "text": "Researchers found that you can feed a model a really long, gibberish prompt, and it can"
+    },
+    {
+      "start": 321.36,
+      "end": 324.44,
+      "start_formatted": "05:21",
+      "end_formatted": "05:24",
+      "text": "actually trick the AI into bypassing its own safety filters."
+    },
+    {
+      "start": 324.96,
+      "end": 328.3,
+      "start_formatted": "05:24",
+      "end_formatted": "05:28",
+      "text": "It's a pretty stark reminder that these things don't really understand what they're doing"
+    },
+    {
+      "start": 328.3,
+      "end": 329.22,
+      "start_formatted": "05:28",
+      "end_formatted": "05:29",
+      "text": "like a person does."
+    },
+    {
+      "start": 330.06,
+      "end": 334.04,
+      "start_formatted": "05:30",
+      "end_formatted": "05:34",
+      "text": "And that lack of real understanding can have some pretty dangerous results."
+    },
+    {
+      "start": 334.28,
+      "end": 335.1,
+      "start_formatted": "05:34",
+      "end_formatted": "05:35",
+      "text": "I mean, look at this."
+    },
+    {
+      "start": 335.1,
+      "end": 340.38,
+      "start_formatted": "05:35",
+      "end_formatted": "05:40",
+      "text": "When researchers asked leading chatbots about medicine and race, the models often just repeated"
+    },
+    {
+      "start": 340.38,
+      "end": 345.5,
+      "start_formatted": "05:40",
+      "end_formatted": "05:45",
+      "text": "old debunked myths, like false ideas about skin thickness differences between races."
+    },
+    {
+      "start": 346.14,
+      "end": 350.58,
+      "start_formatted": "05:46",
+      "end_formatted": "05:50",
+      "text": "It's a perfect and frankly scary example of how biases in the training data can lead"
+    },
+    {
+      "start": 350.58,
+      "end": 353.2,
+      "start_formatted": "05:50",
+      "end_formatted": "05:53",
+      "text": "to the AI spitting out harmful misinformation."
+    },
+    {
+      "start": 354.08,
+      "end": 355.86,
+      "start_formatted": "05:54",
+      "end_formatted": "05:55",
+      "text": "And this bias isn't just about facts."
+    },
+    {
+      "start": 355.9,
+      "end": 356.92,
+      "start_formatted": "05:55",
+      "end_formatted": "05:56",
+      "text": "It's cultural, too."
+    },
+    {
+      "start": 357.3,
+      "end": 357.96,
+      "start_formatted": "05:57",
+      "end_formatted": "05:57",
+      "text": "Check this out."
+    },
+    {
+      "start": 358.1,
+      "end": 362.76,
+      "start_formatted": "05:58",
+      "end_formatted": "06:02",
+      "text": "When an LLM was asked to pick between a good democracy and a strong economy, it overwhelmingly"
+    },
+    {
+      "start": 362.76,
+      "end": 363.64,
+      "start_formatted": "06:02",
+      "end_formatted": "06:03",
+      "text": "chose democracy."
+    },
+    {
+      "start": 363.64,
+      "end": 366.9,
+      "start_formatted": "06:03",
+      "end_formatted": "06:06",
+      "text": "Now that lines up pretty well with opinions in the US and Europe."
+    },
+    {
+      "start": 367.26,
+      "end": 370.66,
+      "start_formatted": "06:07",
+      "end_formatted": "06:10",
+      "text": "But it doesn't match what people in many other parts of the world would say."
+    },
+    {
+      "start": 371.04,
+      "end": 374.7,
+      "start_formatted": "06:11",
+      "end_formatted": "06:14",
+      "text": "It just goes to show how these models are soaking up the cultural values of the people"
+    },
+    {
+      "start": 374.7,
+      "end": 375.32,
+      "start_formatted": "06:14",
+      "end_formatted": "06:15",
+      "text": "who build them."
+    },
+    {
+      "start": 375.52,
+      "end": 379.32,
+      "start_formatted": "06:15",
+      "end_formatted": "06:19",
+      "text": "And that has huge implications for technology that's supposed to be for everyone all over"
+    },
+    {
+      "start": 379.32,
+      "end": 379.64,
+      "start_formatted": "06:19",
+      "end_formatted": "06:19",
+      "text": "the globe."
+    },
+    {
+      "start": 380.9,
+      "end": 383.38,
+      "start_formatted": "06:20",
+      "end_formatted": "06:23",
+      "text": "So, with all of that, where do we go from here?"
+    },
+    {
+      "start": 383.88,
+      "end": 389.96,
+      "start_formatted": "06:23",
+      "end_formatted": "06:29",
+      "text": "The report really paints a complicated, nuanced picture of what our future with AI looks like."
+    },
+    {
+      "start": 390.68,
+      "end": 395.68,
+      "start_formatted": "06:30",
+      "end_formatted": "06:35",
+      "text": "When you boil it all down, the 2024 AI index is telling us that AI isn't just one thing."
+    },
+    {
+      "start": 396.04,
+      "end": 397.0,
+      "start_formatted": "06:36",
+      "end_formatted": "06:37",
+      "text": "It's really two."
+    },
+    {
+      "start": 397.34,
+      "end": 400.36,
+      "start_formatted": "06:37",
+      "end_formatted": "06:40",
+      "text": "It's this amazing engine for progress and discovery."
+    },
+    {
+      "start": 400.74,
+      "end": 402.92,
+      "start_formatted": "06:40",
+      "end_formatted": "06:42",
+      "text": "And at the exact same time, it's a mirror."
+    },
+    {
+      "start": 403.3,
+      "end": 407.9,
+      "start_formatted": "06:43",
+      "end_formatted": "06:47",
+      "text": "A mirror that reflects all of our own biases, our weaknesses, and our societal flaws right"
+    },
+    {
+      "start": 407.9,
+      "end": 408.72,
+      "start_formatted": "06:47",
+      "end_formatted": "06:48",
+      "text": "back in our faces."
+    },
+    {
+      "start": 409.54,
+      "end": 414.74,
+      "start_formatted": "06:49",
+      "end_formatted": "06:54",
+      "text": "And this two-sided nature of AI is forcing a much-needed global conversation about, you"
+    },
+    {
+      "start": 414.74,
+      "end": 416.52,
+      "start_formatted": "06:54",
+      "end_formatted": "06:56",
+      "text": "know, how do we make sure these things are safe?"
+    },
+    {
+      "start": 416.9,
+      "end": 417.92,
+      "start_formatted": "06:56",
+      "end_formatted": "06:57",
+      "text": "How do we trust them?"
+    },
+    {
+      "start": 418.44,
+      "end": 423.22,
+      "start_formatted": "06:58",
+      "end_formatted": "07:03",
+      "text": "The report really highlights this growing demand for more transparency, for more responsibility,"
+    },
+    {
+      "start": 423.62,
+      "end": 424.3,
+      "start_formatted": "07:03",
+      "end_formatted": "07:04",
+      "text": "from everyone."
+    },
+    {
+      "start": 424.8,
+      "end": 426.1,
+      "start_formatted": "07:04",
+      "end_formatted": "07:06",
+      "text": "Policymakers, the public."
+    },
+    {
+      "start": 426.6,
+      "end": 428.68,
+      "start_formatted": "07:06",
+      "end_formatted": "07:08",
+      "text": "We're all starting to ask for more accountability."
+    },
+    {
+      "start": 429.48,
+      "end": 431.84,
+      "start_formatted": "07:09",
+      "end_formatted": "07:11",
+      "text": "And that really brings us to the big takeaway here."
+    },
+    {
+      "start": 432.42,
+      "end": 434.8,
+      "start_formatted": "07:12",
+      "end_formatted": "07:14",
+      "text": "The tech itself, it's not good or bad."
+    },
+    {
+      "start": 435.2,
+      "end": 435.88,
+      "start_formatted": "07:15",
+      "end_formatted": "07:15",
+      "text": "It's a tool."
+    },
+    {
+      "start": 436.28,
+      "end": 437.02,
+      "start_formatted": "07:16",
+      "end_formatted": "07:17",
+      "text": "It's a reflection."
+    },
+    {
+      "start": 437.86,
+      "end": 442.18,
+      "start_formatted": "07:17",
+      "end_formatted": "07:22",
+      "text": "So, the ultimate question this report leaves us with isn't, will AI be good or bad?"
+    },
+    {
+      "start": 442.78,
+      "end": 444.64,
+      "start_formatted": "07:22",
+      "end_formatted": "07:24",
+      "text": "The real question is, will we be?"
+    },
+    {
+      "start": 445.14,
+      "end": 449.52,
+      "start_formatted": "07:25",
+      "end_formatted": "07:29",
+      "text": "It all comes down to the choices we make, the values we build into these systems, and"
+    },
+    {
+      "start": 449.52,
+      "end": 451.24,
+      "start_formatted": "07:29",
+      "end_formatted": "07:31",
+      "text": "the kind of future we decide to create with it."
+    }
+  ],
+  "chapters": [
+    {
+      "start": 0,
+      "start_formatted": "00:00",
+      "title": "All right, so Stanford's big annual AI index report just...",
+      "text_preview": "All right, so Stanford's big annual AI index report just dropped, and it's pretty much our best look at where we stand with artificial intelligence. The 2024 edition really paints a picture of two thi",
+      "number": 1
+    }
+  ],
+  "word_count": 1351
+}
